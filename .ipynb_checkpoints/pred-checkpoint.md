@@ -1,0 +1,16 @@
+### Bologna - Udinese
+- [v] No Goal
+- [v] Under 3.5
+- [v] Result 1X 
+
+### Monza - Lazio
+- No Goal
+- Result X2
+
+### Spezia - Salernitana
+- Result X
+
+### Roma - Sampdoria
+- Result 1X
+- No Goal
+- Under 3.5
