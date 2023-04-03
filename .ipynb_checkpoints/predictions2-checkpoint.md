@@ -1,23 +1,23 @@
 ### Cremonese - Atalanta
-    - Over 1.5
+    - [v] Over 1.5
 ### Inter - Fiorentina
-    - Over 1.5
+    - [x] Over 1.5
 ### Juventus - Verona
-    - Under 3.5
+    - [v] Under 3.5
 ### Bologna - Udinese
-    - Over 1.5
+    - [v] Over 1.5
 ### Monza - Lazio
-    - Under 3.5
-    - No goal
+    - [v] Under 3.5
+    - [v] No goal
 ### Spezia - Salernitana
-    - Over 1.5
-    - Over 2.5
+    - [v] Over 1.5
+    - [x] Over 2.5
 ### Roma - Sampdoria
-    - Under 3.5
-    - No goal
+    - [v] Under 3.5
+    - [v] No goal
 ### Napoli - Milan
-    - Over 1.5
-    - Goal
+    - [v] Over 1.5
+    - [x] Goal
 ### Lecce - Empoli
     - Over 1.5
     - Goal
