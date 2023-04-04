@@ -4,7 +4,13 @@ By leverging historical data from the current season, it is possible to identify
 Combining these insights with an intuitive visualization it is possible to use this notebook to have an overview over possible trends, past key metrics to try to predict the outcome of an upcoming match.
 
 ### How to use the notebook
-The magic happpens in this [notebook](Analysis.ipynb).
+The magic happpens in this [notebook](Analysis.ipynb). Just scroll though the code to see intuitive graphs such as these ones.
+
+![No Goal - Leicster](./images/nogoal-leicster.png)
+
+![Result Trend - Leicster](./images/resulttrend-leicster.png)
+
+
 It is enough to change the teams and competion under **Configuration** and then execute all cells and get the various metrics.
 
 ### Env file
