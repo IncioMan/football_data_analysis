@@ -4,7 +4,19 @@
     - 2
     
 #### Lecce - Napoli
+    - Goal
+    - 2
+    
 #### Milan - Empoli
+    - No Goal ?
+    - 1 (> 1.5)
+    
+#### Torino - Roma
+    - Goal
+    
+#### Verona - Sassuolo
+    - Goal
+    - X2
     
 #### Udinese - Monza
     - Squadra 1 scores
