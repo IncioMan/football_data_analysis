@@ -21,4 +21,14 @@
 #### Tottenham - Brighton: Goal
     - Goal. Il Tottenham concede molti goal al group home, con alte perc di no goal perchè non segna. Il brighton concede a sua volta molti goal, e sa segnare anche contro le squadre grandi (group)
     
+#### Leicester - Bournemouth: NO
+    - Molto probabile Leic segnerà, ma 50% Bourn no, quindi difficile dire se goal/nogoal
+    
+#### Southampton - Man City: Goal
+    - Goal: Man City ha una streak group in cui ha sbuito goal away, e il southampton nel 65% dei casi ha segnato group home
+    
+    
+#### Liverpool - Arsenal: X2 (No Goal?)
+    - No Goal: 100% group away no goal subiti dall'arsenal. Anche se il Liverpool tende a segnare spesso soprattutto in casa grp (100%) e vs gpr 85%
+    - 2: le vince tutte vs group away
     
