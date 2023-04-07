@@ -24,7 +24,8 @@ Just scroll though the code to see intuitive graphs such as these ones.
 ![Wins VS Group](./images/wins-vs-group.png)
 ### Example 2: Result trends for a specific team
 ![Result Trend - Leicster](./images/resulttrend-leicster.png)
-### Example 3: No Goal results against teams from the same standing group (home or away)
+
+### Example 3: No Goal results against teams from the same standing group (home or away)
 ![NoGoal](./images/nogoal.png)
 
 
