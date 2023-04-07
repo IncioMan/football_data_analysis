@@ -3,7 +3,8 @@ By leverging historical data from the current season, it is possible to identify
 
 Combining these insights with an intuitive visualization it is possible to use this notebook to have an overview over possible trends, past key metrics to try to predict the outcome of an upcoming match.
 
-### How to use the notebook
+##
+# How to use the notebook
 The magic happpens in this [notebook](Analysis.ipynb). 
 
 The first part of the notebook precalculates metrics for the different dimensions, teams, groups, home/away etc.
@@ -19,11 +20,15 @@ It is enough to change the teams and competion under **Match Analysis** and then
 
 Just scroll though the code to see intuitive graphs such as these ones.
 
-![No Goal - Leicster](./images/nogoal-leicster.png)
-
+#### Wins against teams from the same standing group
+![Wins VS Group](./images/wins-vs-group.png)
+#### Result trends for a specific team
 ![Result Trend - Leicster](./images/resulttrend-leicster.png)
+#### No Goal results against teams from the same standing group (home or away)
+![NoGoal](./images/nogoal.png)
 
 
+## Technicalities
 ### Env file
 It is also necessary to create a .env file with a token to query the [api.football-data.org](https://www.football-data.org/) APIs.
 
