@@ -28,6 +28,8 @@ Just scroll though the code to see intuitive graphs such as these ones.
 ### Example 3: No Goal results against teams from the same standing group (home or away)
 ![NoGoal](./images/nogoal.png)
 
+### Fun Exploration
+I use this [notebook](explore.ipynb) to investigate outliers, particular trends, exceptionally performing teams. Just for fun.
 
 ## Technicalities
 ### Env file
