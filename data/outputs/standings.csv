@@ -45,11 +45,11 @@ position,playedGames,form,won,draw,lost,points,goalsFor,goalsAgainst,goalDiffere
 6,27,"W,W,D,W,W",13,5,9,44,34,24,10,Villarreal,0,La Liga
 7,27,"D,W,L,D,L",10,7,10,37,36,28,8,Ath Bilbao,0,La Liga
 8,27,"D,D,L,D,L",9,10,8,37,32,31,1,Vallecano,1,La Liga
-9,28,"L,D,W,W,D",9,8,11,35,34,38,-4,Celta,1,La Liga
+9,28,"D,D,W,W,D",9,9,10,36,36,39,-3,Celta,1,La Liga
 10,27,"D,L,L,D,W",9,8,10,35,22,27,-5,Osasuna,1,La Liga
 11,27,"W,D,L,L,W",9,7,11,34,42,42,0,Girona,1,La Liga
-12,28,"W,W,L,W,L",9,7,12,34,32,42,-10,Sevilla,1,La Liga
-13,27,"D,L,D,L,L",9,6,12,33,22,27,-5,Mallorca,1,La Liga
+12,27,"D,L,D,L,L",9,6,12,33,22,27,-5,Mallorca,1,La Liga
+13,28,"D,W,L,W,L",8,8,12,32,33,44,-11,Sevilla,1,La Liga
 14,27,"D,W,D,W,L",7,9,11,30,27,34,-7,Getafe,1,La Liga
 15,27,"L,D,D,D,W",6,10,11,28,21,40,-19,Cadiz,2,La Liga
 16,27,"L,L,D,W,L",8,4,15,28,20,44,-24,Valladolid,2,La Liga
