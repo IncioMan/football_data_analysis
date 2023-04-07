@@ -30,6 +30,13 @@ Just scroll though the code to see intuitive graphs such as these ones.
 
 ### Fun Exploration
 I use this [notebook](explore.ipynb) to investigate outliers, particular trends, exceptionally performing teams. Just for fun.
+For example, out of all the considered championships, we can look at metrics such as:
+- Teams with highest delta average goals for-against
+- Teams with highest delta average goals for-against, with top tier teams in their championship
+- Teams with highest NO GOAL percentage of matches
+- Teams with highest percentage of GOAL matches
+- Teams with imporvements in NO GOAL looking at recent trends
+
 
 ## Technicalities
 ### Env file
