@@ -20,11 +20,11 @@ It is enough to change the teams and competion under **Match Analysis** and then
 
 Just scroll though the code to see intuitive graphs such as these ones.
 
-#### Wins against teams from the same standing group
+### Wins against teams from the same standing group
 ![Wins VS Group](./images/wins-vs-group.png)
-#### Result trends for a specific team
+### Result trends for a specific team
 ![Result Trend - Leicster](./images/resulttrend-leicster.png)
-#### No Goal results against teams from the same standing group (home or away)
+### No Goal results against teams from the same standing group (home or away)
 ![NoGoal](./images/nogoal.png)
 
 
