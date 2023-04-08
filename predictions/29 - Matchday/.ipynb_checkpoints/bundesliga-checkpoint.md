@@ -1,17 +1,17 @@
 #### Dortmund - Union Berlin
-    - 1(X)
-    - Goal
+    - [v] 1(X)
+    - [v] Goal
     
 #### Freiburg - Bayern Munich
-    - Goal
-    - Over 1.5
+    - [x] Goal
+    - [x] Over 1.5
     
 #### Mainz - Werder
-    - 1X
-    - Over 1.5
+    - [x] 1
+    - [v] Over 1.5
     
 #### Leverkusen - Frankfurt
-    - Over 1.5
+    - [v] Over 1.5
     
 #### Hertha - RB Leipzig
     - Over 1.5

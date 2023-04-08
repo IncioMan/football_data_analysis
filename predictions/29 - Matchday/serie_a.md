@@ -1,37 +1,37 @@
 #### Salernitana - Inter
-    - Under 3.5
-    - No Goal
-    - 2
+    - [v] Under 3.5
+    - [x] No Goal
+    - [x] 2
     
 #### Lecce - Napoli
-    - Goal
-    - 2
+    - [v] Goal
+    - [v] 2
     
 #### Milan - Empoli
-    - No Goal ?
-    - 1 (> 1.5)
+    - [v] No Goal ?
+    - [x] 1 (> 1.5)
     
 #### Torino - Roma
-    - Goal
+    - [x] Goal
     
 #### Verona - Sassuolo
-    - Goal
-    - X2
+    - [v] Goal
+    - [x] X2
     
 #### Udinese - Monza
-    - Squadra 1 scores
-    - Squadra 2 scores
-    - Goal
-    - Under 3.5
+    - [v] Squadra 1 scores
+    - [v] Squadra 2 scores
+    - [v] Goal
+    - [x] Under 3.5
     
 #### Fiorentina - Spezia
-    - Over 0.5
-    - Squadra 1 scores
-    - Result 1X
+    - [v] Over 0.5
+    - [v] Squadra 1 scores
+    - [v] Result 1X
     
 #### Atalanta - Bologna
-    - Squadra 1 scores
-    - Result 1X
+    - [x] Squadra 1 scores
+    - [x] Result 1X
     
 #### Lazio - Juventus
     - No Goal
