@@ -47,7 +47,7 @@
 - Wins group è in discesa per inter
 - Contiamo Inter tra 2 turni champions e Monza elettrizzata dalla prestazione in campionato con Udinese
    
-#### Lecce - Sampdoria: NoGoal (?)
+#### Lecce - Sampdoria: NO
 - No Goal:
     - Overall: Lecce in crescita vs un 50%. Samp stabile a 60%
     - Group: Lecce in crescita vs da 50 a 65%. Samp stabile a 55%
@@ -61,3 +61,34 @@
 - Troppo imprevedibile: 
     forse NO GOAL data l'importanza dei punti salvezza e gli attacchi scarsi 
     ma le difese in generale più solide
+
+#### Torino - Salernitana: NO
+- No Goal:
+    - Overall: Torino in crescita trend ma cmq sotto al 50%. Salernitana in legg discesa ma vicino a 45%
+    - Group: idem as above
+    - Home: Torino passa da 60 a 50 con streak, quindi aumento goal. Salern away group stabile 60%
+- Has Scored:
+    - Group: Torino stabile 85, Sal in salita trend da 60 a 70
+- Has Conceded:
+    - Group: 80 sal e 60 torino
+- Wins:
+    - Group Torino in calo 50-40, Salernitana in crescita 10-20
+- Draw:
+    - Torino streak che ha aumentato % draws vs group in casada 40% a 50%
+- Outcome:
+    - Si potrebbe azzardare un Goal visti i trend, ma magari un over 1.5 è più safe
+    - Come risultato difficile, il trend da chance a salernitana ma torino è solido e a caccia di punti
+#### Sassuolo - Juventus: NoGoal
+- No Goal:
+    - Overall: Juve stabile 75%. Sass in leggera decrescita, cmq intorno 45%
+    - Group: Entrambi leggermente scesi ma cmq 75% e 50%
+    - Group Home/Away: qui il trend è crescente, entrambe da 66% a 75%. Però solo 6 e 3 match
+- Has Scored:
+    - Group: Sass in trend, da 55 a 63. Juve stabile 80%
+    - Group Home il sass al 50% ha segnato ma partite vecchie. difesa juve rodata
+- Has Conceded:
+    - Group: 80 sass (leggera salita) e 40 juv
+- Outcome:
+    - In generale No Goal è quello più safe. 
+        Unico dubbio sono i due turni champions prima e dopo questa
+        è anche vero che NoGoal può anche voler dire che segna il sass e la juve no perchè distratta

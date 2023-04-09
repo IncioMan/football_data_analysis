@@ -27,52 +27,52 @@ position,playedGames,form,won,draw,lost,points,goalsFor,goalsAgainst,goalDiffere
 6,27,"W,W,W,W,W",13,4,10,43,51,41,10,Leverkusen,0,Bundesliga
 7,27,"L,D,L,D,D",11,8,8,41,48,40,8,Ein Frankfurt,0,Bundesliga
 8,27,"D,W,D,D,W",11,8,8,41,45,38,7,Mainz,1,Bundesliga
-9,26,"D,W,D,D,W",10,9,7,39,46,34,12,Wolfsburg,1,Bundesliga
-10,26,"D,D,L,D,L",8,8,10,32,40,44,-4,M'gladbach,1,Bundesliga
+9,27,"L,D,W,D,D",10,9,8,39,46,36,10,Wolfsburg,1,Bundesliga
+10,27,"W,D,D,L,D",9,8,10,35,42,44,-2,M'gladbach,1,Bundesliga
 11,27,"D,L,D,L,L",9,5,13,32,42,52,-10,Werder Bremen,1,Bundesliga
 12,27,"W,D,L,L,D",7,10,10,31,36,45,-9,FC Koln,1,Bundesliga
 13,27,"L,D,D,L,W",8,5,14,29,35,50,-15,Augsburg,1,Bundesliga
-14,26,"D,W,W,L,L",8,2,16,26,28,57,-29,Bochum,1,Bundesliga
-15,26,"W,W,L,L,L",7,4,15,25,35,46,-11,Hoffenheim,2,Bundesliga
-16,27,"L,D,L,D,L",5,7,15,22,31,50,-19,Hertha,2,Bundesliga
-17,26,"L,D,D,W,W",4,9,13,21,21,48,-27,Schalke 04,2,Bundesliga
-18,26,"L,L,D,L,L",4,8,14,20,29,45,-16,Stuttgart,2,Bundesliga
+14,27,"W,W,W,L,L",8,4,15,28,37,46,-9,Hoffenheim,1,Bundesliga
+15,27,"L,D,W,W,L",8,2,17,26,30,60,-30,Bochum,2,Bundesliga
+16,27,"W,L,L,D,L",5,8,14,23,32,47,-15,Stuttgart,2,Bundesliga
+17,27,"L,D,L,D,L",5,7,15,22,31,50,-19,Hertha,2,Bundesliga
+18,27,"L,L,D,D,W",4,9,14,21,21,50,-29,Schalke 04,2,Bundesliga
 1,27,"W,W,W,W,L",23,2,2,71,53,9,44,Barcelona,0,La Liga
 2,28,"L,W,L,W,D",18,5,5,59,59,24,35,Real Madrid,0,La Liga
-3,27,"W,W,W,W,D",16,6,5,54,43,19,24,Ath Madrid,0,La Liga
+3,28,"W,W,W,W,W",17,6,5,57,45,19,26,Ath Madrid,0,La Liga
 4,28,"W,L,W,D,D",15,6,7,51,37,26,11,Sociedad,0,La Liga
 5,28,"W,W,W,D,W",14,5,9,47,37,26,11,Villarreal,0,La Liga
-6,27,"L,W,D,D,W",13,6,8,45,34,27,7,Betis,0,La Liga
+6,28,"L,L,W,D,D",13,6,9,45,34,29,5,Betis,0,La Liga
 7,28,"W,D,W,L,D",11,7,10,40,38,29,9,Ath Bilbao,0,La Liga
 8,28,"W,D,L,L,D",10,8,10,38,24,28,-4,Osasuna,1,La Liga
-9,27,"D,D,L,D,L",9,10,8,37,32,31,1,Vallecano,1,La Liga
+9,28,"L,D,D,L,D",9,10,9,37,32,33,-1,Vallecano,1,La Liga
 10,28,"D,D,W,W,D",9,9,10,36,36,39,-3,Celta,1,La Liga
 11,27,"W,D,L,L,W",9,7,11,34,42,42,0,Girona,1,La Liga
-12,27,"D,L,D,L,L",9,6,12,33,22,27,-5,Mallorca,1,La Liga
+12,28,"D,D,L,D,L",9,7,12,34,25,30,-5,Mallorca,1,La Liga
 13,28,"D,W,L,W,L",8,8,12,32,33,44,-11,Sevilla,1,La Liga
-14,28,"L,D,W,D,W",7,9,12,30,27,36,-9,Getafe,1,La Liga
-15,27,"L,D,D,D,W",6,10,11,28,21,40,-19,Cadiz,2,La Liga
-16,27,"L,L,D,W,L",8,4,15,28,20,44,-24,Valladolid,2,La Liga
-17,27,"D,L,W,L,W",7,6,14,27,29,32,-3,Valencia,2,La Liga
-18,28,"L,L,L,L,L",6,9,13,27,34,46,-12,Espanol,2,La Liga
-19,27,"D,D,L,L,W",7,6,14,27,32,47,-15,Almeria,2,La Liga
+14,28,"W,L,D,D,D",7,10,11,31,23,40,-17,Cadiz,1,La Liga
+15,28,"L,D,W,D,W",7,9,12,30,27,36,-9,Getafe,2,La Liga
+16,28,"W,D,D,L,L",8,6,14,30,34,48,-14,Almeria,2,La Liga
+17,28,"D,L,L,D,W",8,5,15,29,23,47,-24,Valladolid,2,La Liga
+18,28,"L,D,L,W,L",7,6,15,27,30,34,-4,Valencia,2,La Liga
+19,28,"L,L,L,L,L",6,9,13,27,34,46,-12,Espanol,2,La Liga
 20,28,"L,L,L,D,W",2,7,19,13,20,57,-37,Elche,2,La Liga
-1,29,"W,W,W,W,W",23,3,3,72,70,27,43,Arsenal,0,Premier League
+1,30,"D,W,W,W,W",23,4,3,73,72,29,43,Arsenal,0,Premier League
 2,29,"W,W,W,W,W",21,4,4,67,75,27,48,Man City,0,Premier League
 3,29,"W,W,W,W,W",15,11,3,56,48,21,27,Newcastle,0,Premier League
 4,29,"W,W,L,D,L",17,5,7,56,44,37,7,Man United,0,Premier League
 5,30,"W,D,D,W,L",16,5,9,53,55,42,13,Tottenham,0,Premier League
 6,30,"W,W,W,W,D",14,5,11,47,41,40,1,Aston Villa,0,Premier League
 7,28,"L,W,D,W,D",13,7,8,46,52,36,16,Brighton,0,Premier League
-8,28,"D,L,L,W,W",12,7,9,43,48,33,15,Liverpool,1,Premier League
+8,29,"D,D,L,L,W",12,8,9,44,50,35,15,Liverpool,1,Premier League
 9,30,"L,L,D,D,W",10,13,7,43,47,40,7,Brentford,1,Premier League
 10,29,"L,L,L,L,D",11,6,12,39,39,40,-1,Fulham,1,Premier League
 11,30,"L,D,L,D,W",10,9,11,39,29,31,-2,Chelsea,1,Premier League
-12,30,"W,D,L,L,W",8,7,15,31,24,42,-18,Wolves,1,Premier League
-13,29,"W,L,W,D,L",8,6,15,30,27,39,-12,West Ham,1,Premier League
-14,29,"W,L,L,L,L",7,9,13,30,24,39,-15,Crystal Palace,1,Premier League
+12,30,"W,W,L,L,L",8,9,13,33,29,40,-11,Crystal Palace,1,Premier League
+13,30,"W,D,L,L,W",8,7,15,31,24,42,-18,Wolves,1,Premier League
+14,29,"W,L,W,D,L",8,6,15,30,27,39,-12,West Ham,1,Premier League
 15,30,"W,L,W,L,W",8,6,16,30,28,57,-29,Bournemouth,2,Premier League
-16,29,"W,L,W,D,L",7,8,14,29,38,49,-11,Leeds,2,Premier League
+16,30,"L,W,L,W,D",7,8,15,29,39,54,-15,Leeds,2,Premier League
 17,30,"L,D,D,W,D",6,9,15,27,23,43,-20,Everton,2,Premier League
 18,30,"L,L,D,L,L",6,9,15,27,24,54,-30,Nott'm Forest,2,Premier League
 19,30,"L,L,L,D,L",7,4,19,25,40,52,-12,Leicester,2,Premier League
