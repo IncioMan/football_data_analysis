@@ -16,7 +16,7 @@
 - è vero che la Lazio lotta per la champions e Spezia per salvezza, 
   quindi magari un under 3.5 con X2 sperando che la Lazio non si distragga come al solito
 
-#### Bologna - Milan: 1X NoGoal
+#### Bologna - Milan: 1X + NoGoal
 - No Goal:
     - Trend crescente overall Bologna 50%
     - e anche del milan, ma siamo sul 40% -> forse più solidità in difesa ultimamente (ritorno maignan)
@@ -28,7 +28,7 @@
 - Contiamo Milan tra 2 turni champions e Bologna elettrizzata dal campionato è vittoria con Atalanta
 - Azzardato 1X NoGoal - vista la forma del bologna, le distrazioni del milan ma la solidità delle due formazioni
 
-#### Napoli - Verona: 1 NoGoal
+#### Napoli - Verona: 1 + NoGoal
 - No Goal:
     - Napoli overall in crescita fino a 70%. Verona crescita fino a 50%. Più solidi?
     - Napoli vs grouppo in crescita fino a 80%. Verona crescita fino a 60%. Più solidi?
@@ -47,7 +47,7 @@
 - Wins group è in discesa per inter
 - Contiamo Inter tra 2 turni champions e Monza elettrizzata dalla prestazione in campionato con Udinese
    
-#### Lecce - Sampdoria: NO GOAL (?)
+#### Lecce - Sampdoria: NoGoal (?)
 - No Goal:
     - Overall: Lecce in crescita vs un 50%. Samp stabile a 60%
     - Group: Lecce in crescita vs da 50 a 65%. Samp stabile a 55%
