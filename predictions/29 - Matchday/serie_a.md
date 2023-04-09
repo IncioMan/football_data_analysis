@@ -34,6 +34,6 @@
     - [x] Result 1X
     
 #### Lazio - Juventus
-    - No Goal
-    - Under 3.5
-    - 1
+    - [x] No Goal
+    - [v] Under 3.5
+    - [v] 1
