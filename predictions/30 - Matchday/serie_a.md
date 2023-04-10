@@ -78,6 +78,7 @@
 - Outcome:
     - Si potrebbe azzardare un Goal visti i trend, ma magari un over 1.5 è più safe
     - Come risultato difficile, il trend da chance a salernitana ma torino è solido e a caccia di punti
+
 #### Sassuolo - Juventus: NoGoal
 - No Goal:
     - Overall: Juve stabile 75%. Sass in leggera decrescita, cmq intorno 45%
@@ -92,6 +93,7 @@
     - In generale No Goal è quello più safe. 
         Unico dubbio sono i due turni champions prima e dopo questa
         è anche vero che NoGoal può anche voler dire che segna il sass e la juve no perchè distratta
+
 #### Roma - Udinese: NoGoal
 - No Goal:
     - Overall: non altissimi, roma 55 e udin 40

@@ -1032,7 +1032,7 @@ Celta,Espanol,2,False,True,4,2,home,Draw,True,1.0,Goal,True,La Liga,19,28,"L,L,L
 Valladolid,Villarreal,0,True,False,3,3,home,Loss,False,1.0,No Goal,True,La Liga,5,28,"W,W,W,D,W",14,5,9,47,37,26,11,Villarreal,0
 Barcelona,Vallecano,0,True,False,0,0,home,Draw,False,1.0,No Goal,False,La Liga,9,28,"L,D,D,L,D",9,10,9,37,33,33,0,Vallecano,1
 Cadiz,Sociedad,0,True,False,1,1,home,Loss,False,1.0,No Goal,True,La Liga,4,28,"W,L,W,D,D",15,6,7,51,37,26,11,Sociedad,0
-Valencia,Girona,1,True,False,1,0,home,Win,True,1.0,No Goal,False,La Liga,11,27,"W,D,L,L,W",9,7,11,34,42,42,0,Girona,1
+Valencia,Girona,1,True,False,1,0,home,Win,True,1.0,No Goal,False,La Liga,11,28,"D,W,D,L,L",9,8,11,35,42,42,0,Girona,1
 Almeria,Real Madrid,1,False,True,3,2,home,Loss,True,1.0,Goal,True,La Liga,2,28,"L,W,L,W,D",18,5,5,59,59,24,35,Real Madrid,0
 Ath Bilbao,Mallorca,0,True,False,0,0,home,Draw,False,1.0,No Goal,False,La Liga,12,28,"D,D,L,D,L",9,7,12,34,25,30,-5,Mallorca,1
 Getafe,Ath Madrid,0,True,False,3,3,home,Loss,False,1.0,No Goal,True,La Liga,3,28,"W,W,W,W,W",17,6,5,57,45,20,25,Ath Madrid,0
@@ -1044,7 +1044,7 @@ Mallorca,Betis,1,False,True,3,2,home,Loss,True,2.0,Goal,True,La Liga,6,28,"L,L,W
 Celta,Real Madrid,1,False,True,5,4,home,Loss,True,2.0,Goal,True,La Liga,2,28,"L,W,L,W,D",18,5,5,59,59,24,35,Real Madrid,0
 Ath Bilbao,Valencia,1,True,False,1,0,home,Win,True,2.0,No Goal,False,La Liga,18,28,"L,D,L,W,L",7,6,15,27,30,34,-4,Valencia,2
 Ath Madrid,Villarreal,0,True,False,2,2,home,Loss,False,2.0,No Goal,True,La Liga,5,28,"W,W,W,D,W",14,5,9,47,37,26,11,Villarreal,0
-Sociedad,Barcelona,1,False,True,5,4,home,Loss,True,2.0,Goal,True,La Liga,1,27,"W,W,W,W,L",23,2,2,71,53,9,44,Barcelona,0
+Sociedad,Barcelona,1,False,True,5,4,home,Loss,True,2.0,Goal,True,La Liga,1,28,"D,W,W,W,W",23,3,2,72,53,9,44,Barcelona,0
 Elche,Almeria,1,False,True,2,1,home,Draw,True,2.0,Goal,True,La Liga,16,28,"W,D,D,L,L",8,6,14,30,34,48,-14,Almeria,2
 Girona,Getafe,3,False,True,4,1,home,Win,True,2.0,Goal,True,La Liga,15,28,"L,D,W,D,W",7,9,12,30,27,36,-9,Getafe,2
 Girona,Celta,0,True,False,1,1,home,Loss,False,3.0,No Goal,True,La Liga,10,28,"D,D,W,W,D",9,9,10,36,36,39,-3,Celta,1
@@ -1058,10 +1058,10 @@ Espanol,Real Madrid,1,False,True,4,3,home,Loss,True,3.0,Goal,True,La Liga,2,28,"
 Cadiz,Ath Bilbao,0,True,False,4,4,home,Loss,False,3.0,No Goal,True,La Liga,7,28,"W,D,W,L,D",11,7,10,40,38,29,9,Ath Bilbao,0
 Valencia,Ath Madrid,0,True,False,1,1,home,Loss,False,3.0,No Goal,True,La Liga,3,28,"W,W,W,W,W",17,6,5,57,45,20,25,Ath Madrid,0
 Celta,Cadiz,3,True,False,3,0,home,Win,True,4.0,No Goal,False,La Liga,14,28,"W,L,D,D,D",7,10,11,31,23,40,-17,Cadiz,1
-Mallorca,Girona,1,False,True,2,1,home,Draw,True,4.0,Goal,True,La Liga,11,27,"W,D,L,L,W",9,7,11,34,42,42,0,Girona,1
+Mallorca,Girona,1,False,True,2,1,home,Draw,True,4.0,Goal,True,La Liga,11,28,"D,W,D,L,L",9,8,11,35,42,42,0,Girona,1
 Real Madrid,Betis,2,False,True,3,1,home,Win,True,4.0,Goal,True,La Liga,6,28,"L,L,W,D,D",13,6,9,45,34,29,5,Betis,0
 Sociedad,Ath Madrid,1,False,True,2,1,home,Draw,True,4.0,Goal,True,La Liga,3,28,"W,W,W,W,W",17,6,5,57,45,20,25,Ath Madrid,0
-Sevilla,Barcelona,0,True,False,3,3,home,Loss,False,4.0,No Goal,True,La Liga,1,27,"W,W,W,W,L",23,2,2,71,53,9,44,Barcelona,0
+Sevilla,Barcelona,0,True,False,3,3,home,Loss,False,4.0,No Goal,True,La Liga,1,28,"D,W,W,W,W",23,3,2,72,53,9,44,Barcelona,0
 Osasuna,Vallecano,2,False,True,3,1,home,Win,True,4.0,Goal,True,La Liga,9,28,"L,D,D,L,D",9,10,9,37,33,33,0,Vallecano,1
 Ath Bilbao,Espanol,0,True,False,1,1,home,Loss,False,4.0,No Goal,True,La Liga,19,28,"L,L,L,L,L",6,9,13,27,34,46,-12,Espanol,2
 Villarreal,Elche,4,True,False,4,0,home,Win,True,4.0,No Goal,False,La Liga,20,28,"L,L,L,D,W",2,7,19,13,20,57,-37,Elche,2
@@ -1070,7 +1070,7 @@ Valladolid,Almeria,1,True,False,1,0,home,Win,True,4.0,No Goal,False,La Liga,16,2
 Girona,Valladolid,2,False,True,3,1,home,Win,True,5.0,Goal,True,La Liga,17,28,"D,L,L,D,W",8,5,15,29,23,47,-24,Valladolid,2
 Vallecano,Valencia,2,False,True,3,1,home,Win,True,5.0,Goal,True,La Liga,18,28,"L,D,L,W,L",7,6,15,27,30,34,-4,Valencia,2
 Espanol,Sevilla,2,False,True,5,3,home,Loss,True,5.0,Goal,True,La Liga,13,28,"D,W,L,W,L",8,8,12,32,33,44,-11,Sevilla,1
-Cadiz,Barcelona,0,True,False,4,4,home,Loss,False,5.0,No Goal,True,La Liga,1,27,"W,W,W,W,L",23,2,2,71,53,9,44,Barcelona,0
+Cadiz,Barcelona,0,True,False,4,4,home,Loss,False,5.0,No Goal,True,La Liga,1,28,"D,W,W,W,W",23,3,2,72,53,9,44,Barcelona,0
 Ath Madrid,Celta,4,False,True,5,1,home,Win,True,5.0,Goal,True,La Liga,10,28,"D,D,W,W,D",9,9,10,36,36,39,-3,Celta,1
 Real Madrid,Mallorca,4,False,True,5,1,home,Win,True,5.0,Goal,True,La Liga,12,28,"D,D,L,D,L",9,7,12,34,25,30,-5,Mallorca,1
 Elche,Ath Bilbao,1,False,True,5,4,home,Loss,True,5.0,Goal,True,La Liga,7,28,"W,D,W,L,D",11,7,10,40,38,29,9,Ath Bilbao,0
@@ -1084,14 +1084,14 @@ Valencia,Celta,3,True,False,3,0,home,Win,True,6.0,No Goal,False,La Liga,10,28,"D
 Ath Bilbao,Vallecano,3,False,True,5,2,home,Win,True,6.0,Goal,True,La Liga,9,28,"L,D,D,L,D",9,10,9,37,33,33,0,Vallecano,1
 Osasuna,Getafe,0,True,False,2,2,home,Loss,False,6.0,No Goal,True,La Liga,15,28,"L,D,W,D,W",7,9,12,30,27,36,-9,Getafe,2
 Villarreal,Sevilla,1,False,True,2,1,home,Draw,True,6.0,Goal,True,La Liga,13,28,"D,W,L,W,L",8,8,12,32,33,44,-11,Sevilla,1
-Betis,Girona,2,False,True,3,1,home,Win,True,6.0,Goal,True,La Liga,11,27,"W,D,L,L,W",9,7,11,34,42,42,0,Girona,1
+Betis,Girona,2,False,True,3,1,home,Win,True,6.0,Goal,True,La Liga,11,28,"D,W,D,L,L",9,8,11,35,42,42,0,Girona,1
 Sociedad,Espanol,2,False,True,3,1,home,Win,True,6.0,Goal,True,La Liga,19,28,"L,L,L,L,L",6,9,13,27,34,46,-12,Espanol,2
 Ath Madrid,Real Madrid,1,False,True,3,2,home,Loss,True,6.0,Goal,True,La Liga,2,28,"L,W,L,W,D",18,5,5,59,59,24,35,Real Madrid,0
 Ath Bilbao,Almeria,4,True,False,4,0,home,Win,True,7.0,No Goal,False,La Liga,16,28,"W,D,D,L,L",8,6,14,30,34,48,-14,Almeria,2
 Cadiz,Villarreal,0,True,False,0,0,home,Draw,False,7.0,No Goal,False,La Liga,5,28,"W,W,W,D,W",14,5,9,47,37,26,11,Villarreal,0
 Getafe,Valladolid,2,False,True,5,3,home,Loss,True,7.0,Goal,True,La Liga,17,28,"D,L,L,D,W",8,5,15,29,23,47,-24,Valladolid,2
 Sevilla,Ath Madrid,0,True,False,2,2,home,Loss,False,7.0,No Goal,True,La Liga,3,28,"W,W,W,W,W",17,6,5,57,45,20,25,Ath Madrid,0
-Mallorca,Barcelona,0,True,False,1,1,home,Loss,False,7.0,No Goal,True,La Liga,1,27,"W,W,W,W,L",23,2,2,71,53,9,44,Barcelona,0
+Mallorca,Barcelona,0,True,False,1,1,home,Loss,False,7.0,No Goal,True,La Liga,1,28,"D,W,W,W,W",23,3,2,72,53,9,44,Barcelona,0
 Espanol,Valencia,2,False,True,4,2,home,Draw,True,7.0,Goal,True,La Liga,18,28,"L,D,L,W,L",7,6,15,27,30,34,-4,Valencia,2
 Celta,Betis,1,True,False,1,0,home,Win,True,7.0,No Goal,False,La Liga,6,28,"L,L,W,D,D",13,6,9,45,34,29,5,Betis,0
 Girona,Sociedad,3,False,True,8,5,home,Loss,True,7.0,Goal,True,La Liga,4,28,"W,L,W,D,D",15,6,7,51,37,26,11,Sociedad,0
@@ -1099,7 +1099,7 @@ Real Madrid,Osasuna,1,False,True,2,1,home,Draw,True,7.0,Goal,True,La Liga,8,28,"
 Vallecano,Elche,2,False,True,3,1,home,Win,True,7.0,Goal,True,La Liga,20,28,"L,L,L,D,W",2,7,19,13,20,57,-37,Elche,2
 Osasuna,Valencia,1,False,True,3,2,home,Loss,True,8.0,Goal,True,La Liga,18,28,"L,D,L,W,L",7,6,15,27,30,34,-4,Valencia,2
 Almeria,Vallecano,3,False,True,4,1,home,Win,True,8.0,Goal,True,La Liga,9,28,"L,D,D,L,D",9,10,9,37,33,33,0,Vallecano,1
-Ath Madrid,Girona,2,False,True,3,1,home,Win,True,8.0,Goal,True,La Liga,11,27,"W,D,L,L,W",9,7,11,34,42,42,0,Girona,1
+Ath Madrid,Girona,2,False,True,3,1,home,Win,True,8.0,Goal,True,La Liga,11,28,"D,W,D,L,L",9,8,11,35,42,42,0,Girona,1
 Sevilla,Ath Bilbao,1,False,True,2,1,home,Draw,True,8.0,Goal,True,La Liga,7,28,"W,D,W,L,D",11,7,10,40,38,29,9,Ath Bilbao,0
 Getafe,Real Madrid,0,True,False,1,1,home,Loss,False,8.0,No Goal,True,La Liga,2,28,"L,W,L,W,D",18,5,5,59,59,24,35,Real Madrid,0
 Valladolid,Betis,0,True,False,0,0,home,Draw,False,8.0,No Goal,False,La Liga,6,28,"L,L,W,D,D",13,6,9,45,34,29,5,Betis,0
@@ -1113,7 +1113,7 @@ Valencia,Elche,2,False,True,4,2,home,Draw,True,9.0,Goal,True,La Liga,20,28,"L,L,
 Mallorca,Sevilla,0,True,False,1,1,home,Loss,False,9.0,No Goal,True,La Liga,13,28,"D,W,L,W,L",8,8,12,32,33,44,-11,Sevilla,1
 Ath Bilbao,Ath Madrid,0,True,False,1,1,home,Loss,False,9.0,No Goal,True,La Liga,3,28,"W,W,W,W,W",17,6,5,57,45,20,25,Ath Madrid,0
 Celta,Sociedad,1,False,True,3,2,home,Loss,True,9.0,Goal,True,La Liga,4,28,"W,L,W,D,D",15,6,7,51,37,26,11,Sociedad,0
-Real Madrid,Barcelona,3,False,True,4,1,home,Win,True,9.0,Goal,True,La Liga,1,27,"W,W,W,W,L",23,2,2,71,53,9,44,Barcelona,0
+Real Madrid,Barcelona,3,False,True,4,1,home,Win,True,9.0,Goal,True,La Liga,1,28,"D,W,W,W,W",23,3,2,72,53,9,44,Barcelona,0
 Espanol,Valladolid,1,True,False,1,0,home,Win,True,9.0,No Goal,False,La Liga,17,28,"D,L,L,D,W",8,5,15,29,23,47,-24,Valladolid,2
 Betis,Almeria,3,False,True,4,1,home,Win,True,9.0,Goal,True,La Liga,16,28,"W,D,D,L,L",8,6,14,30,34,48,-14,Almeria,2
 Villarreal,Osasuna,2,True,False,2,0,home,Win,True,9.0,No Goal,False,La Liga,8,28,"W,D,L,L,D",10,8,10,38,24,28,-4,Osasuna,1
@@ -1124,7 +1124,7 @@ Cadiz,Betis,0,True,False,0,0,home,Draw,False,10.0,No Goal,False,La Liga,6,28,"L,
 Valladolid,Celta,4,False,True,5,1,home,Win,True,10.0,Goal,True,La Liga,10,28,"D,D,W,W,D",9,9,10,36,36,39,-3,Celta,1
 Sociedad,Mallorca,1,True,False,1,0,home,Win,True,10.0,No Goal,False,La Liga,12,28,"D,D,L,D,L",9,7,12,34,25,30,-5,Mallorca,1
 Elche,Real Madrid,0,True,False,3,3,home,Loss,False,10.0,No Goal,True,La Liga,2,28,"L,W,L,W,D",18,5,5,59,59,24,35,Real Madrid,0
-Almeria,Girona,3,False,True,5,2,home,Win,True,10.0,Goal,True,La Liga,11,27,"W,D,L,L,W",9,7,11,34,42,42,0,Girona,1
+Almeria,Girona,3,False,True,5,2,home,Win,True,10.0,Goal,True,La Liga,11,28,"D,W,D,L,L",9,8,11,35,42,42,0,Girona,1
 Osasuna,Espanol,1,True,False,1,0,home,Win,True,10.0,No Goal,False,La Liga,19,28,"L,L,L,L,L",6,9,13,27,34,46,-12,Espanol,2
 Barcelona,Villarreal,3,True,False,3,0,home,Win,True,10.0,No Goal,False,La Liga,5,28,"W,W,W,D,W",14,5,9,47,37,26,11,Villarreal,0
 Vallecano,Cadiz,5,False,True,6,1,home,Win,True,11.0,Goal,True,La Liga,14,28,"W,L,D,D,D",7,10,11,31,23,40,-17,Cadiz,1
@@ -1141,9 +1141,9 @@ Mallorca,Espanol,1,False,True,2,1,home,Draw,True,12.0,Goal,True,La Liga,19,28,"L
 Almeria,Celta,3,False,True,4,1,home,Win,True,12.0,Goal,True,La Liga,10,28,"D,D,W,W,D",9,9,10,36,36,39,-3,Celta,1
 Cadiz,Ath Madrid,3,False,True,5,2,home,Win,True,12.0,Goal,True,La Liga,3,28,"W,W,W,W,W",17,6,5,57,45,20,25,Ath Madrid,0
 Sevilla,Vallecano,0,True,False,1,1,home,Loss,False,12.0,No Goal,True,La Liga,9,28,"L,D,D,L,D",9,10,9,37,33,33,0,Vallecano,1
-Valencia,Barcelona,0,True,False,1,1,home,Loss,False,12.0,No Goal,True,La Liga,1,27,"W,W,W,W,L",23,2,2,71,53,9,44,Barcelona,0
+Valencia,Barcelona,0,True,False,1,1,home,Loss,False,12.0,No Goal,True,La Liga,1,28,"D,W,W,W,W",23,3,2,72,53,9,44,Barcelona,0
 Osasuna,Valladolid,2,True,False,2,0,home,Win,True,12.0,No Goal,False,La Liga,17,28,"D,L,L,D,W",8,5,15,29,23,47,-24,Valladolid,2
-Real Madrid,Girona,1,False,True,2,1,home,Draw,True,12.0,Goal,True,La Liga,11,27,"W,D,L,L,W",9,7,11,34,42,42,0,Girona,1
+Real Madrid,Girona,1,False,True,2,1,home,Draw,True,12.0,Goal,True,La Liga,11,28,"D,W,D,L,L",9,8,11,35,42,42,0,Girona,1
 Ath Bilbao,Villarreal,1,True,False,1,0,home,Win,True,12.0,No Goal,False,La Liga,5,28,"W,W,W,D,W",14,5,9,47,37,26,11,Villarreal,0
 Sociedad,Betis,0,True,False,2,2,home,Loss,False,12.0,No Goal,True,La Liga,6,28,"L,L,W,D,D",13,6,9,45,34,29,5,Betis,0
 Elche,Getafe,0,True,False,1,1,home,Loss,False,12.0,No Goal,True,La Liga,15,28,"L,D,W,D,W",7,9,12,30,27,36,-9,Getafe,2
@@ -1157,9 +1157,9 @@ Sociedad,Valencia,1,False,True,2,1,home,Draw,True,13.0,Goal,True,La Liga,18,28,"
 Villarreal,Mallorca,0,True,False,2,2,home,Loss,False,13.0,No Goal,True,La Liga,12,28,"D,D,L,D,L",9,7,12,34,25,30,-5,Mallorca,1
 Betis,Sevilla,1,False,True,2,1,home,Draw,True,13.0,Goal,True,La Liga,13,28,"D,W,L,W,L",8,8,12,32,33,44,-11,Sevilla,1
 Vallecano,Real Madrid,3,False,True,5,2,home,Win,True,13.0,Goal,True,La Liga,2,28,"L,W,L,W,D",18,5,5,59,59,24,35,Real Madrid,0
-Elche,Girona,1,False,True,3,2,home,Loss,True,14.0,Goal,True,La Liga,11,27,"W,D,L,L,W",9,7,11,34,42,42,0,Girona,1
+Elche,Girona,1,False,True,3,2,home,Loss,True,14.0,Goal,True,La Liga,11,28,"D,W,D,L,L",9,8,11,35,42,42,0,Girona,1
 Ath Bilbao,Valladolid,3,True,False,3,0,home,Win,True,14.0,No Goal,False,La Liga,17,28,"D,L,L,D,W",8,5,15,29,23,47,-24,Valladolid,2
-Osasuna,Barcelona,1,False,True,3,2,home,Loss,True,14.0,Goal,True,La Liga,1,27,"W,W,W,W,L",23,2,2,71,53,9,44,Barcelona,0
+Osasuna,Barcelona,1,False,True,3,2,home,Loss,True,14.0,Goal,True,La Liga,1,28,"D,W,W,W,W",23,3,2,72,53,9,44,Barcelona,0
 Almeria,Getafe,1,True,False,1,0,home,Win,True,14.0,No Goal,False,La Liga,15,28,"L,D,W,D,W",7,9,12,30,27,36,-9,Getafe,2
 Sevilla,Sociedad,1,False,True,3,2,home,Loss,True,14.0,Goal,True,La Liga,4,28,"W,L,W,D,D",15,6,7,51,37,26,11,Sociedad,0
 Espanol,Villarreal,0,True,False,1,1,home,Loss,False,14.0,No Goal,True,La Liga,5,28,"W,W,W,D,W",14,5,9,47,37,26,11,Villarreal,0
@@ -1181,11 +1181,11 @@ Elche,Celta,0,True,False,1,1,home,Loss,False,16.0,No Goal,True,La Liga,10,28,"D,
 Valencia,Cadiz,0,True,False,1,1,home,Loss,False,16.0,No Goal,True,La Liga,14,28,"W,L,D,D,D",7,10,11,31,23,40,-17,Cadiz,1
 Villarreal,Real Madrid,2,False,True,3,1,home,Win,True,16.0,Goal,True,La Liga,2,28,"L,W,L,W,D",18,5,5,59,59,24,35,Real Madrid,0
 Mallorca,Valladolid,1,True,False,1,0,home,Win,True,16.0,No Goal,False,La Liga,17,28,"D,L,L,D,W",8,5,15,29,23,47,-24,Valladolid,2
-Espanol,Girona,2,False,True,4,2,home,Draw,True,16.0,Goal,True,La Liga,11,27,"W,D,L,L,W",9,7,11,34,42,42,0,Girona,1
+Espanol,Girona,2,False,True,4,2,home,Draw,True,16.0,Goal,True,La Liga,11,28,"D,W,D,L,L",9,8,11,35,42,42,0,Girona,1
 Almeria,Sociedad,0,True,False,2,2,home,Loss,False,16.0,No Goal,True,La Liga,4,28,"W,L,W,D,D",15,6,7,51,37,26,11,Sociedad,0
 Vallecano,Betis,1,False,True,3,2,home,Loss,True,16.0,Goal,True,La Liga,6,28,"L,L,W,D,D",13,6,9,45,34,29,5,Betis,0
 Sevilla,Getafe,2,False,True,3,1,home,Win,True,16.0,Goal,True,La Liga,15,28,"L,D,W,D,W",7,9,12,30,27,36,-9,Getafe,2
-Ath Madrid,Barcelona,0,True,False,1,1,home,Loss,False,16.0,No Goal,True,La Liga,1,27,"W,W,W,W,L",23,2,2,71,53,9,44,Barcelona,0
+Ath Madrid,Barcelona,0,True,False,1,1,home,Loss,False,16.0,No Goal,True,La Liga,1,28,"D,W,W,W,W",23,3,2,72,53,9,44,Barcelona,0
 Ath Bilbao,Osasuna,0,True,False,0,0,home,Draw,False,16.0,No Goal,False,La Liga,8,28,"W,D,L,L,D",10,8,10,38,24,28,-4,Osasuna,1
 Celta,Villarreal,1,False,True,2,1,home,Draw,True,17.0,Goal,True,La Liga,5,28,"W,W,W,D,W",14,5,9,47,37,26,11,Villarreal,0
 Real Madrid,Valencia,2,True,False,2,0,home,Win,True,17.0,No Goal,False,La Liga,18,28,"L,D,L,W,L",7,6,15,27,30,34,-4,Valencia,2
@@ -1201,14 +1201,14 @@ Vallecano,Sociedad,0,True,False,2,2,home,Loss,False,18.0,No Goal,True,La Liga,4,
 Espanol,Betis,1,True,False,1,0,home,Win,True,18.0,No Goal,False,La Liga,6,28,"L,L,W,D,D",13,6,9,45,34,29,5,Betis,0
 Ath Madrid,Valladolid,3,True,False,3,0,home,Win,True,18.0,No Goal,False,La Liga,17,28,"D,L,L,D,W",8,5,15,29,23,47,-24,Valladolid,2
 Sevilla,Cadiz,1,True,False,1,0,home,Win,True,18.0,No Goal,False,La Liga,14,28,"W,L,D,D,D",7,10,11,31,23,40,-17,Cadiz,1
-Villarreal,Girona,1,True,False,1,0,home,Win,True,18.0,No Goal,False,La Liga,11,27,"W,D,L,L,W",9,7,11,34,42,42,0,Girona,1
+Villarreal,Girona,1,True,False,1,0,home,Win,True,18.0,No Goal,False,La Liga,11,28,"D,W,D,L,L",9,8,11,35,42,42,0,Girona,1
 Elche,Osasuna,1,False,True,2,1,home,Draw,True,18.0,Goal,True,La Liga,8,28,"W,D,L,L,D",10,8,10,38,24,28,-4,Osasuna,1
 Barcelona,Getafe,1,True,False,1,0,home,Win,True,18.0,No Goal,False,La Liga,15,28,"L,D,W,D,W",7,9,12,30,27,36,-9,Getafe,2
 Ath Bilbao,Real Madrid,0,True,False,2,2,home,Loss,False,18.0,No Goal,True,La Liga,2,28,"L,W,L,W,D",18,5,5,59,59,24,35,Real Madrid,0
 Valencia,Almeria,2,False,True,4,2,home,Draw,True,18.0,Goal,True,La Liga,16,28,"W,D,D,L,L",8,6,14,30,34,48,-14,Almeria,2
 Almeria,Espanol,3,False,True,4,1,home,Win,True,19.0,Goal,True,La Liga,19,28,"L,L,L,L,L",6,9,13,27,34,46,-12,Espanol,2
 Cadiz,Mallorca,2,True,False,2,0,home,Win,True,19.0,No Goal,False,La Liga,12,28,"D,D,L,D,L",9,7,12,34,25,30,-5,Mallorca,1
-Girona,Barcelona,0,True,False,1,1,home,Loss,False,19.0,No Goal,True,La Liga,1,27,"W,W,W,W,L",23,2,2,71,53,9,44,Barcelona,0
+Girona,Barcelona,0,True,False,1,1,home,Loss,False,19.0,No Goal,True,La Liga,1,28,"D,W,W,W,W",23,3,2,72,53,9,44,Barcelona,0
 Sevilla,Elche,3,True,False,3,0,home,Win,True,19.0,No Goal,False,La Liga,20,28,"L,L,L,D,W",2,7,19,13,20,57,-37,Elche,2
 Getafe,Betis,0,True,False,1,1,home,Loss,False,19.0,No Goal,True,La Liga,6,28,"L,L,W,D,D",13,6,9,45,34,29,5,Betis,0
 Valladolid,Valencia,1,True,False,1,0,home,Win,True,19.0,No Goal,False,La Liga,18,28,"L,D,L,W,L",7,6,15,27,30,34,-4,Valencia,2
@@ -1216,7 +1216,7 @@ Osasuna,Ath Madrid,0,True,False,1,1,home,Loss,False,19.0,No Goal,True,La Liga,3,
 Celta,Ath Bilbao,1,True,False,1,0,home,Win,True,19.0,No Goal,False,La Liga,7,28,"W,D,W,L,D",11,7,10,40,38,29,9,Ath Bilbao,0
 Real Madrid,Sociedad,0,True,False,0,0,home,Draw,False,19.0,No Goal,False,La Liga,4,28,"W,L,W,D,D",15,6,7,51,37,26,11,Sociedad,0
 Villarreal,Vallecano,0,True,False,1,1,home,Loss,False,19.0,No Goal,True,La Liga,9,28,"L,D,D,L,D",9,10,9,37,33,33,0,Vallecano,1
-Betis,Barcelona,1,False,True,3,2,home,Loss,True,20.0,Goal,True,La Liga,1,27,"W,W,W,W,L",23,2,2,71,53,9,44,Barcelona,0
+Betis,Barcelona,1,False,True,3,2,home,Loss,True,20.0,Goal,True,La Liga,1,28,"D,W,W,W,W",23,3,2,72,53,9,44,Barcelona,0
 Ath Bilbao,Cadiz,4,False,True,5,1,home,Win,True,21.0,Goal,True,La Liga,14,28,"W,L,D,D,D",7,10,11,31,23,40,-17,Cadiz,1
 Espanol,Osasuna,1,False,True,2,1,home,Draw,True,21.0,Goal,True,La Liga,8,28,"W,D,L,L,D",10,8,10,38,24,28,-4,Osasuna,1
 Elche,Villarreal,3,False,True,4,1,home,Win,True,21.0,Goal,True,La Liga,5,28,"W,W,W,D,W",14,5,9,47,37,26,11,Villarreal,0
@@ -1227,14 +1227,14 @@ Girona,Valencia,1,True,False,1,0,home,Win,True,21.0,No Goal,False,La Liga,18,28,
 Sociedad,Valladolid,0,True,False,1,1,home,Loss,False,21.0,No Goal,True,La Liga,17,28,"D,L,L,D,W",8,5,15,29,23,47,-24,Valladolid,2
 Barcelona,Sevilla,3,True,False,3,0,home,Win,True,21.0,No Goal,False,La Liga,13,28,"D,W,L,W,L",8,8,12,32,33,44,-11,Sevilla,1
 Vallecano,Almeria,2,True,False,2,0,home,Win,True,21.0,No Goal,False,La Liga,16,28,"W,D,D,L,L",8,6,14,30,34,48,-14,Almeria,2
-Cadiz,Girona,2,True,False,2,0,home,Win,True,22.0,No Goal,False,La Liga,11,27,"W,D,L,L,W",9,7,11,34,42,42,0,Girona,1
+Cadiz,Girona,2,True,False,2,0,home,Win,True,22.0,No Goal,False,La Liga,11,28,"D,W,D,L,L",9,8,11,35,42,42,0,Girona,1
 Almeria,Betis,2,False,True,5,3,home,Loss,True,22.0,Goal,True,La Liga,6,28,"L,L,W,D,D",13,6,9,45,34,29,5,Betis,0
 Sevilla,Mallorca,2,True,False,2,0,home,Win,True,22.0,No Goal,False,La Liga,12,28,"D,D,L,D,L",9,7,12,34,25,30,-5,Mallorca,1
 Valencia,Ath Bilbao,1,False,True,3,2,home,Loss,True,22.0,Goal,True,La Liga,7,28,"W,D,W,L,D",11,7,10,40,38,29,9,Ath Bilbao,0
 Getafe,Vallecano,1,False,True,2,1,home,Draw,True,22.0,Goal,True,La Liga,9,28,"L,D,D,L,D",9,10,9,37,33,33,0,Vallecano,1
 Celta,Ath Madrid,0,True,False,1,1,home,Loss,False,22.0,No Goal,True,La Liga,3,28,"W,W,W,W,W",17,6,5,57,45,20,25,Ath Madrid,0
 Valladolid,Osasuna,0,True,False,0,0,home,Draw,False,22.0,No Goal,False,La Liga,8,28,"W,D,L,L,D",10,8,10,38,24,28,-4,Osasuna,1
-Villarreal,Barcelona,0,True,False,1,1,home,Loss,False,22.0,No Goal,True,La Liga,1,27,"W,W,W,W,L",23,2,2,71,53,9,44,Barcelona,0
+Villarreal,Barcelona,0,True,False,1,1,home,Loss,False,22.0,No Goal,True,La Liga,1,28,"D,W,W,W,W",23,3,2,72,53,9,44,Barcelona,0
 Espanol,Sociedad,2,False,True,5,3,home,Loss,True,22.0,Goal,True,La Liga,4,28,"W,L,W,D,D",15,6,7,51,37,26,11,Sociedad,0
 Real Madrid,Elche,4,True,False,4,0,home,Win,True,22.0,No Goal,False,La Liga,20,28,"L,L,L,D,W",2,7,19,13,20,57,-37,Elche,2
 Girona,Almeria,6,False,True,8,2,home,Win,True,23.0,Goal,True,La Liga,16,28,"W,D,D,L,L",8,6,14,30,34,48,-14,Almeria,2
@@ -1252,13 +1252,13 @@ Espanol,Mallorca,2,False,True,3,1,home,Win,True,24.0,Goal,True,La Liga,12,28,"D,
 Cadiz,Vallecano,1,True,False,1,0,home,Win,True,24.0,No Goal,False,La Liga,9,28,"L,D,D,L,D",9,10,9,37,33,33,0,Vallecano,1
 Real Madrid,Ath Madrid,1,False,True,2,1,home,Draw,True,24.0,Goal,True,La Liga,3,28,"W,W,W,W,W",17,6,5,57,45,20,25,Ath Madrid,0
 Valencia,Sociedad,1,True,False,1,0,home,Win,True,24.0,No Goal,False,La Liga,4,28,"W,L,W,D,D",15,6,7,51,37,26,11,Sociedad,0
-Ath Bilbao,Girona,2,False,True,5,3,home,Loss,True,24.0,Goal,True,La Liga,11,27,"W,D,L,L,W",9,7,11,34,42,42,0,Girona,1
+Ath Bilbao,Girona,2,False,True,5,3,home,Loss,True,24.0,Goal,True,La Liga,11,28,"D,W,D,L,L",9,8,11,35,42,42,0,Girona,1
 Celta,Valladolid,3,True,False,3,0,home,Win,True,24.0,No Goal,False,La Liga,17,28,"D,L,L,D,W",8,5,15,29,23,47,-24,Valladolid,2
-Almeria,Barcelona,1,True,False,1,0,home,Win,True,24.0,No Goal,False,La Liga,1,27,"W,W,W,W,L",23,2,2,71,53,9,44,Barcelona,0
+Almeria,Barcelona,1,True,False,1,0,home,Win,True,24.0,No Goal,False,La Liga,1,28,"D,W,W,W,W",23,3,2,72,53,9,44,Barcelona,0
 Sevilla,Osasuna,2,False,True,5,3,home,Loss,True,24.0,Goal,True,La Liga,8,28,"W,D,L,L,D",10,8,10,38,24,28,-4,Osasuna,1
 Villarreal,Getafe,2,False,True,3,1,home,Win,True,24.0,Goal,True,La Liga,15,28,"L,D,W,D,W",7,9,12,30,27,36,-9,Getafe,2
 Sociedad,Cadiz,0,True,False,0,0,home,Draw,False,25.0,No Goal,False,La Liga,14,28,"W,L,D,D,D",7,10,11,31,23,40,-17,Cadiz,1
-Getafe,Girona,3,False,True,5,2,home,Win,True,25.0,Goal,True,La Liga,11,27,"W,D,L,L,W",9,7,11,34,42,42,0,Girona,1
+Getafe,Girona,3,False,True,5,2,home,Win,True,25.0,Goal,True,La Liga,11,28,"D,W,D,L,L",9,8,11,35,42,42,0,Girona,1
 Almeria,Villarreal,0,True,False,2,2,home,Loss,False,25.0,No Goal,True,La Liga,5,28,"W,W,W,D,W",14,5,9,47,37,26,11,Villarreal,0
 Mallorca,Elche,0,True,False,1,1,home,Loss,False,25.0,No Goal,True,La Liga,20,28,"L,L,L,D,W",2,7,19,13,20,57,-37,Elche,2
 Ath Madrid,Sevilla,6,False,True,7,1,home,Win,True,25.0,Goal,True,La Liga,13,28,"D,W,L,W,L",8,8,12,32,33,44,-11,Sevilla,1
@@ -1275,11 +1275,11 @@ Valencia,Osasuna,1,True,False,1,0,home,Win,True,26.0,No Goal,False,La Liga,8,28,
 Mallorca,Sociedad,1,False,True,2,1,home,Draw,True,26.0,Goal,True,La Liga,4,28,"W,L,W,D,D",15,6,7,51,37,26,11,Sociedad,0
 Sevilla,Almeria,2,False,True,3,1,home,Win,True,26.0,Goal,True,La Liga,16,28,"W,D,D,L,L",8,6,14,30,34,48,-14,Almeria,2
 Villarreal,Betis,1,False,True,2,1,home,Draw,True,26.0,Goal,True,La Liga,6,28,"L,L,W,D,D",13,6,9,45,34,29,5,Betis,0
-Ath Bilbao,Barcelona,0,True,False,1,1,home,Loss,False,26.0,No Goal,True,La Liga,1,27,"W,W,W,W,L",23,2,2,71,53,9,44,Barcelona,0
+Ath Bilbao,Barcelona,0,True,False,1,1,home,Loss,False,26.0,No Goal,True,La Liga,1,28,"D,W,W,W,W",23,3,2,72,53,9,44,Barcelona,0
 Girona,Ath Madrid,0,True,False,1,1,home,Loss,False,26.0,No Goal,True,La Liga,3,28,"W,W,W,W,W",17,6,5,57,45,20,25,Ath Madrid,0
 Valladolid,Ath Bilbao,1,False,True,4,3,home,Loss,True,27.0,Goal,True,La Liga,7,28,"W,D,W,L,D",11,7,10,40,38,29,9,Ath Bilbao,0
 Almeria,Cadiz,1,False,True,2,1,home,Draw,True,27.0,Goal,True,La Liga,14,28,"W,L,D,D,D",7,10,11,31,23,40,-17,Cadiz,1
-Vallecano,Girona,2,False,True,4,2,home,Draw,True,27.0,Goal,True,La Liga,11,27,"W,D,L,L,W",9,7,11,34,42,42,0,Girona,1
+Vallecano,Girona,2,False,True,4,2,home,Draw,True,27.0,Goal,True,La Liga,11,28,"D,W,D,L,L",9,8,11,35,42,42,0,Girona,1
 Espanol,Celta,1,False,True,4,3,home,Loss,True,27.0,Goal,True,La Liga,10,28,"D,D,W,W,D",9,9,10,36,36,39,-3,Celta,1
 Ath Madrid,Valencia,3,True,False,3,0,home,Win,True,27.0,No Goal,False,La Liga,18,28,"L,D,L,W,L",7,6,15,27,30,34,-4,Valencia,2
 Betis,Mallorca,1,True,False,1,0,home,Win,True,27.0,No Goal,False,La Liga,12,28,"D,D,L,D,L",9,7,12,34,25,30,-5,Mallorca,1
@@ -1291,7 +1291,7 @@ Mallorca,Osasuna,0,True,False,0,0,home,Draw,False,28.0,No Goal,False,La Liga,8,2
 Girona,Espanol,2,False,True,3,1,home,Win,True,28.0,Goal,True,La Liga,19,28,"L,L,L,L,L",6,9,13,27,34,46,-12,Espanol,2
 Ath Bilbao,Getafe,0,True,False,0,0,home,Draw,False,28.0,No Goal,False,La Liga,15,28,"L,D,W,D,W",7,9,12,30,27,36,-9,Getafe,2
 Cadiz,Sevilla,0,True,False,2,2,home,Loss,False,28.0,No Goal,True,La Liga,13,28,"D,W,L,W,L",8,8,12,32,33,44,-11,Sevilla,1
-Elche,Barcelona,0,True,False,4,4,home,Loss,False,28.0,No Goal,True,La Liga,1,27,"W,W,W,W,L",23,2,2,71,53,9,44,Barcelona,0
+Elche,Barcelona,0,True,False,4,4,home,Loss,False,28.0,No Goal,True,La Liga,1,28,"D,W,W,W,W",23,3,2,72,53,9,44,Barcelona,0
 Celta,Almeria,2,False,True,4,2,home,Draw,True,28.0,Goal,True,La Liga,16,28,"W,D,D,L,L",8,6,14,30,34,48,-14,Almeria,2
 Real Madrid,Valladolid,6,True,False,6,0,home,Win,True,28.0,No Goal,False,La Liga,17,28,"D,L,L,D,W",8,5,15,29,23,47,-24,Valladolid,2
 Villarreal,Sociedad,2,True,False,2,0,home,Win,True,28.0,No Goal,False,La Liga,4,28,"W,L,W,D,D",15,6,7,51,37,26,11,Sociedad,0
@@ -1300,7 +1300,7 @@ Valencia,Vallecano,1,False,True,2,1,home,Draw,True,28.0,Goal,True,La Liga,9,28,"
 Sevilla,Osasuna,1,False,True,3,2,away,Loss,True,1.0,Goal,True,La Liga,8,28,"W,D,L,L,D",10,8,10,38,24,28,-4,Osasuna,1
 Espanol,Celta,2,False,True,4,2,away,Draw,True,1.0,Goal,True,La Liga,10,28,"D,D,W,W,D",9,9,10,36,36,39,-3,Celta,1
 Villarreal,Valladolid,3,True,False,3,0,away,Win,True,1.0,No Goal,False,La Liga,17,28,"D,L,L,D,W",8,5,15,29,23,47,-24,Valladolid,2
-Vallecano,Barcelona,0,True,False,0,0,away,Draw,False,1.0,No Goal,False,La Liga,1,27,"W,W,W,W,L",23,2,2,71,53,9,44,Barcelona,0
+Vallecano,Barcelona,0,True,False,0,0,away,Draw,False,1.0,No Goal,False,La Liga,1,28,"D,W,W,W,W",23,3,2,72,53,9,44,Barcelona,0
 Sociedad,Cadiz,1,True,False,1,0,away,Win,True,1.0,No Goal,False,La Liga,14,28,"W,L,D,D,D",7,10,11,31,23,40,-17,Cadiz,1
 Girona,Valencia,0,True,False,1,1,away,Loss,False,1.0,No Goal,True,La Liga,18,28,"L,D,L,W,L",7,6,15,27,30,34,-4,Valencia,2
 Real Madrid,Almeria,2,False,True,3,1,away,Win,True,1.0,Goal,True,La Liga,16,28,"W,D,D,L,L",8,6,14,30,34,48,-14,Almeria,2
@@ -1316,14 +1316,14 @@ Valencia,Ath Bilbao,0,True,False,1,1,away,Loss,False,2.0,No Goal,True,La Liga,7,
 Villarreal,Ath Madrid,2,True,False,2,0,away,Win,True,2.0,No Goal,False,La Liga,3,28,"W,W,W,W,W",17,6,5,57,45,20,25,Ath Madrid,0
 Barcelona,Sociedad,4,False,True,5,1,away,Win,True,2.0,Goal,True,La Liga,4,28,"W,L,W,D,D",15,6,7,51,37,26,11,Sociedad,0
 Almeria,Elche,1,False,True,2,1,away,Draw,True,2.0,Goal,True,La Liga,20,28,"L,L,L,D,W",2,7,19,13,20,57,-37,Elche,2
-Getafe,Girona,1,False,True,4,3,away,Loss,True,2.0,Goal,True,La Liga,11,27,"W,D,L,L,W",9,7,11,34,42,42,0,Girona,1
-Celta,Girona,1,True,False,1,0,away,Win,True,3.0,No Goal,False,La Liga,11,27,"W,D,L,L,W",9,7,11,34,42,42,0,Girona,1
+Getafe,Girona,1,False,True,4,3,away,Loss,True,2.0,Goal,True,La Liga,11,28,"D,W,D,L,L",9,8,11,35,42,42,0,Girona,1
+Celta,Girona,1,True,False,1,0,away,Win,True,3.0,No Goal,False,La Liga,11,28,"D,W,D,L,L",9,8,11,35,42,42,0,Girona,1
 Osasuna,Betis,0,True,False,1,1,away,Loss,False,3.0,No Goal,True,La Liga,6,28,"L,L,W,D,D",13,6,9,45,34,29,5,Betis,0
 Sociedad,Elche,1,True,False,1,0,away,Win,True,3.0,No Goal,False,La Liga,20,28,"L,L,L,D,W",2,7,19,13,20,57,-37,Elche,2
 Mallorca,Vallecano,2,True,False,2,0,away,Win,True,3.0,No Goal,False,La Liga,9,28,"L,D,D,L,D",9,10,9,37,33,33,0,Vallecano,1
 Sevilla,Almeria,1,False,True,3,2,away,Loss,True,3.0,Goal,True,La Liga,16,28,"W,D,D,L,L",8,6,14,30,34,48,-14,Almeria,2
 Villarreal,Getafe,0,True,False,0,0,away,Draw,False,3.0,No Goal,False,La Liga,15,28,"L,D,W,D,W",7,9,12,30,27,36,-9,Getafe,2
-Valladolid,Barcelona,0,True,False,4,4,away,Loss,False,3.0,No Goal,True,La Liga,1,27,"W,W,W,W,L",23,2,2,71,53,9,44,Barcelona,0
+Valladolid,Barcelona,0,True,False,4,4,away,Loss,False,3.0,No Goal,True,La Liga,1,28,"D,W,W,W,W",23,3,2,72,53,9,44,Barcelona,0
 Real Madrid,Espanol,3,False,True,4,1,away,Win,True,3.0,Goal,True,La Liga,19,28,"L,L,L,L,L",6,9,13,27,34,46,-12,Espanol,2
 Ath Bilbao,Cadiz,4,True,False,4,0,away,Win,True,3.0,No Goal,False,La Liga,14,28,"W,L,D,D,D",7,10,11,31,23,40,-17,Cadiz,1
 Ath Madrid,Valencia,1,True,False,1,0,away,Win,True,3.0,No Goal,False,La Liga,18,28,"L,D,L,W,L",7,6,15,27,30,34,-4,Valencia,2
@@ -1337,7 +1337,7 @@ Espanol,Ath Bilbao,1,True,False,1,0,away,Win,True,4.0,No Goal,False,La Liga,7,28
 Elche,Villarreal,0,True,False,4,4,away,Loss,False,4.0,No Goal,True,La Liga,5,28,"W,W,W,D,W",14,5,9,47,37,26,11,Villarreal,0
 Getafe,Valencia,1,False,True,6,5,away,Loss,True,4.0,Goal,True,La Liga,18,28,"L,D,L,W,L",7,6,15,27,30,34,-4,Valencia,2
 Almeria,Valladolid,0,True,False,1,1,away,Loss,False,4.0,No Goal,True,La Liga,17,28,"D,L,L,D,W",8,5,15,29,23,47,-24,Valladolid,2
-Valladolid,Girona,1,False,True,3,2,away,Loss,True,5.0,Goal,True,La Liga,11,27,"W,D,L,L,W",9,7,11,34,42,42,0,Girona,1
+Valladolid,Girona,1,False,True,3,2,away,Loss,True,5.0,Goal,True,La Liga,11,28,"D,W,D,L,L",9,8,11,35,42,42,0,Girona,1
 Valencia,Vallecano,1,False,True,3,2,away,Loss,True,5.0,Goal,True,La Liga,9,28,"L,D,D,L,D",9,10,9,37,33,33,0,Vallecano,1
 Sevilla,Espanol,3,False,True,5,2,away,Win,True,5.0,Goal,True,La Liga,19,28,"L,L,L,L,L",6,9,13,27,34,46,-12,Espanol,2
 Barcelona,Cadiz,4,True,False,4,0,away,Win,True,5.0,No Goal,False,La Liga,14,28,"W,L,D,D,D",7,10,11,31,23,40,-17,Cadiz,1
@@ -1349,7 +1349,7 @@ Villarreal,Betis,0,True,False,1,1,away,Loss,False,5.0,No Goal,True,La Liga,6,28,
 Osasuna,Almeria,1,True,False,1,0,away,Win,True,5.0,No Goal,False,La Liga,16,28,"W,D,D,L,L",8,6,14,30,34,48,-14,Almeria,2
 Cadiz,Valladolid,1,True,False,1,0,away,Win,True,6.0,No Goal,False,La Liga,17,28,"D,L,L,D,W",8,5,15,29,23,47,-24,Valladolid,2
 Almeria,Mallorca,0,True,False,1,1,away,Loss,False,6.0,No Goal,True,La Liga,12,28,"D,D,L,D,L",9,7,12,34,25,30,-5,Mallorca,1
-Elche,Barcelona,0,True,False,3,3,away,Loss,False,6.0,No Goal,True,La Liga,1,27,"W,W,W,W,L",23,2,2,71,53,9,44,Barcelona,0
+Elche,Barcelona,0,True,False,3,3,away,Loss,False,6.0,No Goal,True,La Liga,1,28,"D,W,W,W,W",23,3,2,72,53,9,44,Barcelona,0
 Celta,Valencia,0,True,False,3,3,away,Loss,False,6.0,No Goal,True,La Liga,18,28,"L,D,L,W,L",7,6,15,27,30,34,-4,Valencia,2
 Vallecano,Ath Bilbao,2,False,True,5,3,away,Loss,True,6.0,Goal,True,La Liga,7,28,"W,D,W,L,D",11,7,10,40,38,29,9,Ath Bilbao,0
 Getafe,Osasuna,2,True,False,2,0,away,Win,True,6.0,No Goal,False,La Liga,8,28,"W,D,L,L,D",10,8,10,38,24,28,-4,Osasuna,1
@@ -1364,7 +1364,7 @@ Ath Madrid,Sevilla,2,True,False,2,0,away,Win,True,7.0,No Goal,False,La Liga,13,2
 Barcelona,Mallorca,1,True,False,1,0,away,Win,True,7.0,No Goal,False,La Liga,12,28,"D,D,L,D,L",9,7,12,34,25,30,-5,Mallorca,1
 Valencia,Espanol,2,False,True,4,2,away,Draw,True,7.0,Goal,True,La Liga,19,28,"L,L,L,L,L",6,9,13,27,34,46,-12,Espanol,2
 Betis,Celta,0,True,False,1,1,away,Loss,False,7.0,No Goal,True,La Liga,10,28,"D,D,W,W,D",9,9,10,36,36,39,-3,Celta,1
-Sociedad,Girona,5,False,True,8,3,away,Win,True,7.0,Goal,True,La Liga,11,27,"W,D,L,L,W",9,7,11,34,42,42,0,Girona,1
+Sociedad,Girona,5,False,True,8,3,away,Win,True,7.0,Goal,True,La Liga,11,28,"D,W,D,L,L",9,8,11,35,42,42,0,Girona,1
 Osasuna,Real Madrid,1,False,True,2,1,away,Draw,True,7.0,Goal,True,La Liga,2,28,"L,W,L,W,D",18,5,5,59,59,24,35,Real Madrid,0
 Elche,Vallecano,1,False,True,3,2,away,Loss,True,7.0,Goal,True,La Liga,9,28,"L,D,D,L,D",9,10,9,37,33,33,0,Vallecano,1
 Valencia,Osasuna,2,False,True,3,1,away,Win,True,8.0,Goal,True,La Liga,8,28,"W,D,L,L,D",10,8,10,38,24,28,-4,Osasuna,1
@@ -1375,10 +1375,10 @@ Real Madrid,Getafe,1,True,False,1,0,away,Win,True,8.0,No Goal,False,La Liga,15,2
 Betis,Valladolid,0,True,False,0,0,away,Draw,False,8.0,No Goal,False,La Liga,17,28,"D,L,L,D,W",8,5,15,29,23,47,-24,Valladolid,2
 Espanol,Cadiz,2,False,True,4,2,away,Draw,True,8.0,Goal,True,La Liga,14,28,"W,L,D,D,D",7,10,11,31,23,40,-17,Cadiz,1
 Villarreal,Sociedad,0,True,False,1,1,away,Loss,False,8.0,No Goal,True,La Liga,4,28,"W,L,W,D,D",15,6,7,51,37,26,11,Sociedad,0
-Celta,Barcelona,0,True,False,1,1,away,Loss,False,8.0,No Goal,True,La Liga,1,27,"W,W,W,W,L",23,2,2,71,53,9,44,Barcelona,0
+Celta,Barcelona,0,True,False,1,1,away,Loss,False,8.0,No Goal,True,La Liga,1,28,"D,W,W,W,W",23,3,2,72,53,9,44,Barcelona,0
 Mallorca,Elche,1,False,True,2,1,away,Draw,True,8.0,Goal,True,La Liga,20,28,"L,L,L,D,W",2,7,19,13,20,57,-37,Elche,2
 Getafe,Vallecano,0,True,False,0,0,away,Draw,False,9.0,No Goal,False,La Liga,9,28,"L,D,D,L,D",9,10,9,37,33,33,0,Vallecano,1
-Cadiz,Girona,1,False,True,2,1,away,Draw,True,9.0,Goal,True,La Liga,11,27,"W,D,L,L,W",9,7,11,34,42,42,0,Girona,1
+Cadiz,Girona,1,False,True,2,1,away,Draw,True,9.0,Goal,True,La Liga,11,28,"D,W,D,L,L",9,8,11,35,42,42,0,Girona,1
 Elche,Valencia,2,False,True,4,2,away,Draw,True,9.0,Goal,True,La Liga,18,28,"L,D,L,W,L",7,6,15,27,30,34,-4,Valencia,2
 Sevilla,Mallorca,1,True,False,1,0,away,Win,True,9.0,No Goal,False,La Liga,12,28,"D,D,L,D,L",9,7,12,34,25,30,-5,Mallorca,1
 Ath Madrid,Ath Bilbao,1,True,False,1,0,away,Win,True,9.0,No Goal,False,La Liga,7,28,"W,D,W,L,D",11,7,10,40,38,29,9,Ath Bilbao,0
@@ -1396,16 +1396,16 @@ Mallorca,Sociedad,0,True,False,1,1,away,Loss,False,10.0,No Goal,True,La Liga,4,2
 Real Madrid,Elche,3,True,False,3,0,away,Win,True,10.0,No Goal,False,La Liga,20,28,"L,L,L,D,W",2,7,19,13,20,57,-37,Elche,2
 Girona,Almeria,2,False,True,5,3,away,Loss,True,10.0,Goal,True,La Liga,16,28,"W,D,D,L,L",8,6,14,30,34,48,-14,Almeria,2
 Espanol,Osasuna,0,True,False,1,1,away,Loss,False,10.0,No Goal,True,La Liga,8,28,"W,D,L,L,D",10,8,10,38,24,28,-4,Osasuna,1
-Villarreal,Barcelona,0,True,False,3,3,away,Loss,False,10.0,No Goal,True,La Liga,1,27,"W,W,W,W,L",23,2,2,71,53,9,44,Barcelona,0
+Villarreal,Barcelona,0,True,False,3,3,away,Loss,False,10.0,No Goal,True,La Liga,1,28,"D,W,W,W,W",23,3,2,72,53,9,44,Barcelona,0
 Cadiz,Vallecano,1,False,True,6,5,away,Loss,True,11.0,Goal,True,La Liga,9,28,"L,D,D,L,D",9,10,9,37,33,33,0,Vallecano,1
 Sociedad,Valladolid,0,True,False,1,1,away,Loss,False,11.0,No Goal,True,La Liga,17,28,"D,L,L,D,W",8,5,15,29,23,47,-24,Valladolid,2
 Mallorca,Valencia,2,False,True,3,1,away,Win,True,11.0,Goal,True,La Liga,18,28,"L,D,L,W,L",7,6,15,27,30,34,-4,Valencia,2
 Sevilla,Real Madrid,1,False,True,4,3,away,Loss,True,11.0,Goal,True,La Liga,2,28,"L,W,L,W,D",18,5,5,59,59,24,35,Real Madrid,0
 Elche,Espanol,2,False,True,4,2,away,Draw,True,11.0,Goal,True,La Liga,19,28,"L,L,L,L,L",6,9,13,27,34,46,-12,Espanol,2
 Ath Madrid,Betis,2,False,True,3,1,away,Win,True,11.0,Goal,True,La Liga,6,28,"L,L,W,D,D",13,6,9,45,34,29,5,Betis,0
-Osasuna,Girona,1,False,True,2,1,away,Draw,True,11.0,Goal,True,La Liga,11,27,"W,D,L,L,W",9,7,11,34,42,42,0,Girona,1
+Osasuna,Girona,1,False,True,2,1,away,Draw,True,11.0,Goal,True,La Liga,11,28,"D,W,D,L,L",9,8,11,35,42,42,0,Girona,1
 Almeria,Villarreal,1,False,True,3,2,away,Loss,True,11.0,Goal,True,La Liga,5,28,"W,W,W,D,W",14,5,9,47,37,26,11,Villarreal,0
-Ath Bilbao,Barcelona,0,True,False,4,4,away,Loss,False,11.0,No Goal,True,La Liga,1,27,"W,W,W,W,L",23,2,2,71,53,9,44,Barcelona,0
+Ath Bilbao,Barcelona,0,True,False,4,4,away,Loss,False,11.0,No Goal,True,La Liga,1,28,"D,W,W,W,W",23,3,2,72,53,9,44,Barcelona,0
 Getafe,Celta,1,False,True,2,1,away,Draw,True,11.0,Goal,True,La Liga,10,28,"D,D,W,W,D",9,9,10,36,36,39,-3,Celta,1
 Espanol,Mallorca,1,False,True,2,1,away,Draw,True,12.0,Goal,True,La Liga,12,28,"D,D,L,D,L",9,7,12,34,25,30,-5,Mallorca,1
 Celta,Almeria,1,False,True,4,3,away,Loss,True,12.0,Goal,True,La Liga,16,28,"W,D,D,L,L",8,6,14,30,34,48,-14,Almeria,2
@@ -1417,11 +1417,11 @@ Girona,Real Madrid,1,False,True,2,1,away,Draw,True,12.0,Goal,True,La Liga,2,28,"
 Villarreal,Ath Bilbao,0,True,False,1,1,away,Loss,False,12.0,No Goal,True,La Liga,7,28,"W,D,W,L,D",11,7,10,40,38,29,9,Ath Bilbao,0
 Betis,Sociedad,2,True,False,2,0,away,Win,True,12.0,No Goal,False,La Liga,4,28,"W,L,W,D,D",15,6,7,51,37,26,11,Sociedad,0
 Getafe,Elche,1,True,False,1,0,away,Win,True,12.0,No Goal,False,La Liga,20,28,"L,L,L,D,W",2,7,19,13,20,57,-37,Elche,2
-Ath Bilbao,Girona,1,False,True,3,2,away,Loss,True,13.0,Goal,True,La Liga,11,27,"W,D,L,L,W",9,7,11,34,42,42,0,Girona,1
+Ath Bilbao,Girona,1,False,True,3,2,away,Loss,True,13.0,Goal,True,La Liga,11,28,"D,W,D,L,L",9,8,11,35,42,42,0,Girona,1
 Cadiz,Getafe,0,True,False,0,0,away,Draw,False,13.0,No Goal,False,La Liga,15,28,"L,D,W,D,W",7,9,12,30,27,36,-9,Getafe,2
 Elche,Valladolid,1,False,True,3,2,away,Loss,True,13.0,Goal,True,La Liga,17,28,"D,L,L,D,W",8,5,15,29,23,47,-24,Valladolid,2
 Osasuna,Celta,2,False,True,3,1,away,Win,True,13.0,Goal,True,La Liga,10,28,"D,D,W,W,D",9,9,10,36,36,39,-3,Celta,1
-Almeria,Barcelona,0,True,False,2,2,away,Loss,False,13.0,No Goal,True,La Liga,1,27,"W,W,W,W,L",23,2,2,71,53,9,44,Barcelona,0
+Almeria,Barcelona,0,True,False,2,2,away,Loss,False,13.0,No Goal,True,La Liga,1,28,"D,W,W,W,W",23,3,2,72,53,9,44,Barcelona,0
 Espanol,Ath Madrid,1,False,True,2,1,away,Draw,True,13.0,Goal,True,La Liga,3,28,"W,W,W,W,W",17,6,5,57,45,20,25,Ath Madrid,0
 Valencia,Sociedad,1,False,True,2,1,away,Draw,True,13.0,Goal,True,La Liga,4,28,"W,L,W,D,D",15,6,7,51,37,26,11,Sociedad,0
 Mallorca,Villarreal,2,True,False,2,0,away,Win,True,13.0,No Goal,False,La Liga,5,28,"W,W,W,D,W",14,5,9,47,37,26,11,Villarreal,0
@@ -1437,14 +1437,14 @@ Ath Madrid,Mallorca,0,True,False,1,1,away,Loss,False,14.0,No Goal,True,La Liga,1
 Celta,Vallecano,0,True,False,0,0,away,Draw,False,14.0,No Goal,False,La Liga,9,28,"L,D,D,L,D",9,10,9,37,33,33,0,Vallecano,1
 Betis,Valencia,0,True,False,3,3,away,Loss,False,14.0,No Goal,True,La Liga,18,28,"L,D,L,W,L",7,6,15,27,30,34,-4,Valencia,2
 Cadiz,Real Madrid,1,False,True,3,2,away,Loss,True,14.0,Goal,True,La Liga,2,28,"L,W,L,W,D",18,5,5,59,59,24,35,Real Madrid,0
-Vallecano,Girona,2,False,True,4,2,away,Draw,True,15.0,Goal,True,La Liga,11,27,"W,D,L,L,W",9,7,11,34,42,42,0,Girona,1
+Vallecano,Girona,2,False,True,4,2,away,Draw,True,15.0,Goal,True,La Liga,11,28,"D,W,D,L,L",9,8,11,35,42,42,0,Girona,1
 Ath Bilbao,Betis,0,True,False,0,0,away,Draw,False,15.0,No Goal,False,La Liga,6,28,"L,L,W,D,D",13,6,9,45,34,29,5,Betis,0
 Elche,Ath Madrid,0,True,False,2,2,away,Loss,False,15.0,No Goal,True,La Liga,3,28,"W,W,W,W,W",17,6,5,57,45,20,25,Ath Madrid,0
 Mallorca,Getafe,0,True,False,2,2,away,Loss,False,15.0,No Goal,True,La Liga,15,28,"L,D,W,D,W",7,9,12,30,27,36,-9,Getafe,2
 Almeria,Cadiz,1,False,True,2,1,away,Draw,True,15.0,Goal,True,La Liga,14,28,"W,L,D,D,D",7,10,11,31,23,40,-17,Cadiz,1
 Sevilla,Celta,1,False,True,2,1,away,Draw,True,15.0,Goal,True,La Liga,10,28,"D,D,W,W,D",9,9,10,36,36,39,-3,Celta,1
 Real Madrid,Valladolid,2,True,False,2,0,away,Win,True,15.0,No Goal,False,La Liga,17,28,"D,L,L,D,W",8,5,15,29,23,47,-24,Valladolid,2
-Espanol,Barcelona,1,False,True,2,1,away,Draw,True,15.0,Goal,True,La Liga,1,27,"W,W,W,W,L",23,2,2,71,53,9,44,Barcelona,0
+Espanol,Barcelona,1,False,True,2,1,away,Draw,True,15.0,Goal,True,La Liga,1,28,"D,W,W,W,W",23,3,2,72,53,9,44,Barcelona,0
 Osasuna,Sociedad,0,True,False,2,2,away,Loss,False,15.0,No Goal,True,La Liga,4,28,"W,L,W,D,D",15,6,7,51,37,26,11,Sociedad,0
 Valencia,Villarreal,1,False,True,3,2,away,Loss,True,15.0,Goal,True,La Liga,5,28,"W,W,W,D,W",14,5,9,47,37,26,11,Villarreal,0
 Celta,Elche,1,True,False,1,0,away,Win,True,16.0,No Goal,False,La Liga,20,28,"L,L,L,D,W",2,7,19,13,20,57,-37,Elche,2
@@ -1460,7 +1460,7 @@ Osasuna,Ath Bilbao,0,True,False,0,0,away,Draw,False,16.0,No Goal,False,La Liga,7
 Villarreal,Celta,1,False,True,2,1,away,Draw,True,17.0,Goal,True,La Liga,10,28,"D,D,W,W,D",9,9,10,36,36,39,-3,Celta,1
 Valencia,Real Madrid,0,True,False,2,2,away,Loss,False,17.0,No Goal,True,La Liga,2,28,"L,W,L,W,D",18,5,5,59,59,24,35,Real Madrid,0
 Vallecano,Valladolid,1,True,False,1,0,away,Win,True,17.0,No Goal,False,La Liga,17,28,"D,L,L,D,W",8,5,15,29,23,47,-24,Valladolid,2
-Sevilla,Girona,1,False,True,3,2,away,Loss,True,17.0,Goal,True,La Liga,11,27,"W,D,L,L,W",9,7,11,34,42,42,0,Girona,1
+Sevilla,Girona,1,False,True,3,2,away,Loss,True,17.0,Goal,True,La Liga,11,28,"D,W,D,L,L",9,8,11,35,42,42,0,Girona,1
 Mallorca,Osasuna,0,True,False,1,1,away,Loss,False,17.0,No Goal,True,La Liga,8,28,"W,D,L,L,D",10,8,10,38,24,28,-4,Osasuna,1
 Ath Bilbao,Sociedad,1,False,True,4,3,away,Loss,True,17.0,Goal,True,La Liga,4,28,"W,L,W,D,D",15,6,7,51,37,26,11,Sociedad,0
 Espanol,Getafe,2,False,True,3,1,away,Win,True,17.0,Goal,True,La Liga,15,28,"L,D,W,D,W",7,9,12,30,27,36,-9,Getafe,2
@@ -1473,12 +1473,12 @@ Valladolid,Ath Madrid,0,True,False,3,3,away,Loss,False,18.0,No Goal,True,La Liga
 Cadiz,Sevilla,0,True,False,1,1,away,Loss,False,18.0,No Goal,True,La Liga,13,28,"D,W,L,W,L",8,8,12,32,33,44,-11,Sevilla,1
 Girona,Villarreal,0,True,False,1,1,away,Loss,False,18.0,No Goal,True,La Liga,5,28,"W,W,W,D,W",14,5,9,47,37,26,11,Villarreal,0
 Osasuna,Elche,1,False,True,2,1,away,Draw,True,18.0,Goal,True,La Liga,20,28,"L,L,L,D,W",2,7,19,13,20,57,-37,Elche,2
-Getafe,Barcelona,0,True,False,1,1,away,Loss,False,18.0,No Goal,True,La Liga,1,27,"W,W,W,W,L",23,2,2,71,53,9,44,Barcelona,0
+Getafe,Barcelona,0,True,False,1,1,away,Loss,False,18.0,No Goal,True,La Liga,1,28,"D,W,W,W,W",23,3,2,72,53,9,44,Barcelona,0
 Real Madrid,Ath Bilbao,2,True,False,2,0,away,Win,True,18.0,No Goal,False,La Liga,7,28,"W,D,W,L,D",11,7,10,40,38,29,9,Ath Bilbao,0
 Almeria,Valencia,2,False,True,4,2,away,Draw,True,18.0,Goal,True,La Liga,18,28,"L,D,L,W,L",7,6,15,27,30,34,-4,Valencia,2
 Espanol,Almeria,1,False,True,4,3,away,Loss,True,19.0,Goal,True,La Liga,16,28,"W,D,D,L,L",8,6,14,30,34,48,-14,Almeria,2
 Mallorca,Cadiz,0,True,False,2,2,away,Loss,False,19.0,No Goal,True,La Liga,14,28,"W,L,D,D,D",7,10,11,31,23,40,-17,Cadiz,1
-Barcelona,Girona,1,True,False,1,0,away,Win,True,19.0,No Goal,False,La Liga,11,27,"W,D,L,L,W",9,7,11,34,42,42,0,Girona,1
+Barcelona,Girona,1,True,False,1,0,away,Win,True,19.0,No Goal,False,La Liga,11,28,"D,W,D,L,L",9,8,11,35,42,42,0,Girona,1
 Elche,Sevilla,0,True,False,3,3,away,Loss,False,19.0,No Goal,True,La Liga,13,28,"D,W,L,W,L",8,8,12,32,33,44,-11,Sevilla,1
 Betis,Getafe,1,True,False,1,0,away,Win,True,19.0,No Goal,False,La Liga,15,28,"L,D,W,D,W",7,9,12,30,27,36,-9,Getafe,2
 Valencia,Valladolid,0,True,False,1,1,away,Loss,False,19.0,No Goal,True,La Liga,17,28,"D,L,L,D,W",8,5,15,29,23,47,-24,Valladolid,2
@@ -1493,9 +1493,9 @@ Villarreal,Elche,1,False,True,4,3,away,Loss,True,21.0,Goal,True,La Liga,20,28,"L
 Getafe,Ath Madrid,1,False,True,2,1,away,Draw,True,21.0,Goal,True,La Liga,3,28,"W,W,W,W,W",17,6,5,57,45,20,25,Ath Madrid,0
 Celta,Betis,4,False,True,7,3,away,Win,True,21.0,Goal,True,La Liga,6,28,"L,L,W,D,D",13,6,9,45,34,29,5,Betis,0
 Real Madrid,Mallorca,0,True,False,1,1,away,Loss,False,21.0,No Goal,True,La Liga,12,28,"D,D,L,D,L",9,7,12,34,25,30,-5,Mallorca,1
-Valencia,Girona,0,True,False,1,1,away,Loss,False,21.0,No Goal,True,La Liga,11,27,"W,D,L,L,W",9,7,11,34,42,42,0,Girona,1
+Valencia,Girona,0,True,False,1,1,away,Loss,False,21.0,No Goal,True,La Liga,11,28,"D,W,D,L,L",9,8,11,35,42,42,0,Girona,1
 Valladolid,Sociedad,1,True,False,1,0,away,Win,True,21.0,No Goal,False,La Liga,4,28,"W,L,W,D,D",15,6,7,51,37,26,11,Sociedad,0
-Sevilla,Barcelona,0,True,False,3,3,away,Loss,False,21.0,No Goal,True,La Liga,1,27,"W,W,W,W,L",23,2,2,71,53,9,44,Barcelona,0
+Sevilla,Barcelona,0,True,False,3,3,away,Loss,False,21.0,No Goal,True,La Liga,1,28,"D,W,W,W,W",23,3,2,72,53,9,44,Barcelona,0
 Almeria,Vallecano,0,True,False,2,2,away,Loss,False,21.0,No Goal,True,La Liga,9,28,"L,D,D,L,D",9,10,9,37,33,33,0,Vallecano,1
 Girona,Cadiz,0,True,False,2,2,away,Loss,False,22.0,No Goal,True,La Liga,14,28,"W,L,D,D,D",7,10,11,31,23,40,-17,Cadiz,1
 Betis,Almeria,3,False,True,5,2,away,Win,True,22.0,Goal,True,La Liga,16,28,"W,D,D,L,L",8,6,14,30,34,48,-14,Almeria,2
@@ -1507,7 +1507,7 @@ Osasuna,Valladolid,0,True,False,0,0,away,Draw,False,22.0,No Goal,False,La Liga,1
 Barcelona,Villarreal,1,True,False,1,0,away,Win,True,22.0,No Goal,False,La Liga,5,28,"W,W,W,D,W",14,5,9,47,37,26,11,Villarreal,0
 Sociedad,Espanol,3,False,True,5,2,away,Win,True,22.0,Goal,True,La Liga,19,28,"L,L,L,L,L",6,9,13,27,34,46,-12,Espanol,2
 Elche,Real Madrid,0,True,False,4,4,away,Loss,False,22.0,No Goal,True,La Liga,2,28,"L,W,L,W,D",18,5,5,59,59,24,35,Real Madrid,0
-Almeria,Girona,2,False,True,8,6,away,Loss,True,23.0,Goal,True,La Liga,11,27,"W,D,L,L,W",9,7,11,34,42,42,0,Girona,1
+Almeria,Girona,2,False,True,8,6,away,Loss,True,23.0,Goal,True,La Liga,11,28,"D,W,D,L,L",9,8,11,35,42,42,0,Girona,1
 Celta,Sociedad,1,False,True,2,1,away,Draw,True,23.0,Goal,True,La Liga,4,28,"W,L,W,D,D",15,6,7,51,37,26,11,Sociedad,0
 Valladolid,Betis,1,False,True,3,2,away,Loss,True,23.0,Goal,True,La Liga,6,28,"L,L,W,D,D",13,6,9,45,34,29,5,Betis,0
 Villarreal,Mallorca,2,False,True,6,4,away,Loss,True,23.0,Goal,True,La Liga,12,28,"D,D,L,D,L",9,7,12,34,25,30,-5,Mallorca,1
@@ -1515,7 +1515,7 @@ Real Madrid,Osasuna,2,True,False,2,0,away,Win,True,23.0,No Goal,False,La Liga,8,
 Espanol,Elche,1,True,False,1,0,away,Win,True,23.0,No Goal,False,La Liga,20,28,"L,L,L,D,W",2,7,19,13,20,57,-37,Elche,2
 Sevilla,Vallecano,1,False,True,2,1,away,Draw,True,23.0,Goal,True,La Liga,9,28,"L,D,D,L,D",9,10,9,37,33,33,0,Vallecano,1
 Ath Bilbao,Ath Madrid,0,True,False,1,1,away,Loss,False,23.0,No Goal,True,La Liga,3,28,"W,W,W,W,W",17,6,5,57,45,20,25,Ath Madrid,0
-Cadiz,Barcelona,0,True,False,2,2,away,Loss,False,23.0,No Goal,True,La Liga,1,27,"W,W,W,W,L",23,2,2,71,53,9,44,Barcelona,0
+Cadiz,Barcelona,0,True,False,2,2,away,Loss,False,23.0,No Goal,True,La Liga,1,28,"D,W,W,W,W",23,3,2,72,53,9,44,Barcelona,0
 Valencia,Getafe,0,True,False,1,1,away,Loss,False,23.0,No Goal,True,La Liga,15,28,"L,D,W,D,W",7,9,12,30,27,36,-9,Getafe,2
 Betis,Elche,3,False,True,5,2,away,Win,True,24.0,Goal,True,La Liga,20,28,"L,L,L,D,W",2,7,19,13,20,57,-37,Elche,2
 Mallorca,Espanol,1,False,True,3,2,away,Loss,True,24.0,Goal,True,La Liga,19,28,"L,L,L,L,L",6,9,13,27,34,46,-12,Espanol,2
@@ -1533,7 +1533,7 @@ Villarreal,Almeria,2,True,False,2,0,away,Win,True,25.0,No Goal,False,La Liga,16,
 Elche,Mallorca,1,True,False,1,0,away,Win,True,25.0,No Goal,False,La Liga,12,28,"D,D,L,D,L",9,7,12,34,25,30,-5,Mallorca,1
 Sevilla,Ath Madrid,1,False,True,7,6,away,Loss,True,25.0,Goal,True,La Liga,3,28,"W,W,W,W,W",17,6,5,57,45,20,25,Ath Madrid,0
 Espanol,Valladolid,1,False,True,3,2,away,Loss,True,25.0,Goal,True,La Liga,17,28,"D,L,L,D,W",8,5,15,29,23,47,-24,Valladolid,2
-Valencia,Barcelona,0,True,False,1,1,away,Loss,False,25.0,No Goal,True,La Liga,1,27,"W,W,W,W,L",23,2,2,71,53,9,44,Barcelona,0
+Valencia,Barcelona,0,True,False,1,1,away,Loss,False,25.0,No Goal,True,La Liga,1,28,"D,W,W,W,W",23,3,2,72,53,9,44,Barcelona,0
 Ath Bilbao,Vallecano,0,True,False,0,0,away,Draw,False,25.0,No Goal,False,La Liga,9,28,"L,D,D,L,D",9,10,9,37,33,33,0,Vallecano,1
 Real Madrid,Betis,0,True,False,0,0,away,Draw,False,25.0,No Goal,False,La Liga,6,28,"L,L,W,D,D",13,6,9,45,34,29,5,Betis,0
 Celta,Osasuna,0,True,False,0,0,away,Draw,False,25.0,No Goal,False,La Liga,8,28,"W,D,L,L,D",10,8,10,38,24,28,-4,Osasuna,1
@@ -1546,7 +1546,7 @@ Sociedad,Mallorca,1,False,True,2,1,away,Draw,True,26.0,Goal,True,La Liga,12,28,"
 Almeria,Sevilla,1,False,True,3,2,away,Loss,True,26.0,Goal,True,La Liga,13,28,"D,W,L,W,L",8,8,12,32,33,44,-11,Sevilla,1
 Betis,Villarreal,1,False,True,2,1,away,Draw,True,26.0,Goal,True,La Liga,5,28,"W,W,W,D,W",14,5,9,47,37,26,11,Villarreal,0
 Barcelona,Ath Bilbao,1,True,False,1,0,away,Win,True,26.0,No Goal,False,La Liga,7,28,"W,D,W,L,D",11,7,10,40,38,29,9,Ath Bilbao,0
-Ath Madrid,Girona,1,True,False,1,0,away,Win,True,26.0,No Goal,False,La Liga,11,27,"W,D,L,L,W",9,7,11,34,42,42,0,Girona,1
+Ath Madrid,Girona,1,True,False,1,0,away,Win,True,26.0,No Goal,False,La Liga,11,28,"D,W,D,L,L",9,8,11,35,42,42,0,Girona,1
 Ath Bilbao,Valladolid,3,False,True,4,1,away,Win,True,27.0,Goal,True,La Liga,17,28,"D,L,L,D,W",8,5,15,29,23,47,-24,Valladolid,2
 Cadiz,Almeria,1,False,True,2,1,away,Draw,True,27.0,Goal,True,La Liga,16,28,"W,D,D,L,L",8,6,14,30,34,48,-14,Almeria,2
 Girona,Vallecano,2,False,True,4,2,away,Draw,True,27.0,Goal,True,La Liga,9,28,"L,D,D,L,D",9,10,9,37,33,33,0,Vallecano,1
@@ -1556,9 +1556,9 @@ Mallorca,Betis,0,True,False,1,1,away,Loss,False,27.0,No Goal,True,La Liga,6,28,"
 Villarreal,Osasuna,3,True,False,3,0,away,Win,True,27.0,No Goal,False,La Liga,8,28,"W,D,L,L,D",10,8,10,38,24,28,-4,Osasuna,1
 Elche,Sociedad,0,True,False,2,2,away,Loss,False,27.0,No Goal,True,La Liga,4,28,"W,L,W,D,D",15,6,7,51,37,26,11,Sociedad,0
 Sevilla,Getafe,0,True,False,2,2,away,Loss,False,27.0,No Goal,True,La Liga,15,28,"L,D,W,D,W",7,9,12,30,27,36,-9,Getafe,2
-Real Madrid,Barcelona,1,False,True,3,2,away,Loss,True,27.0,Goal,True,La Liga,1,27,"W,W,W,W,L",23,2,2,71,53,9,44,Barcelona,0
+Real Madrid,Barcelona,1,False,True,3,2,away,Loss,True,27.0,Goal,True,La Liga,1,28,"D,W,W,W,W",23,3,2,72,53,9,44,Barcelona,0
 Osasuna,Mallorca,0,True,False,0,0,away,Draw,False,28.0,No Goal,False,La Liga,12,28,"D,D,L,D,L",9,7,12,34,25,30,-5,Mallorca,1
-Espanol,Girona,1,False,True,3,2,away,Loss,True,28.0,Goal,True,La Liga,11,27,"W,D,L,L,W",9,7,11,34,42,42,0,Girona,1
+Espanol,Girona,1,False,True,3,2,away,Loss,True,28.0,Goal,True,La Liga,11,28,"D,W,D,L,L",9,8,11,35,42,42,0,Girona,1
 Getafe,Ath Bilbao,0,True,False,0,0,away,Draw,False,28.0,No Goal,False,La Liga,7,28,"W,D,W,L,D",11,7,10,40,38,29,9,Ath Bilbao,0
 Sevilla,Cadiz,2,True,False,2,0,away,Win,True,28.0,No Goal,False,La Liga,14,28,"W,L,D,D,D",7,10,11,31,23,40,-17,Cadiz,1
 Barcelona,Elche,4,True,False,4,0,away,Win,True,28.0,No Goal,False,La Liga,20,28,"L,L,L,D,W",2,7,19,13,20,57,-37,Elche,2
