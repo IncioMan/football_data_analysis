@@ -92,3 +92,32 @@
     - In generale No Goal è quello più safe. 
         Unico dubbio sono i due turni champions prima e dopo questa
         è anche vero che NoGoal può anche voler dire che segna il sass e la juve no perchè distratta
+#### Roma - Udinese: NoGoal
+- No Goal:
+    - Overall: non altissimi, roma 55 e udin 40
+    - Group: idem con roma in calo da 55 a 51
+    - Group Home/Away: roma calo 66 a 59 udinese in salita 50 a 57
+- Has Scored:
+    - Group: roma in salita 88 a 96 udinese da 70 a 62
+    - Group: Home roma 100% away udinese da 50 a 42
+- Has Conceded:
+    - Group: roma da 55 a 52 udinese stabile 70
+- Wins: 
+    - roma il leggero calo grouo home, udinese invece in salita group away draw
+- Outcome:
+    - probabile roma segni e udinese no, ma incognita europa e turnover che roma deve fare udinese no. anche in quel caso potrebbe vincere l'udinese o 0-0 ma roma con turnover la vedo dura che segni, non ha un gran attacco in panchina
+    
+#### Fiorentina - Atalanta: Goal
+- No Goal:
+    - Overall: non altissimi, fiore 50 e atalanta 45
+    - Group: fiore 55 e 50 atalanta
+    - Group Home/Away: fiore da 40 a 22! atalanta 60
+- Has Scored:
+    - Group: fiore in salita 54 a 63 atal da 80 a 66
+    - Group: Home fiore da 60 a 73 1atalanta da 80 a 67
+- Has Conceded:
+    - Group: fiore 80 atlanta 60
+- Wins: 
+    - fiore in trend positivo atalanta negativo
+- Outcome:
+    - probabile segnino entrambe. fiore 80% concede, anche se atalanta un pò a digiuno di goal (ma cmq 66 streak). Fiore ha l'europa quindi magari distratta, ma fiore 22% streak no goal in casa vs group (5 partite)
