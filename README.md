@@ -5,7 +5,7 @@ Combining these insights with an intuitive visualization it is possible to use t
 
 ##
 # How to use the notebook
-The magic happpens in this [notebook](Analysis.ipynb). 
+The magic happpens in this [notebook](./notebooks/Analysis.ipynb). 
 
 The first part of the notebook precalculates metrics for the different dimensions, teams, groups, home/away etc.
 
@@ -29,7 +29,7 @@ Just scroll though the code to see intuitive graphs such as these ones.
 ![NoGoal](./images/nogoal.png)
 
 ### Fun Exploration
-I use this [notebook](explore.ipynb) to investigate outliers, particular trends, exceptionally performing teams. Just for fun.
+I use this [notebook](./notebooks/Explore.ipynb) to investigate outliers, particular trends, exceptionally performing teams. Just for fun.
 For example, out of all the considered championships, we can look at metrics such as:
 - Teams with highest delta average goals for-against
 - Teams with highest delta average goals for-against, with top tier teams in their championship
