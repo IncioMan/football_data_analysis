@@ -279,6 +279,16 @@ Roma,Sampdoria,3,True,False,3,0,home,Win,True,28.0,No Goal,False,Serie A,20,29,,
 Napoli,Milan,0,True,False,4,4,home,Loss,False,28.0,No Goal,True,Serie A,4,29,,15,7,7,52,48,36,12,Milan,0
 Empoli,Lecce,1,True,False,1,0,home,Win,True,28.0,No Goal,False,Serie A,16,29,,6,9,14,27,25,35,-10,Lecce,2
 Sassuolo,Torino,1,False,True,2,1,home,Draw,True,28.0,Goal,True,Serie A,11,29,,10,8,11,38,30,35,-5,Torino,1
+Salernitana,Inter,1,False,True,2,1,home,Draw,True,29.0,Goal,True,Serie A,5,29,,16,3,10,51,48,33,15,Inter,0
+Lecce,Napoli,1,False,True,3,2,home,Loss,True,29.0,Goal,True,Serie A,1,29,,24,2,3,74,66,21,45,Napoli,0
+Milan,Empoli,0,True,False,0,0,home,Draw,False,29.0,No Goal,False,Serie A,14,29,,7,11,11,32,25,36,-11,Empoli,1
+Udinese,Monza,2,False,True,4,2,home,Draw,True,29.0,Goal,True,Serie A,13,29,,9,8,12,35,34,41,-7,Monza,1
+Fiorentina,Spezia,1,False,True,2,1,home,Draw,True,29.0,Goal,True,Serie A,17,29,,5,11,13,26,25,45,-20,Spezia,2
+Atalanta,Bologna,0,True,False,2,2,home,Loss,False,29.0,No Goal,True,Serie A,8,29,,12,7,10,43,38,36,2,Bologna,1
+Sampdoria,Cremonese,2,False,True,5,3,home,Loss,True,29.0,Goal,True,Serie A,19,29,,2,10,17,16,26,54,-28,Cremonese,2
+Torino,Roma,0,True,False,1,1,home,Loss,False,29.0,No Goal,True,Serie A,3,29,,16,5,8,53,39,26,13,Roma,0
+Verona,Sassuolo,2,False,True,3,1,home,Win,True,29.0,Goal,True,Serie A,12,29,,10,7,12,37,37,43,-6,Sassuolo,1
+Lazio,Juventus,2,False,True,3,1,home,Win,True,29.0,Goal,True,Serie A,7,29,,18,5,6,44,47,24,23,Juventus,0
 Udinese,Milan,2,False,True,6,4,away,Loss,True,1.0,Goal,True,Serie A,4,29,,15,7,7,52,48,36,12,Milan,0
 Atalanta,Sampdoria,2,True,False,2,0,away,Win,True,1.0,No Goal,False,Serie A,20,29,,3,6,20,15,18,50,-32,Sampdoria,2
 Inter,Lecce,2,False,True,3,1,away,Win,True,1.0,Goal,True,Serie A,16,29,,6,9,14,27,25,35,-10,Lecce,2
@@ -559,6 +569,16 @@ Sampdoria,Roma,0,True,False,3,3,away,Loss,False,28.0,No Goal,True,Serie A,3,29,,
 Milan,Napoli,4,True,False,4,0,away,Win,True,28.0,No Goal,False,Serie A,1,29,,24,2,3,74,66,21,45,Napoli,0
 Lecce,Empoli,0,True,False,1,1,away,Loss,False,28.0,No Goal,True,Serie A,14,29,,7,11,11,32,25,36,-11,Empoli,1
 Torino,Sassuolo,1,False,True,2,1,away,Draw,True,28.0,Goal,True,Serie A,12,29,,10,7,12,37,37,43,-6,Sassuolo,1
+Inter,Salernitana,1,False,True,2,1,away,Draw,True,29.0,Goal,True,Serie A,15,29,,6,11,12,29,33,49,-16,Salernitana,2
+Napoli,Lecce,2,False,True,3,1,away,Win,True,29.0,Goal,True,Serie A,16,29,,6,9,14,27,25,35,-10,Lecce,2
+Empoli,Milan,0,True,False,0,0,away,Draw,False,29.0,No Goal,False,Serie A,4,29,,15,7,7,52,48,36,12,Milan,0
+Monza,Udinese,2,False,True,4,2,away,Draw,True,29.0,Goal,True,Serie A,10,29,,9,12,8,39,39,36,3,Udinese,1
+Spezia,Fiorentina,1,False,True,2,1,away,Draw,True,29.0,Goal,True,Serie A,9,29,,11,8,10,41,34,32,2,Fiorentina,1
+Bologna,Atalanta,2,True,False,2,0,away,Win,True,29.0,No Goal,False,Serie A,6,29,,14,6,9,48,47,34,13,Atalanta,0
+Cremonese,Sampdoria,3,False,True,5,2,away,Win,True,29.0,Goal,True,Serie A,20,29,,3,6,20,15,18,50,-32,Sampdoria,2
+Roma,Torino,1,True,False,1,0,away,Win,True,29.0,No Goal,False,Serie A,11,29,,10,8,11,38,30,35,-5,Torino,1
+Sassuolo,Verona,1,False,True,3,2,away,Loss,True,29.0,Goal,True,Serie A,18,29,,5,7,17,22,24,43,-19,Verona,2
+Juventus,Lazio,1,False,True,3,2,away,Loss,True,29.0,Goal,True,Serie A,2,29,,17,7,5,58,46,20,26,Lazio,0
 Ein Frankfurt,Bayern Munich,1,False,True,7,6,home,Loss,True,1.0,Goal,True,Bundesliga,1,27,"W,W,L,W,W",17,7,3,58,77,29,48,Bayern Munich,0
 Augsburg,Freiburg,0,True,False,4,4,home,Loss,False,1.0,No Goal,True,Bundesliga,5,27,"L,D,D,W,D",13,8,6,47,39,36,3,Freiburg,0
 Bochum,Mainz,1,False,True,3,2,home,Loss,True,1.0,Goal,True,Bundesliga,8,27,"D,W,D,D,W",11,8,8,41,45,38,7,Mainz,1
@@ -793,6 +813,15 @@ Wolfsburg,Augsburg,2,False,True,4,2,home,Draw,True,26.0,Goal,True,Bundesliga,13,
 Bayern Munich,Dortmund,4,False,True,6,2,home,Win,True,26.0,Goal,True,Bundesliga,2,27,"W,L,W,D,W",18,2,7,56,59,36,23,Dortmund,0
 FC Koln,M'gladbach,0,True,False,0,0,home,Draw,False,26.0,No Goal,False,Bundesliga,10,27,"W,D,D,L,D",9,8,10,35,42,44,-2,M'gladbach,1
 Werder Bremen,Hoffenheim,1,False,True,3,2,home,Loss,True,26.0,Goal,True,Bundesliga,14,27,"W,W,W,L,L",8,4,15,28,37,46,-9,Hoffenheim,1
+Augsburg,FC Koln,1,False,True,4,3,home,Loss,True,27.0,Goal,True,Bundesliga,12,27,"W,D,L,L,D",7,10,10,31,36,45,-9,FC Koln,1
+Dortmund,Union Berlin,2,False,True,3,1,home,Win,True,27.0,Goal,True,Bundesliga,3,27,"L,W,W,D,D",15,6,6,51,42,30,12,Union Berlin,0
+Freiburg,Bayern Munich,0,True,False,1,1,home,Loss,False,27.0,No Goal,True,Bundesliga,1,27,"W,W,L,W,W",17,7,3,58,77,29,48,Bayern Munich,0
+Leverkusen,Ein Frankfurt,3,False,True,4,1,home,Win,True,27.0,Goal,True,Bundesliga,7,27,"L,D,L,D,D",11,8,8,41,48,40,8,Ein Frankfurt,0
+Mainz,Werder Bremen,2,False,True,4,2,home,Draw,True,27.0,Goal,True,Bundesliga,11,27,"D,L,D,L,L",9,5,13,32,42,52,-10,Werder Bremen,1
+Hertha,RB Leipzig,0,True,False,1,1,home,Loss,False,27.0,No Goal,True,Bundesliga,4,27,"W,L,L,W,L",14,6,7,48,50,33,17,RB Leipzig,0
+M'gladbach,Wolfsburg,2,True,False,2,0,home,Win,True,27.0,No Goal,False,Bundesliga,9,27,"L,D,W,D,D",10,9,8,39,46,36,10,Wolfsburg,1
+Bochum,Stuttgart,2,False,True,5,3,home,Loss,True,27.0,Goal,True,Bundesliga,16,27,"W,L,L,D,L",5,8,14,23,32,47,-15,Stuttgart,2
+Hoffenheim,Schalke 04,2,True,False,2,0,home,Win,True,27.0,No Goal,False,Bundesliga,18,27,"L,L,D,D,W",4,9,14,21,21,50,-29,Schalke 04,2
 Bayern Munich,Ein Frankfurt,6,False,True,7,1,away,Win,True,1.0,Goal,True,Bundesliga,7,27,"L,D,L,D,D",11,8,8,41,48,40,8,Ein Frankfurt,0
 Freiburg,Augsburg,4,True,False,4,0,away,Win,True,1.0,No Goal,False,Bundesliga,13,27,"L,D,D,L,W",8,5,14,29,35,50,-15,Augsburg,1
 Mainz,Bochum,2,False,True,3,1,away,Win,True,1.0,Goal,True,Bundesliga,15,27,"L,D,W,W,L",8,2,17,26,30,60,-30,Bochum,2
@@ -1027,6 +1056,15 @@ Augsburg,Wolfsburg,2,False,True,4,2,away,Draw,True,26.0,Goal,True,Bundesliga,9,2
 Dortmund,Bayern Munich,2,False,True,6,4,away,Loss,True,26.0,Goal,True,Bundesliga,1,27,"W,W,L,W,W",17,7,3,58,77,29,48,Bayern Munich,0
 M'gladbach,FC Koln,0,True,False,0,0,away,Draw,False,26.0,No Goal,False,Bundesliga,12,27,"W,D,L,L,D",7,10,10,31,36,45,-9,FC Koln,1
 Hoffenheim,Werder Bremen,2,False,True,3,1,away,Win,True,26.0,Goal,True,Bundesliga,11,27,"D,L,D,L,L",9,5,13,32,42,52,-10,Werder Bremen,1
+FC Koln,Augsburg,3,False,True,4,1,away,Win,True,27.0,Goal,True,Bundesliga,13,27,"L,D,D,L,W",8,5,14,29,35,50,-15,Augsburg,1
+Union Berlin,Dortmund,1,False,True,3,2,away,Loss,True,27.0,Goal,True,Bundesliga,2,27,"W,L,W,D,W",18,2,7,56,59,36,23,Dortmund,0
+Bayern Munich,Freiburg,1,True,False,1,0,away,Win,True,27.0,No Goal,False,Bundesliga,5,27,"L,D,D,W,D",13,8,6,47,39,36,3,Freiburg,0
+Ein Frankfurt,Leverkusen,1,False,True,4,3,away,Loss,True,27.0,Goal,True,Bundesliga,6,27,"W,W,W,W,W",13,4,10,43,51,41,10,Leverkusen,0
+Werder Bremen,Mainz,2,False,True,4,2,away,Draw,True,27.0,Goal,True,Bundesliga,8,27,"D,W,D,D,W",11,8,8,41,45,38,7,Mainz,1
+RB Leipzig,Hertha,1,True,False,1,0,away,Win,True,27.0,No Goal,False,Bundesliga,17,27,"L,D,L,D,L",5,7,15,22,31,50,-19,Hertha,2
+Wolfsburg,M'gladbach,0,True,False,2,2,away,Loss,False,27.0,No Goal,True,Bundesliga,10,27,"W,D,D,L,D",9,8,10,35,42,44,-2,M'gladbach,1
+Stuttgart,Bochum,3,False,True,5,2,away,Win,True,27.0,Goal,True,Bundesliga,15,27,"L,D,W,W,L",8,2,17,26,30,60,-30,Bochum,2
+Schalke 04,Hoffenheim,0,True,False,2,2,away,Loss,False,27.0,No Goal,True,Bundesliga,14,27,"W,W,W,L,L",8,4,15,28,37,46,-9,Hoffenheim,1
 Osasuna,Sevilla,2,False,True,3,1,home,Win,True,1.0,Goal,True,La Liga,13,28,"D,W,L,W,L",8,8,12,32,33,44,-11,Sevilla,1
 Celta,Espanol,2,False,True,4,2,home,Draw,True,1.0,Goal,True,La Liga,19,28,"L,L,L,L,L",6,9,13,27,34,46,-12,Espanol,2
 Valladolid,Villarreal,0,True,False,3,3,home,Loss,False,1.0,No Goal,True,La Liga,5,28,"W,W,W,D,W",14,5,9,47,37,26,11,Villarreal,0
@@ -1297,6 +1335,16 @@ Real Madrid,Valladolid,6,True,False,6,0,home,Win,True,28.0,No Goal,False,La Liga
 Villarreal,Sociedad,2,True,False,2,0,home,Win,True,28.0,No Goal,False,La Liga,4,28,"W,L,W,D,D",15,6,7,51,37,26,11,Sociedad,0
 Ath Madrid,Betis,1,True,False,1,0,home,Win,True,28.0,No Goal,False,La Liga,6,28,"L,L,W,D,D",13,6,9,45,34,29,5,Betis,0
 Valencia,Vallecano,1,False,True,2,1,home,Draw,True,28.0,Goal,True,La Liga,9,28,"L,D,D,L,D",9,10,9,37,33,33,0,Vallecano,1
+Sevilla,Celta,2,False,True,4,2,home,Draw,True,29.0,Goal,True,La Liga,10,28,"D,D,W,W,D",9,9,10,36,36,39,-3,Celta,1
+Osasuna,Elche,2,False,True,3,1,home,Win,True,29.0,Goal,True,La Liga,20,28,"L,L,L,D,W",2,7,19,13,20,57,-37,Elche,2
+Espanol,Ath Bilbao,1,False,True,3,2,home,Loss,True,29.0,Goal,True,La Liga,7,28,"W,D,W,L,D",11,7,10,40,38,29,9,Ath Bilbao,0
+Sociedad,Getafe,2,True,False,2,0,home,Win,True,29.0,No Goal,False,La Liga,15,28,"L,D,W,D,W",7,9,12,30,27,36,-9,Getafe,2
+Real Madrid,Villarreal,2,False,True,5,3,home,Loss,True,29.0,Goal,True,La Liga,5,28,"W,W,W,D,W",14,5,9,47,37,26,11,Villarreal,0
+Valladolid,Mallorca,3,False,True,6,3,home,Draw,True,29.0,Goal,True,La Liga,12,28,"D,D,L,D,L",9,7,12,34,25,30,-5,Mallorca,1
+Betis,Cadiz,0,True,False,2,2,home,Loss,False,29.0,No Goal,True,La Liga,14,28,"W,L,D,D,D",7,10,11,31,23,40,-17,Cadiz,1
+Almeria,Valencia,2,False,True,3,1,home,Win,True,29.0,Goal,True,La Liga,18,28,"L,D,L,W,L",7,6,15,27,30,34,-4,Valencia,2
+Vallecano,Ath Madrid,1,False,True,3,2,home,Loss,True,29.0,Goal,True,La Liga,3,28,"W,W,W,W,W",17,6,5,57,45,20,25,Ath Madrid,0
+Barcelona,Girona,0,True,False,0,0,home,Draw,False,29.0,No Goal,False,La Liga,11,28,"D,W,D,L,L",9,8,11,35,42,42,0,Girona,1
 Sevilla,Osasuna,1,False,True,3,2,away,Loss,True,1.0,Goal,True,La Liga,8,28,"W,D,L,L,D",10,8,10,38,24,28,-4,Osasuna,1
 Espanol,Celta,2,False,True,4,2,away,Draw,True,1.0,Goal,True,La Liga,10,28,"D,D,W,W,D",9,9,10,36,36,39,-3,Celta,1
 Villarreal,Valladolid,3,True,False,3,0,away,Win,True,1.0,No Goal,False,La Liga,17,28,"D,L,L,D,W",8,5,15,29,23,47,-24,Valladolid,2
@@ -1567,6 +1615,16 @@ Valladolid,Real Madrid,0,True,False,6,6,away,Loss,False,28.0,No Goal,True,La Lig
 Sociedad,Villarreal,0,True,False,2,2,away,Loss,False,28.0,No Goal,True,La Liga,5,28,"W,W,W,D,W",14,5,9,47,37,26,11,Villarreal,0
 Betis,Ath Madrid,0,True,False,1,1,away,Loss,False,28.0,No Goal,True,La Liga,3,28,"W,W,W,W,W",17,6,5,57,45,20,25,Ath Madrid,0
 Vallecano,Valencia,1,False,True,2,1,away,Draw,True,28.0,Goal,True,La Liga,18,28,"L,D,L,W,L",7,6,15,27,30,34,-4,Valencia,2
+Celta,Sevilla,2,False,True,4,2,away,Draw,True,29.0,Goal,True,La Liga,13,28,"D,W,L,W,L",8,8,12,32,33,44,-11,Sevilla,1
+Elche,Osasuna,1,False,True,3,2,away,Loss,True,29.0,Goal,True,La Liga,8,28,"W,D,L,L,D",10,8,10,38,24,28,-4,Osasuna,1
+Ath Bilbao,Espanol,2,False,True,3,1,away,Win,True,29.0,Goal,True,La Liga,19,28,"L,L,L,L,L",6,9,13,27,34,46,-12,Espanol,2
+Getafe,Sociedad,0,True,False,2,2,away,Loss,False,29.0,No Goal,True,La Liga,4,28,"W,L,W,D,D",15,6,7,51,37,26,11,Sociedad,0
+Villarreal,Real Madrid,3,False,True,5,2,away,Win,True,29.0,Goal,True,La Liga,2,28,"L,W,L,W,D",18,5,5,59,59,24,35,Real Madrid,0
+Mallorca,Valladolid,3,False,True,6,3,away,Draw,True,29.0,Goal,True,La Liga,17,28,"D,L,L,D,W",8,5,15,29,23,47,-24,Valladolid,2
+Cadiz,Betis,2,True,False,2,0,away,Win,True,29.0,No Goal,False,La Liga,6,28,"L,L,W,D,D",13,6,9,45,34,29,5,Betis,0
+Valencia,Almeria,1,False,True,3,2,away,Loss,True,29.0,Goal,True,La Liga,16,28,"W,D,D,L,L",8,6,14,30,34,48,-14,Almeria,2
+Ath Madrid,Vallecano,2,False,True,3,1,away,Win,True,29.0,Goal,True,La Liga,9,28,"L,D,D,L,D",9,10,9,37,33,33,0,Vallecano,1
+Girona,Barcelona,0,True,False,0,0,away,Draw,False,29.0,No Goal,False,La Liga,1,28,"D,W,W,W,W",23,3,2,72,53,9,44,Barcelona,0
 Crystal Palace,Arsenal,0,True,False,2,2,home,Loss,False,1.0,No Goal,True,Premier League,1,30,"D,W,W,W,W",23,4,3,73,72,29,43,Arsenal,0
 Fulham,Liverpool,2,False,True,4,2,home,Draw,True,1.0,Goal,True,Premier League,8,29,"D,D,L,L,W",12,8,9,44,50,35,15,Liverpool,1
 Bournemouth,Aston Villa,2,True,False,2,0,home,Win,True,1.0,No Goal,False,Premier League,6,30,"W,W,W,W,D",14,5,11,47,41,40,1,Aston Villa,0
@@ -1852,7 +1910,17 @@ West Ham,Southampton,1,True,False,1,0,home,Win,True,29.0,No Goal,False,Premier L
 Newcastle,Man United,2,True,False,2,0,home,Win,True,29.0,No Goal,False,Premier League,4,29,"W,W,L,D,L",17,5,7,56,44,37,7,Man United,0
 Everton,Tottenham,1,False,True,2,1,home,Draw,True,29.0,Goal,True,Premier League,5,30,"W,D,D,W,L",16,5,9,53,55,42,13,Tottenham,0
 West Ham,Newcastle,1,False,True,6,5,home,Loss,True,30.0,Goal,True,Premier League,3,29,"W,W,W,W,W",15,11,3,56,48,21,27,Newcastle,0
-Chelsea,Liverpool,0,True,False,0,0,home,Draw,False,31.0,No Goal,False,Premier League,8,29,"D,D,L,L,W",12,8,9,44,50,35,15,Liverpool,1
+Man United,Everton,2,True,False,2,0,home,Win,True,31.0,No Goal,False,Premier League,17,30,"L,D,D,W,D",6,9,15,27,23,43,-20,Everton,2
+Aston Villa,Nott'm Forest,2,True,False,2,0,home,Win,True,31.0,No Goal,False,Premier League,18,30,"L,L,D,L,L",6,9,15,27,24,54,-30,Nott'm Forest,2
+Brentford,Newcastle,1,False,True,3,2,home,Loss,True,31.0,Goal,True,Premier League,3,29,"W,W,W,W,W",15,11,3,56,48,21,27,Newcastle,0
+Fulham,West Ham,0,True,False,1,1,home,Loss,False,31.0,No Goal,True,Premier League,14,29,"W,L,W,D,L",8,6,15,30,27,39,-12,West Ham,1
+Leicester,Bournemouth,0,True,False,1,1,home,Loss,False,31.0,No Goal,True,Premier League,15,30,"W,L,W,L,W",8,6,16,30,28,57,-29,Bournemouth,2
+Tottenham,Brighton,2,False,True,3,1,home,Win,True,31.0,Goal,True,Premier League,7,28,"L,W,D,W,D",13,7,8,46,52,36,16,Brighton,0
+Wolves,Chelsea,1,True,False,1,0,home,Win,True,31.0,No Goal,False,Premier League,11,30,"L,D,L,D,W",10,9,11,39,29,31,-2,Chelsea,1
+Southampton,Man City,1,False,True,5,4,home,Loss,True,31.0,Goal,True,Premier League,2,29,"W,W,W,W,W",21,4,4,67,75,27,48,Man City,0
+Leeds,Crystal Palace,1,False,True,6,5,home,Loss,True,31.0,Goal,True,Premier League,12,30,"W,W,L,L,L",8,9,13,33,29,40,-11,Crystal Palace,1
+Liverpool,Arsenal,2,False,True,4,2,home,Draw,True,31.0,Goal,True,Premier League,1,30,"D,W,W,W,W",23,4,3,73,72,29,43,Arsenal,0
+Chelsea,Liverpool,0,True,False,0,0,home,Draw,False,32.0,No Goal,False,Premier League,8,29,"D,D,L,L,W",12,8,9,44,50,35,15,Liverpool,1
 Arsenal,Crystal Palace,2,True,False,2,0,away,Win,True,1.0,No Goal,False,Premier League,12,30,"W,W,L,L,L",8,9,13,33,29,40,-11,Crystal Palace,1
 Liverpool,Fulham,2,False,True,4,2,away,Draw,True,1.0,Goal,True,Premier League,10,29,"L,L,L,L,D",11,6,12,39,39,40,-1,Fulham,1
 Aston Villa,Bournemouth,0,True,False,2,2,away,Loss,False,1.0,No Goal,True,Premier League,15,30,"W,L,W,L,W",8,6,16,30,28,57,-29,Bournemouth,2
@@ -2138,4 +2206,14 @@ Southampton,West Ham,0,True,False,1,1,away,Loss,False,29.0,No Goal,True,Premier 
 Man United,Newcastle,0,True,False,2,2,away,Loss,False,29.0,No Goal,True,Premier League,3,29,"W,W,W,W,W",15,11,3,56,48,21,27,Newcastle,0
 Tottenham,Everton,1,False,True,2,1,away,Draw,True,29.0,Goal,True,Premier League,17,30,"L,D,D,W,D",6,9,15,27,23,43,-20,Everton,2
 Newcastle,West Ham,5,False,True,6,1,away,Win,True,30.0,Goal,True,Premier League,14,29,"W,L,W,D,L",8,6,15,30,27,39,-12,West Ham,1
-Liverpool,Chelsea,0,True,False,0,0,away,Draw,False,31.0,No Goal,False,Premier League,11,30,"L,D,L,D,W",10,9,11,39,29,31,-2,Chelsea,1
+Everton,Man United,0,True,False,2,2,away,Loss,False,31.0,No Goal,True,Premier League,4,29,"W,W,L,D,L",17,5,7,56,44,37,7,Man United,0
+Nott'm Forest,Aston Villa,0,True,False,2,2,away,Loss,False,31.0,No Goal,True,Premier League,6,30,"W,W,W,W,D",14,5,11,47,41,40,1,Aston Villa,0
+Newcastle,Brentford,2,False,True,3,1,away,Win,True,31.0,Goal,True,Premier League,9,30,"L,L,D,D,W",10,13,7,43,47,40,7,Brentford,1
+West Ham,Fulham,1,True,False,1,0,away,Win,True,31.0,No Goal,False,Premier League,10,29,"L,L,L,L,D",11,6,12,39,39,40,-1,Fulham,1
+Bournemouth,Leicester,1,True,False,1,0,away,Win,True,31.0,No Goal,False,Premier League,19,30,"L,L,L,D,L",7,4,19,25,40,52,-12,Leicester,2
+Brighton,Tottenham,1,False,True,3,2,away,Loss,True,31.0,Goal,True,Premier League,5,30,"W,D,D,W,L",16,5,9,53,55,42,13,Tottenham,0
+Chelsea,Wolves,0,True,False,1,1,away,Loss,False,31.0,No Goal,True,Premier League,13,30,"W,D,L,L,W",8,7,15,31,24,42,-18,Wolves,1
+Man City,Southampton,4,False,True,5,1,away,Win,True,31.0,Goal,True,Premier League,20,30,"L,L,D,L,D",6,5,19,23,24,51,-27,Southampton,2
+Crystal Palace,Leeds,5,False,True,6,1,away,Win,True,31.0,Goal,True,Premier League,16,30,"L,W,L,W,D",7,8,15,29,39,54,-15,Leeds,2
+Arsenal,Liverpool,2,False,True,4,2,away,Draw,True,31.0,Goal,True,Premier League,8,29,"D,D,L,L,W",12,8,9,44,50,35,15,Liverpool,1
+Liverpool,Chelsea,0,True,False,0,0,away,Draw,False,32.0,No Goal,False,Premier League,11,30,"L,D,L,D,W",10,9,11,39,29,31,-2,Chelsea,1
