@@ -3,15 +3,15 @@ position,playedGames,form,won,draw,lost,points,goalsFor,goalsAgainst,goalDiffere
 2,30,,18,7,5,61,49,20,29,Lazio,0,Serie A
 3,29,,16,5,8,53,39,26,13,Roma,0,Serie A
 4,30,,15,8,7,53,49,37,12,Milan,0,Serie A
-5,30,,16,4,10,52,48,33,15,Inter,0,Serie A
+5,30,,16,3,11,51,48,34,14,Inter,0,Serie A
 6,29,,14,6,9,48,47,34,13,Atalanta,0,Serie A
 7,29,,18,5,6,44,47,24,23,Juventus,0,Serie A
 8,30,,12,8,10,44,39,37,2,Bologna,1,Serie A
 9,29,,11,8,10,41,34,32,2,Fiorentina,1,Serie A
 10,29,,9,12,8,39,39,36,3,Udinese,1,Serie A
 11,29,,10,8,11,38,30,35,-5,Torino,1,Serie A
-12,29,,10,7,12,37,37,43,-6,Sassuolo,1,Serie A
-13,30,,9,9,12,36,34,41,-7,Monza,1,Serie A
+12,30,,10,8,12,38,35,41,-6,Monza,1,Serie A
+13,29,,10,7,12,37,37,43,-6,Sassuolo,1,Serie A
 14,30,,7,11,12,32,25,37,-12,Empoli,1,Serie A
 15,29,,6,11,12,29,33,49,-16,Salernitana,2,Serie A
 16,29,,6,9,14,27,25,35,-10,Lecce,2,Serie A
@@ -38,7 +38,7 @@ position,playedGames,form,won,draw,lost,points,goalsFor,goalsAgainst,goalDiffere
 17,28,"W,L,L,D,D",5,9,14,24,26,52,-26,Schalke 04,2,Bundesliga
 18,28,"L,L,D,L,D",5,7,16,22,33,55,-22,Hertha,2,Bundesliga
 1,28,"D,W,W,W,W",23,3,2,72,53,9,44,Barcelona,0,La Liga
-2,28,"L,W,L,W,D",18,5,5,59,59,24,35,Real Madrid,0,La Liga
+2,29,"W,L,W,L,W",19,5,5,62,61,24,37,Real Madrid,0,La Liga
 3,28,"W,W,W,W,W",17,6,5,57,45,20,25,Ath Madrid,0,La Liga
 4,29,"L,W,L,W,D",15,6,8,51,37,28,9,Sociedad,0,La Liga
 5,29,"W,L,L,W,D",14,6,9,48,37,30,7,Betis,0,La Liga
@@ -51,7 +51,7 @@ position,playedGames,form,won,draw,lost,points,goalsFor,goalsAgainst,goalDiffere
 12,28,"D,D,L,D,L",9,7,12,34,25,30,-5,Mallorca,1,La Liga
 13,28,"D,W,L,W,L",8,8,12,32,33,44,-11,Sevilla,1,La Liga
 14,29,"W,D,L,L,D",9,5,15,32,25,48,-23,Valladolid,1,La Liga
-15,28,"W,L,D,D,D",7,10,11,31,23,40,-17,Cadiz,2,La Liga
+15,29,"L,W,L,D,D",7,10,12,31,23,42,-19,Cadiz,2,La Liga
 16,28,"L,D,W,D,W",7,9,12,30,27,36,-9,Getafe,2,La Liga
 17,28,"W,D,D,L,L",8,6,14,30,34,48,-14,Almeria,2,La Liga
 18,28,"L,D,L,W,L",7,6,15,27,30,34,-4,Valencia,2,La Liga
