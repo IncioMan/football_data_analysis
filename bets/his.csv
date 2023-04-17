@@ -1,7 +1,27 @@
 date,championship,amount_played,type,amount_won
+2023/02/01,Default,4,Multipla,6.14
+2023/02/01,Default,3,Multipla,0.98
+2023/02/01,Default,1,Multipla,2.25
+2023/02/01,Default,1,Multipla,2.45
+2023/02/01,Default,2,Multipla,20.45
+2023/02/01,Default,16,Multipla,0
+2023/02/01,Default,1,Multipla,4.50
+2023/02/01,Default,1,Multipla,6
+2023/02/01,Default,4,Multipla,0
+2023/03/30,Serie A,2,Multipla,0
+2023/03/30,Serie A,2,Multipla,0
+2023/03/30,Serie A,1,Multipla,0
+2023/03/30,Serie A,1,Multipla,0
 2023/04/04,Bundesliga,9.40,Sistema,3.68
 2023/04/04,Serie A,10,Sistema,0
 2023/04/06,Premier League,3,Singola,5.70
 2023/04/07,Premier League,2,Sistema,13.60
 2023/04/08,Serie A,1.35,Singola,0
 2023/04/15,La Liga,3,Singola,5.25
+2023/04/16,Goal,3,Sistema,4.08
+2023/04/16,NoGoal,3,Sistema,3.60
+2023/04/16,NoGoal,3,Sistema,4.59
+2023/04/16,Over,1,Singola,0
+2023/04/17,Serie A,3,Sistema,9.52
+2023/04/17,Serie A,2.80,Sistema,0.70
+2023/04/17,La Liga,3,Singola,4.95
