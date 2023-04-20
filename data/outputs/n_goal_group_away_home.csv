@@ -1,16 +1,16 @@
 main_team,away_home,team_group,competition,n_matches,avg_goal_fatti,avg_goal_subiti
-Almeria,away,0,La Liga,4,0.5,2.75
+Almeria,away,0,La Liga,5,0.6,2.6
 Almeria,away,1,La Liga,6,0.8333333333333334,2.3333333333333335
 Almeria,away,2,La Liga,3,1.3333333333333333,1.3333333333333333
-Almeria,away,all,La Liga,13,0.8461538461538461,2.230769230769231
+Almeria,away,all,La Liga,14,0.8571428571428571,2.2142857142857144
 Almeria,home,0,La Liga,6,0.8333333333333334,1.6666666666666667
 Almeria,home,1,La Liga,5,2.2,1.2
 Almeria,home,2,La Liga,4,1.75,0.75
 Almeria,home,all,La Liga,15,1.5333333333333334,1.2666666666666666
 Arsenal,away,0,Premier League,4,2.75,1.75
 Arsenal,away,1,Premier League,7,2.2857142857142856,0.2857142857142857
-Arsenal,away,2,Premier League,4,0.75,0.5
-Arsenal,away,all,Premier League,15,2.0,0.7333333333333333
+Arsenal,away,2,Premier League,5,1.0,0.8
+Arsenal,away,all,Premier League,16,2.0,0.8125
 Arsenal,home,0,Premier League,5,1.8,1.4
 Arsenal,home,1,Premier League,5,2.6,1.4
 Arsenal,home,2,Premier League,5,4.0,0.8
@@ -19,14 +19,14 @@ Aston Villa,away,0,Premier League,5,1.2,2.0
 Aston Villa,away,1,Premier League,4,0.75,2.0
 Aston Villa,away,2,Premier League,6,1.1666666666666667,0.5
 Aston Villa,away,all,Premier League,15,1.0666666666666667,1.4
-Aston Villa,home,0,Premier League,3,2.0,2.0
+Aston Villa,home,0,Premier League,4,2.25,1.5
 Aston Villa,home,1,Premier League,6,1.6666666666666667,1.0
 Aston Villa,home,2,Premier League,6,1.5,1.1666666666666667
-Aston Villa,home,all,Premier League,15,1.6666666666666667,1.2666666666666666
+Aston Villa,home,all,Premier League,16,1.75,1.1875
 Atalanta,away,0,Serie A,5,1.2,1.4
-Atalanta,away,1,Serie A,5,1.6,0.8
+Atalanta,away,1,Serie A,6,1.5,0.8333333333333334
 Atalanta,away,2,Serie A,5,1.8,1.0
-Atalanta,away,all,Serie A,15,1.5333333333333334,1.0666666666666667
+Atalanta,away,all,Serie A,16,1.5,1.0625
 Atalanta,home,0,Serie A,4,1.0,2.0
 Atalanta,home,1,Serie A,6,1.3333333333333333,0.8333333333333334
 Atalanta,home,2,Serie A,4,3.0,1.25
@@ -35,30 +35,30 @@ Ath Bilbao,away,0,La Liga,4,0.25,2.0
 Ath Bilbao,away,1,La Liga,5,1.0,1.0
 Ath Bilbao,away,2,La Liga,5,2.8,1.0
 Ath Bilbao,away,all,La Liga,14,1.4285714285714286,1.2857142857142858
-Ath Bilbao,home,0,La Liga,4,0.25,1.0
+Ath Bilbao,home,0,La Liga,5,0.6,0.8
 Ath Bilbao,home,1,La Liga,5,1.6,1.0
 Ath Bilbao,home,2,La Liga,5,1.8,0.4
-Ath Bilbao,home,all,La Liga,14,1.2857142857142858,0.7857142857142857
+Ath Bilbao,home,all,La Liga,15,1.3333333333333333,0.7333333333333333
 Ath Madrid,away,0,La Liga,4,1.25,0.75
 Ath Madrid,away,1,La Liga,6,1.1666666666666667,0.3333333333333333
 Ath Madrid,away,2,La Liga,4,1.75,1.0
 Ath Madrid,away,all,La Liga,14,1.3571428571428572,0.6428571428571429
 Ath Madrid,home,0,La Liga,5,0.6,1.0
 Ath Madrid,home,1,La Liga,5,3.2,0.8
-Ath Madrid,home,2,La Liga,4,1.75,0.5
-Ath Madrid,home,all,La Liga,14,1.8571428571428572,0.7857142857142857
-Augsburg,away,0,Bundesliga,5,2.2,3.0
+Ath Madrid,home,2,La Liga,5,1.8,0.6
+Ath Madrid,home,all,La Liga,15,1.8666666666666667,0.8
+Augsburg,away,0,Bundesliga,6,2.1666666666666665,3.0
 Augsburg,away,1,Bundesliga,5,1.2,1.8
 Augsburg,away,2,Bundesliga,3,1.3333333333333333,2.0
-Augsburg,away,all,Bundesliga,13,1.6153846153846154,2.3076923076923075
+Augsburg,away,all,Bundesliga,14,1.6428571428571428,2.357142857142857
 Augsburg,home,0,Bundesliga,5,1.2,1.8
 Augsburg,home,1,Bundesliga,6,1.1666666666666667,1.1666666666666667
 Augsburg,home,2,Bundesliga,3,0.3333333333333333,1.3333333333333333
 Augsburg,home,all,Bundesliga,14,1.0,1.4285714285714286
 Barcelona,away,0,La Liga,6,1.6666666666666667,0.8333333333333334
 Barcelona,away,1,La Liga,4,1.75,0.25
-Barcelona,away,2,La Liga,4,2.25,0.25
-Barcelona,away,all,La Liga,14,1.8571428571428572,0.5
+Barcelona,away,2,La Liga,5,1.8,0.2
+Barcelona,away,all,La Liga,15,1.7333333333333334,0.4666666666666667
 Barcelona,home,0,La Liga,3,3.0,0.3333333333333333
 Barcelona,home,1,La Liga,5,1.6,0.0
 Barcelona,home,2,La Liga,6,1.6666666666666667,0.16666666666666666
@@ -68,21 +68,21 @@ Bayern Munich,away,1,Bundesliga,4,2.0,1.5
 Bayern Munich,away,2,Bundesliga,4,3.5,0.75
 Bayern Munich,away,all,Bundesliga,14,2.4285714285714284,1.1428571428571428
 Bayern Munich,home,0,Bundesliga,5,3.4,0.6
-Bayern Munich,home,1,Bundesliga,6,3.5,1.3333333333333333
+Bayern Munich,home,1,Bundesliga,7,3.142857142857143,1.2857142857142858
 Bayern Munich,home,2,Bundesliga,2,2.5,1.0
-Bayern Munich,home,all,Bundesliga,13,3.3076923076923075,1.0
+Bayern Munich,home,all,Bundesliga,14,3.142857142857143,1.0
 Betis,away,0,La Liga,4,1.0,1.0
 Betis,away,1,La Liga,4,1.0,0.75
 Betis,away,2,La Liga,6,1.1666666666666667,1.3333333333333333
 Betis,away,all,La Liga,14,1.0714285714285714,1.0714285714285714
 Betis,home,0,La Liga,5,0.6,0.8
 Betis,home,1,La Liga,6,1.6666666666666667,1.1666666666666667
-Betis,home,2,La Liga,3,2.0,1.0
-Betis,home,all,La Liga,14,1.3571428571428572,1.0
-Bochum,away,0,Bundesliga,6,0.16666666666666666,2.3333333333333335
+Betis,home,2,La Liga,4,2.25,1.0
+Betis,home,all,La Liga,15,1.4666666666666666,1.0
+Bochum,away,0,Bundesliga,7,0.2857142857142857,2.142857142857143
 Bochum,away,1,Bundesliga,6,1.1666666666666667,2.5
 Bochum,away,2,Bundesliga,2,1.0,3.5
-Bochum,away,all,Bundesliga,14,0.7142857142857143,2.5714285714285716
+Bochum,away,all,Bundesliga,15,0.7333333333333333,2.466666666666667
 Bochum,home,0,Bundesliga,5,1.2,2.0
 Bochum,home,1,Bundesliga,5,1.8,1.6
 Bochum,home,2,Bundesliga,3,1.6666666666666667,2.0
@@ -91,30 +91,30 @@ Bologna,away,0,Serie A,7,0.8571428571428571,2.4285714285714284
 Bologna,away,1,Serie A,4,1.5,1.0
 Bologna,away,2,Serie A,3,2.0,1.6666666666666667
 Bologna,away,all,Serie A,14,1.2857142857142858,1.8571428571428572
-Bologna,home,0,Serie A,3,0.6666666666666666,0.6666666666666666
+Bologna,home,0,Serie A,4,0.75,0.75
 Bologna,home,1,Serie A,6,1.6666666666666667,0.6666666666666666
 Bologna,home,2,Serie A,6,1.3333333333333333,0.6666666666666666
-Bologna,home,all,Serie A,15,1.3333333333333333,0.6666666666666666
-Bournemouth,away,0,Premier League,6,0.5,2.5
+Bologna,home,all,Serie A,16,1.3125,0.6875
+Bournemouth,away,0,Premier League,7,0.8571428571428571,2.4285714285714284
 Bournemouth,away,1,Premier League,5,0.6,3.0
 Bournemouth,away,2,Premier League,4,1.75,2.0
-Bournemouth,away,all,Premier League,15,0.8666666666666667,2.533333333333333
+Bournemouth,away,all,Premier League,16,1.0,2.5
 Bournemouth,home,0,Premier League,6,1.0,2.1666666666666665
 Bournemouth,home,1,Premier League,5,0.6,0.6
 Bournemouth,home,2,Premier League,4,1.5,0.75
 Bournemouth,home,all,Premier League,15,1.0,1.2666666666666666
 Brentford,away,0,Premier League,6,1.1666666666666667,2.5
-Brentford,away,1,Premier League,3,1.0,1.3333333333333333
+Brentford,away,1,Premier League,4,0.75,1.5
 Brentford,away,2,Premier League,6,1.3333333333333333,0.8333333333333334
-Brentford,away,all,Premier League,15,1.2,1.6
+Brentford,away,all,Premier League,16,1.125,1.625
 Brentford,home,0,Premier League,5,1.8,1.4
 Brentford,home,1,Premier League,6,1.6666666666666667,0.8333333333333334
 Brentford,home,2,Premier League,4,2.5,1.0
 Brentford,home,all,Premier League,15,1.9333333333333333,1.0666666666666667
 Brighton,away,0,Premier League,3,1.3333333333333333,2.0
-Brighton,away,1,Premier League,6,1.6666666666666667,1.6666666666666667
+Brighton,away,1,Premier League,7,1.7142857142857142,1.5714285714285714
 Brighton,away,2,Premier League,5,2.6,1.2
-Brighton,away,all,Premier League,14,1.9285714285714286,1.5714285714285714
+Brighton,away,all,Premier League,15,1.9333333333333333,1.5333333333333334
 Brighton,home,0,Premier League,4,0.75,1.75
 Brighton,home,1,Premier League,6,2.0,0.8333333333333334
 Brighton,home,2,Premier League,4,2.5,0.5
@@ -123,46 +123,46 @@ Cadiz,away,0,La Liga,5,0.8,1.6
 Cadiz,away,1,La Liga,6,0.5,2.0
 Cadiz,away,2,La Liga,3,0.6666666666666666,0.3333333333333333
 Cadiz,away,all,La Liga,14,0.6428571428571429,1.5
-Cadiz,home,0,La Liga,6,0.5,1.8333333333333333
+Cadiz,home,0,La Liga,7,0.42857142857142855,1.8571428571428572
 Cadiz,home,1,La Liga,4,1.25,0.5
 Cadiz,home,2,La Liga,4,1.5,1.5
-Cadiz,home,all,La Liga,14,1.0,1.3571428571428572
+Cadiz,home,all,La Liga,15,0.9333333333333333,1.4
 Celta,away,0,La Liga,4,1.5,2.25
 Celta,away,1,La Liga,6,0.6666666666666666,1.1666666666666667
 Celta,away,2,La Liga,4,1.25,1.75
 Celta,away,all,La Liga,14,1.0714285714285714,1.6428571428571428
 Celta,home,0,La Liga,6,0.8333333333333334,1.3333333333333333
-Celta,home,1,La Liga,4,2.0,0.75
+Celta,home,1,La Liga,5,1.6,0.8
 Celta,home,2,La Liga,4,2.0,1.25
-Celta,home,all,La Liga,14,1.5,1.1428571428571428
+Celta,home,all,La Liga,15,1.4,1.1333333333333333
 Chelsea,away,0,Premier League,4,0.75,1.75
 Chelsea,away,1,Premier League,5,0.6,0.8
 Chelsea,away,2,Premier League,6,1.1666666666666667,1.3333333333333333
 Chelsea,away,all,Premier League,15,0.8666666666666667,1.2666666666666666
-Chelsea,home,0,Premier League,5,0.6,1.4
+Chelsea,home,0,Premier League,6,0.6666666666666666,1.5
 Chelsea,home,1,Premier League,5,1.2,0.0
 Chelsea,home,2,Premier League,5,1.4,1.0
-Chelsea,home,all,Premier League,15,1.0666666666666667,0.8
+Chelsea,home,all,Premier League,16,1.0625,0.875
 Cremonese,away,0,Serie A,4,0.5,2.0
 Cremonese,away,1,Serie A,6,1.3333333333333333,2.0
 Cremonese,away,2,Serie A,5,1.6,1.8
 Cremonese,away,all,Serie A,15,1.2,1.9333333333333333
 Cremonese,home,0,Serie A,7,0.7142857142857143,2.142857142857143
-Cremonese,home,1,Serie A,5,0.6,1.4
+Cremonese,home,1,Serie A,6,0.6666666666666666,1.1666666666666667
 Cremonese,home,2,Serie A,2,0.0,1.5
-Cremonese,home,all,Serie A,14,0.5714285714285714,1.7857142857142858
+Cremonese,home,all,Serie A,15,0.6,1.6666666666666667
 Crystal Palace,away,0,Premier League,6,0.6666666666666666,2.0
 Crystal Palace,away,1,Premier League,4,1.0,0.75
-Crystal Palace,away,2,Premier League,5,1.4,1.2
-Crystal Palace,away,all,Premier League,15,1.0,1.4
+Crystal Palace,away,2,Premier League,6,1.5,1.0
+Crystal Palace,away,all,Premier League,16,1.0625,1.3125
 Crystal Palace,home,0,Premier League,7,0.7142857142857143,1.4285714285714286
 Crystal Palace,home,1,Premier League,5,0.8,1.4
 Crystal Palace,home,2,Premier League,3,1.6666666666666667,0.6666666666666666
 Crystal Palace,home,all,Premier League,15,0.9333333333333333,1.2666666666666666
 Dortmund,away,0,Bundesliga,6,1.5,1.8333333333333333
 Dortmund,away,1,Bundesliga,6,1.5,1.6666666666666667
-Dortmund,away,2,Bundesliga,2,1.5,1.0
-Dortmund,away,all,Bundesliga,14,1.5,1.6428571428571428
+Dortmund,away,2,Bundesliga,3,2.0,1.6666666666666667
+Dortmund,away,all,Bundesliga,15,1.6,1.7333333333333334
 Dortmund,home,0,Bundesliga,5,2.4,1.0
 Dortmund,home,1,Bundesliga,4,3.25,1.75
 Dortmund,home,2,Bundesliga,4,3.25,0.25
@@ -172,29 +172,29 @@ Ein Frankfurt,away,1,Bundesliga,6,2.0,1.8333333333333333
 Ein Frankfurt,away,2,Bundesliga,3,1.3333333333333333,1.6666666666666667
 Ein Frankfurt,away,all,Bundesliga,14,1.4285714285714286,1.7857142857142858
 Ein Frankfurt,home,0,Bundesliga,5,2.6,1.8
-Ein Frankfurt,home,1,Bundesliga,4,1.75,1.0
+Ein Frankfurt,home,1,Bundesliga,5,1.6,1.0
 Ein Frankfurt,home,2,Bundesliga,4,2.0,0.5
-Ein Frankfurt,home,all,Bundesliga,13,2.1538461538461537,1.1538461538461537
+Ein Frankfurt,home,all,Bundesliga,14,2.0714285714285716,1.1428571428571428
 Elche,away,0,La Liga,6,0.0,3.0
-Elche,away,1,La Liga,5,0.8,1.8
+Elche,away,1,La Liga,6,0.6666666666666666,1.8333333333333333
 Elche,away,2,La Liga,3,1.6666666666666667,1.6666666666666667
-Elche,away,all,La Liga,14,0.6428571428571429,2.2857142857142856
+Elche,away,all,La Liga,15,0.6,2.2666666666666666
 Elche,home,0,La Liga,6,1.0,2.6666666666666665
 Elche,home,1,La Liga,5,0.8,1.2
 Elche,home,2,La Liga,3,0.3333333333333333,1.0
 Elche,home,all,La Liga,14,0.7857142857142857,1.7857142857142858
 Empoli,away,0,Serie A,7,0.5714285714285714,1.7142857142857142
 Empoli,away,1,Serie A,5,1.0,1.0
-Empoli,away,2,Serie A,3,1.0,1.3333333333333333
-Empoli,away,all,Serie A,15,0.8,1.4
+Empoli,away,2,Serie A,4,0.75,1.25
+Empoli,away,all,Serie A,16,0.75,1.375
 Empoli,home,0,Serie A,4,0.5,2.25
 Empoli,home,1,Serie A,5,0.8,0.6
 Empoli,home,2,Serie A,5,1.4,0.6
 Empoli,home,all,Serie A,14,0.9285714285714286,1.0714285714285714
-Espanol,away,0,La Liga,5,1.0,1.4
+Espanol,away,0,La Liga,6,1.0,1.6666666666666667
 Espanol,away,1,La Liga,5,1.0,1.6
 Espanol,away,2,La Liga,4,1.5,1.5
-Espanol,away,all,La Liga,14,1.1428571428571428,1.5
+Espanol,away,all,La Liga,15,1.1333333333333333,1.6
 Espanol,home,0,La Liga,5,1.0,1.8
 Espanol,home,1,La Liga,7,1.2857142857142858,1.7142857142857142
 Espanol,home,2,La Liga,2,2.0,2.0
@@ -204,37 +204,37 @@ Everton,away,1,Premier League,5,0.6,1.6
 Everton,away,2,Premier League,4,1.25,1.5
 Everton,away,all,Premier League,15,0.6666666666666666,1.7333333333333334
 Everton,home,0,Premier League,5,0.8,1.8
-Everton,home,1,Premier League,5,1.0,0.6
+Everton,home,1,Premier League,6,1.0,1.0
 Everton,home,2,Premier League,5,0.8,1.0
-Everton,home,all,Premier League,15,0.8666666666666667,1.1333333333333333
+Everton,home,all,Premier League,16,0.875,1.25
 FC Koln,away,0,Bundesliga,6,0.8333333333333334,2.0
 FC Koln,away,1,Bundesliga,4,2.25,3.25
 FC Koln,away,2,Bundesliga,4,0.25,1.5
 FC Koln,away,all,Bundesliga,14,1.0714285714285714,2.2142857142857144
 FC Koln,home,0,Bundesliga,5,1.4,1.0
-FC Koln,home,1,Bundesliga,5,2.2,1.2
+FC Koln,home,1,Bundesliga,6,2.0,1.1666666666666667
 FC Koln,home,2,Bundesliga,3,1.0,1.0
-FC Koln,home,all,Bundesliga,13,1.6153846153846154,1.0769230769230769
+FC Koln,home,all,Bundesliga,14,1.5714285714285714,1.0714285714285714
 Fiorentina,away,0,Serie A,6,0.5,1.1666666666666667
 Fiorentina,away,1,Serie A,3,0.3333333333333333,1.0
 Fiorentina,away,2,Serie A,5,2.0,0.4
 Fiorentina,away,all,Serie A,14,1.0,0.8571428571428571
-Fiorentina,home,0,Serie A,5,1.2,2.0
+Fiorentina,home,0,Serie A,6,1.1666666666666667,1.8333333333333333
 Fiorentina,home,1,Serie A,5,1.0,1.2
 Fiorentina,home,2,Serie A,5,1.8,0.8
-Fiorentina,home,all,Serie A,15,1.3333333333333333,1.3333333333333333
+Fiorentina,home,all,Serie A,16,1.3125,1.3125
 Freiburg,away,0,Bundesliga,4,1.25,3.75
-Freiburg,away,1,Bundesliga,5,1.0,1.4
+Freiburg,away,1,Bundesliga,6,1.1666666666666667,1.3333333333333333
 Freiburg,away,2,Bundesliga,4,1.75,0.5
-Freiburg,away,all,Bundesliga,13,1.3076923076923077,1.8461538461538463
+Freiburg,away,all,Bundesliga,14,1.3571428571428572,1.7857142857142858
 Freiburg,home,0,Bundesliga,5,1.4,1.4
 Freiburg,home,1,Bundesliga,6,1.8333333333333333,0.5
 Freiburg,home,2,Bundesliga,3,1.3333333333333333,0.6666666666666666
 Freiburg,home,all,Bundesliga,14,1.5714285714285714,0.8571428571428571
 Fulham,away,0,Premier League,5,0.8,1.4
 Fulham,away,1,Premier League,5,1.2,1.0
-Fulham,away,2,Premier League,4,2.0,1.75
-Fulham,away,all,Premier League,14,1.2857142857142858,1.3571428571428572
+Fulham,away,2,Premier League,5,2.2,1.6
+Fulham,away,all,Premier League,15,1.4,1.3333333333333333
 Fulham,home,0,Premier League,6,1.1666666666666667,1.8333333333333333
 Fulham,home,1,Premier League,5,2.0,1.6
 Fulham,home,2,Premier League,4,1.0,0.5
@@ -243,30 +243,30 @@ Getafe,away,0,La Liga,5,0.4,1.2
 Getafe,away,1,La Liga,5,1.0,1.2
 Getafe,away,2,La Liga,4,1.0,2.0
 Getafe,away,all,La Liga,14,0.7857142857142857,1.4285714285714286
-Getafe,home,0,La Liga,6,0.6666666666666666,1.3333333333333333
+Getafe,home,0,La Liga,7,0.5714285714285714,1.1428571428571428
 Getafe,home,1,La Liga,5,2.0,1.2
 Getafe,home,2,La Liga,3,0.6666666666666666,0.6666666666666666
-Getafe,home,all,La Liga,14,1.1428571428571428,1.1428571428571428
+Getafe,home,all,La Liga,15,1.0666666666666667,1.0666666666666667
 Girona,away,0,La Liga,6,1.0,1.3333333333333333
 Girona,away,1,La Liga,2,1.5,1.5
 Girona,away,2,La Liga,6,1.3333333333333333,2.0
 Girona,away,all,La Liga,14,1.2142857142857142,1.6428571428571428
 Girona,home,0,La Liga,4,1.25,2.0
 Girona,home,1,La Liga,5,1.4,1.2
-Girona,home,2,La Liga,5,2.6,1.0
-Girona,home,all,La Liga,14,1.7857142857142858,1.3571428571428572
+Girona,home,2,La Liga,6,2.5,0.8333333333333334
+Girona,home,all,La Liga,15,1.8,1.2666666666666666
 Hertha,away,0,Bundesliga,6,1.0,3.0
 Hertha,away,1,Bundesliga,5,0.8,1.2
-Hertha,away,2,Bundesliga,2,1.0,2.5
-Hertha,away,all,Bundesliga,13,0.9230769230769231,2.230769230769231
+Hertha,away,2,Bundesliga,3,1.3333333333333333,3.3333333333333335
+Hertha,away,all,Bundesliga,14,1.0,2.4285714285714284
 Hertha,home,0,Bundesliga,7,1.0,1.7142857142857142
 Hertha,home,1,Bundesliga,6,1.6666666666666667,1.3333333333333333
 Hertha,home,2,Bundesliga,1,2.0,1.0
 Hertha,home,all,Bundesliga,14,1.3571428571428572,1.5
-Hoffenheim,away,0,Bundesliga,5,1.4,2.0
+Hoffenheim,away,0,Bundesliga,6,1.3333333333333333,1.8333333333333333
 Hoffenheim,away,1,Bundesliga,5,0.8,1.4
 Hoffenheim,away,2,Bundesliga,3,2.0,2.0
-Hoffenheim,away,all,Bundesliga,13,1.3076923076923077,1.7692307692307692
+Hoffenheim,away,all,Bundesliga,14,1.2857142857142858,1.7142857142857142
 Hoffenheim,home,0,Bundesliga,5,0.4,1.8
 Hoffenheim,home,1,Bundesliga,5,1.6,1.8
 Hoffenheim,home,2,Bundesliga,4,2.5,1.25
@@ -276,21 +276,21 @@ Inter,away,1,Serie A,5,1.8,2.0
 Inter,away,2,Serie A,5,1.2,1.0
 Inter,away,all,Serie A,14,1.5,1.7857142857142858
 Inter,home,0,Serie A,4,0.75,0.75
-Inter,home,1,Serie A,5,2.0,0.8
+Inter,home,1,Serie A,6,1.6666666666666667,0.8333333333333334
 Inter,home,2,Serie A,6,2.3333333333333335,0.16666666666666666
-Inter,home,all,Serie A,15,1.8,0.5333333333333333
+Inter,home,all,Serie A,16,1.6875,0.5625
 Juventus,away,0,Serie A,5,0.6,2.0
-Juventus,away,1,Serie A,3,0.6666666666666666,0.6666666666666666
+Juventus,away,1,Serie A,4,0.5,0.75
 Juventus,away,2,Serie A,6,1.3333333333333333,0.0
-Juventus,away,all,Serie A,14,0.9285714285714286,0.8571428571428571
+Juventus,away,all,Serie A,15,0.8666666666666667,0.8666666666666667
 Juventus,home,0,Serie A,4,2.25,1.0
 Juventus,home,1,Serie A,7,2.2857142857142856,0.5714285714285714
 Juventus,home,2,Serie A,4,2.25,1.0
 Juventus,home,all,Serie A,15,2.2666666666666666,0.8
 Lazio,away,0,Serie A,4,1.0,0.75
 Lazio,away,1,Serie A,5,1.6,0.0
-Lazio,away,2,Serie A,5,1.8,0.8
-Lazio,away,all,Serie A,14,1.5,0.5
+Lazio,away,2,Serie A,6,2.0,0.6666666666666666
+Lazio,away,all,Serie A,15,1.6,0.4666666666666667
 Lazio,home,0,Serie A,6,1.8333333333333333,1.0
 Lazio,home,1,Serie A,5,1.2,0.8
 Lazio,home,2,Serie A,4,2.0,0.75
@@ -301,60 +301,60 @@ Lecce,away,2,Serie A,5,1.2,0.6
 Lecce,away,all,Serie A,15,0.7333333333333333,1.0666666666666667
 Lecce,home,0,Serie A,7,1.2857142857142858,1.4285714285714286
 Lecce,home,1,Serie A,5,0.6,1.2
-Lecce,home,2,Serie A,2,1.0,1.5
-Lecce,home,all,Serie A,14,1.0,1.3571428571428572
+Lecce,home,2,Serie A,3,1.0,1.3333333333333333
+Lecce,home,all,Serie A,15,1.0,1.3333333333333333
 Leeds,away,0,Premier League,6,1.1666666666666667,2.1666666666666665
 Leeds,away,1,Premier League,5,1.8,2.2
 Leeds,away,2,Premier League,4,0.5,1.5
 Leeds,away,all,Premier League,15,1.2,2.0
 Leeds,home,0,Premier League,5,0.6,1.6
-Leeds,home,1,Premier League,6,2.0,2.0
+Leeds,home,1,Premier League,7,1.8571428571428572,2.5714285714285716
 Leeds,home,2,Premier League,4,1.5,1.0
-Leeds,home,all,Premier League,15,1.4,1.6
-Leicester,away,0,Premier League,5,2.0,4.0
+Leeds,home,all,Premier League,16,1.375,1.875
+Leicester,away,0,Premier League,6,1.8333333333333333,3.8333333333333335
 Leicester,away,1,Premier League,6,1.5,1.5
 Leicester,away,2,Premier League,4,1.0,0.75
-Leicester,away,all,Premier League,15,1.5333333333333334,2.1333333333333333
+Leicester,away,all,Premier League,16,1.5,2.1875
 Leicester,home,0,Premier League,7,1.0,1.5714285714285714
 Leicester,home,1,Premier League,5,0.6,1.4
 Leicester,home,2,Premier League,3,2.3333333333333335,0.6666666666666666
 Leicester,home,all,Premier League,15,1.1333333333333333,1.3333333333333333
 Leverkusen,away,0,Bundesliga,5,0.4,2.6
-Leverkusen,away,1,Bundesliga,6,2.3333333333333335,1.1666666666666667
+Leverkusen,away,1,Bundesliga,7,2.0,1.0
 Leverkusen,away,2,Bundesliga,2,2.5,1.0
-Leverkusen,away,all,Bundesliga,13,1.6153846153846154,1.6923076923076923
+Leverkusen,away,all,Bundesliga,14,1.5,1.5714285714285714
 Leverkusen,home,0,Bundesliga,5,2.4,1.4
 Leverkusen,home,1,Bundesliga,5,1.2,2.2
 Leverkusen,home,2,Bundesliga,4,3.0,0.25
 Leverkusen,home,all,Bundesliga,14,2.142857142857143,1.3571428571428572
 Liverpool,away,0,Premier League,7,1.5714285714285714,2.0
 Liverpool,away,1,Premier League,6,0.5,1.5
-Liverpool,away,2,Premier League,2,0.0,0.5
-Liverpool,away,all,Premier League,15,0.9333333333333333,1.6
+Liverpool,away,2,Premier League,3,2.0,0.6666666666666666
+Liverpool,away,all,Premier League,16,1.25,1.5625
 Liverpool,home,0,Premier League,5,3.0,1.2
 Liverpool,home,1,Premier League,4,3.0,0.25
 Liverpool,home,2,Premier League,5,1.8,0.8
 Liverpool,home,all,Premier League,14,2.5714285714285716,0.7857142857142857
-M'gladbach,away,0,Bundesliga,4,0.5,1.5
+M'gladbach,away,0,Bundesliga,5,0.6,1.4
 M'gladbach,away,1,Bundesliga,6,1.1666666666666667,2.1666666666666665
 M'gladbach,away,2,Bundesliga,3,1.3333333333333333,2.6666666666666665
-M'gladbach,away,all,Bundesliga,13,1.0,2.076923076923077
+M'gladbach,away,all,Bundesliga,14,1.0,2.0
 M'gladbach,home,0,Bundesliga,6,2.1666666666666665,1.6666666666666667
 M'gladbach,home,1,Bundesliga,5,2.4,1.2
 M'gladbach,home,2,Bundesliga,3,1.3333333333333333,0.3333333333333333
 M'gladbach,home,all,Bundesliga,14,2.0714285714285716,1.2142857142857142
 Mainz,away,0,Bundesliga,5,2.0,2.4
-Mainz,away,1,Bundesliga,4,1.5,1.25
+Mainz,away,1,Bundesliga,5,1.4,1.2
 Mainz,away,2,Bundesliga,4,1.0,1.0
-Mainz,away,all,Bundesliga,13,1.5384615384615385,1.6153846153846154
+Mainz,away,all,Bundesliga,14,1.5,1.5714285714285714
 Mainz,home,0,Bundesliga,6,0.6666666666666666,1.3333333333333333
 Mainz,home,1,Bundesliga,6,2.5,1.0
 Mainz,home,2,Bundesliga,2,3.0,1.5
 Mainz,home,all,Bundesliga,14,1.7857142857142858,1.2142857142857142
 Mallorca,away,0,La Liga,5,0.6,1.2
-Mallorca,away,1,La Liga,4,1.25,1.5
+Mallorca,away,1,La Liga,5,1.2,1.2
 Mallorca,away,2,La Liga,5,0.8,1.6
-Mallorca,away,all,La Liga,14,0.8571428571428571,1.4285714285714286
+Mallorca,away,all,La Liga,15,0.8666666666666667,1.3333333333333333
 Mallorca,home,0,La Liga,6,1.3333333333333333,1.0
 Mallorca,home,1,La Liga,5,0.6,0.4
 Mallorca,home,2,La Liga,3,0.6666666666666666,0.6666666666666666
@@ -365,28 +365,28 @@ Man City,away,2,Premier League,5,2.2,0.6
 Man City,away,all,Premier League,15,1.8666666666666667,0.8666666666666667
 Man City,home,0,Premier League,5,3.6,1.4
 Man City,home,1,Premier League,6,3.0,1.0
-Man City,home,2,Premier League,3,3.6666666666666665,0.3333333333333333
-Man City,home,all,Premier League,14,3.357142857142857,1.0
+Man City,home,2,Premier League,4,3.5,0.5
+Man City,home,all,Premier League,15,3.3333333333333335,1.0
 Man United,away,0,Premier League,4,1.5,3.5
 Man United,away,1,Premier League,6,0.8333333333333334,2.3333333333333335
-Man United,away,2,Premier League,4,1.5,0.25
-Man United,away,all,Premier League,14,1.2142857142857142,2.0714285714285716
+Man United,away,2,Premier League,5,1.6,0.2
+Man United,away,all,Premier League,15,1.2666666666666666,1.9333333333333333
 Man United,home,0,Premier League,5,1.6,0.8
 Man United,home,1,Premier League,4,2.0,0.5
 Man United,home,2,Premier League,6,1.8333333333333333,0.3333333333333333
 Man United,home,all,Premier League,15,1.8,0.5333333333333333
 Milan,away,0,Serie A,4,1.25,1.5
-Milan,away,1,Serie A,6,1.1666666666666667,1.3333333333333333
+Milan,away,1,Serie A,7,1.1428571428571428,1.2857142857142858
 Milan,away,2,Serie A,5,1.6,1.0
-Milan,away,all,Serie A,15,1.3333333333333333,1.2666666666666666
+Milan,away,all,Serie A,16,1.3125,1.25
 Milan,home,0,Serie A,5,2.0,1.2
 Milan,home,1,Serie A,7,2.142857142857143,1.2857142857142858
 Milan,home,2,Serie A,2,1.5,1.0
 Milan,home,all,Serie A,14,2.0,1.2142857142857142
-Monza,away,0,Serie A,5,0.6,2.4
+Monza,away,0,Serie A,6,0.6666666666666666,2.0
 Monza,away,1,Serie A,4,1.0,1.0
 Monza,away,2,Serie A,5,1.6,1.4
-Monza,away,all,Serie A,14,1.0714285714285714,1.6428571428571428
+Monza,away,all,Serie A,15,1.0666666666666667,1.5333333333333334
 Monza,home,0,Serie A,5,0.6,1.4
 Monza,home,1,Serie A,5,1.2,1.6
 Monza,home,2,Serie A,5,2.0,0.6
@@ -397,12 +397,12 @@ Napoli,away,2,Serie A,6,3.0,0.6666666666666666
 Napoli,away,all,Serie A,15,2.2,0.5333333333333333
 Napoli,home,0,Serie A,5,1.8,1.4
 Napoli,home,1,Serie A,6,3.1666666666666665,0.8333333333333334
-Napoli,home,2,Serie A,3,1.6666666666666667,0.3333333333333333
-Napoli,home,all,Serie A,14,2.357142857142857,0.9285714285714286
-Newcastle,away,0,Premier League,5,0.4,0.6
+Napoli,home,2,Serie A,4,1.25,0.25
+Napoli,home,all,Serie A,15,2.2,0.8666666666666667
+Newcastle,away,0,Premier League,6,0.3333333333333333,1.0
 Newcastle,away,1,Premier League,6,1.5,1.0
 Newcastle,away,2,Premier League,4,3.5,0.75
-Newcastle,away,all,Premier League,15,1.6666666666666667,0.8
+Newcastle,away,all,Premier League,16,1.5625,0.9375
 Newcastle,home,0,Premier League,3,3.0,1.0
 Newcastle,home,1,Premier League,7,1.4285714285714286,0.7142857142857143
 Newcastle,home,2,Premier League,4,1.0,0.25
@@ -411,14 +411,14 @@ Nott'm Forest,away,0,Premier League,7,0.14285714285714285,3.0
 Nott'm Forest,away,1,Premier League,3,0.3333333333333333,1.3333333333333333
 Nott'm Forest,away,2,Premier League,5,0.6,2.2
 Nott'm Forest,away,all,Premier League,15,0.3333333333333333,2.4
-Nott'm Forest,home,0,Premier League,4,0.75,1.5
+Nott'm Forest,home,0,Premier League,5,0.6,1.6
 Nott'm Forest,home,1,Premier League,7,1.4285714285714286,1.4285714285714286
 Nott'm Forest,home,2,Premier League,4,1.5,0.5
-Nott'm Forest,home,all,Premier League,15,1.2666666666666666,1.2
+Nott'm Forest,home,all,Premier League,16,1.1875,1.25
 Osasuna,away,0,La Liga,5,0.2,1.2
-Osasuna,away,1,La Liga,5,1.2,0.8
+Osasuna,away,1,La Liga,6,1.1666666666666667,1.0
 Osasuna,away,2,La Liga,4,0.75,0.75
-Osasuna,away,all,La Liga,14,0.7142857142857143,0.9285714285714286
+Osasuna,away,all,La Liga,15,0.7333333333333333,1.0
 Osasuna,home,0,La Liga,4,0.25,2.0
 Osasuna,home,1,La Liga,5,1.4,0.4
 Osasuna,home,2,La Liga,5,1.2,1.0
@@ -428,13 +428,13 @@ RB Leipzig,away,1,Bundesliga,7,1.7142857142857142,1.2857142857142858
 RB Leipzig,away,2,Bundesliga,4,2.0,0.75
 RB Leipzig,away,all,Bundesliga,14,1.5714285714285714,1.4285714285714286
 RB Leipzig,home,0,Bundesliga,6,2.0,0.8333333333333334
-RB Leipzig,home,1,Bundesliga,4,1.75,1.25
+RB Leipzig,home,1,Bundesliga,5,2.0,1.4
 RB Leipzig,home,2,Bundesliga,3,3.0,1.0
-RB Leipzig,home,all,Bundesliga,13,2.1538461538461537,1.0
+RB Leipzig,home,all,Bundesliga,14,2.2142857142857144,1.0714285714285714
 Real Madrid,away,0,La Liga,5,1.2,1.0
 Real Madrid,away,1,La Liga,5,2.0,1.0
-Real Madrid,away,2,La Liga,4,2.25,0.5
-Real Madrid,away,all,La Liga,14,1.7857142857142858,0.8571428571428571
+Real Madrid,away,2,La Liga,5,2.2,0.4
+Real Madrid,away,all,La Liga,15,1.8,0.8
 Real Madrid,home,0,La Liga,5,1.6,1.2
 Real Madrid,home,1,La Liga,5,3.0,0.8
 Real Madrid,home,2,La Liga,4,2.75,0.5
@@ -444,21 +444,21 @@ Roma,away,1,Serie A,4,1.0,1.5
 Roma,away,2,Serie A,6,1.5,0.6666666666666666
 Roma,away,all,Serie A,15,1.2666666666666666,1.1333333333333333
 Roma,home,0,Serie A,4,0.25,0.75
-Roma,home,1,Serie A,6,2.0,0.8333333333333334
+Roma,home,1,Serie A,7,2.142857142857143,0.7142857142857143
 Roma,home,2,Serie A,4,1.75,0.25
-Roma,home,all,Serie A,14,1.4285714285714286,0.6428571428571429
+Roma,home,all,Serie A,15,1.5333333333333334,0.6
 Salernitana,away,0,Serie A,5,1.6,2.8
-Salernitana,away,1,Serie A,5,0.4,2.2
+Salernitana,away,1,Serie A,6,0.5,2.0
 Salernitana,away,2,Serie A,4,0.75,0.75
-Salernitana,away,all,Serie A,14,0.9285714285714286,2.0
+Salernitana,away,all,Serie A,15,0.9333333333333333,1.9333333333333333
 Salernitana,home,0,Serie A,6,0.3333333333333333,1.8333333333333333
 Salernitana,home,1,Serie A,4,2.0,1.25
 Salernitana,home,2,Serie A,5,2.0,1.0
 Salernitana,home,all,Serie A,15,1.3333333333333333,1.4
 Sampdoria,away,0,Serie A,5,0.4,2.6
 Sampdoria,away,1,Serie A,5,1.0,1.4
-Sampdoria,away,2,Serie A,4,0.75,2.0
-Sampdoria,away,all,Serie A,14,0.7142857142857143,2.0
+Sampdoria,away,2,Serie A,5,0.8,1.8
+Sampdoria,away,all,Serie A,15,0.7333333333333333,1.9333333333333333
 Sampdoria,home,0,Serie A,7,0.2857142857142857,1.1428571428571428
 Sampdoria,home,1,Serie A,4,0.25,2.0
 Sampdoria,home,2,Serie A,4,1.25,1.5
@@ -467,30 +467,30 @@ Sassuolo,away,0,Serie A,5,2.0,2.8
 Sassuolo,away,1,Serie A,6,0.8333333333333334,1.5
 Sassuolo,away,2,Serie A,4,1.0,1.0
 Sassuolo,away,all,Serie A,15,1.2666666666666666,1.8
-Sassuolo,home,0,Serie A,6,0.5,1.1666666666666667
+Sassuolo,home,0,Serie A,7,0.5714285714285714,1.0
 Sassuolo,home,1,Serie A,2,1.0,2.0
 Sassuolo,home,2,Serie A,6,2.1666666666666665,0.8333333333333334
-Sassuolo,home,all,Serie A,14,1.2857142857142858,1.1428571428571428
+Sassuolo,home,all,Serie A,15,1.2666666666666666,1.0666666666666667
 Schalke 04,away,0,Bundesliga,4,0.0,2.0
 Schalke 04,away,1,Bundesliga,6,0.5,1.3333333333333333
 Schalke 04,away,2,Bundesliga,3,1.3333333333333333,1.0
 Schalke 04,away,all,Bundesliga,13,0.5384615384615384,1.4615384615384615
 Schalke 04,home,0,Bundesliga,6,0.6666666666666666,3.5
 Schalke 04,home,1,Bundesliga,6,0.8333333333333334,1.3333333333333333
-Schalke 04,home,2,Bundesliga,2,2.5,1.0
-Schalke 04,home,all,Bundesliga,14,1.0,2.2142857142857144
+Schalke 04,home,2,Bundesliga,3,3.3333333333333335,1.3333333333333333
+Schalke 04,home,all,Bundesliga,15,1.2666666666666666,2.2
 Sevilla,away,0,La Liga,5,0.8,2.8
 Sevilla,away,1,La Liga,5,1.0,1.2
-Sevilla,away,2,La Liga,4,1.5,1.5
-Sevilla,away,all,La Liga,14,1.0714285714285714,1.8571428571428572
+Sevilla,away,2,La Liga,5,1.6,1.2
+Sevilla,away,all,La Liga,15,1.1333333333333333,1.7333333333333334
 Sevilla,home,0,La Liga,4,0.5,2.0
 Sevilla,home,1,La Liga,5,1.4,1.4
 Sevilla,home,2,La Liga,5,1.8,0.6
 Sevilla,home,all,La Liga,14,1.2857142857142858,1.2857142857142858
-Sociedad,away,0,La Liga,2,0.0,1.0
+Sociedad,away,0,La Liga,3,0.0,1.3333333333333333
 Sociedad,away,1,La Liga,6,2.0,1.1666666666666667
 Sociedad,away,2,La Liga,6,1.3333333333333333,0.8333333333333334
-Sociedad,away,all,La Liga,14,1.4285714285714286,1.0
+Sociedad,away,all,La Liga,15,1.3333333333333333,1.0666666666666667
 Sociedad,home,0,La Liga,5,1.2,1.6
 Sociedad,home,1,La Liga,4,1.0,0.5
 Sociedad,home,2,La Liga,5,1.4,0.4
@@ -500,45 +500,45 @@ Southampton,away,1,Premier League,7,0.5714285714285714,1.4285714285714286
 Southampton,away,2,Premier League,4,1.0,1.0
 Southampton,away,all,Premier League,15,0.6,1.5333333333333334
 Southampton,home,0,Premier League,7,1.0,2.4285714285714284
-Southampton,home,1,Premier League,3,1.0,1.6666666666666667
+Southampton,home,1,Premier League,4,0.75,1.75
 Southampton,home,2,Premier League,5,1.0,1.2
-Southampton,home,all,Premier League,15,1.0,1.8666666666666667
+Southampton,home,all,Premier League,16,0.9375,1.875
 Spezia,away,0,Serie A,5,0.2,2.4
 Spezia,away,1,Serie A,7,0.8571428571428571,1.4285714285714286
 Spezia,away,2,Serie A,2,1.0,1.0
 Spezia,away,all,Serie A,14,0.6428571428571429,1.7142857142857142
-Spezia,home,0,Serie A,5,0.8,2.0
+Spezia,home,0,Serie A,6,0.6666666666666666,2.1666666666666665
 Spezia,home,1,Serie A,5,1.4,1.4
 Spezia,home,2,Serie A,5,1.0,0.8
-Spezia,home,all,Serie A,15,1.0666666666666667,1.4
+Spezia,home,all,Serie A,16,1.0,1.5
 Stuttgart,away,0,Bundesliga,7,0.7142857142857143,2.4285714285714284
 Stuttgart,away,1,Bundesliga,5,1.4,2.0
 Stuttgart,away,2,Bundesliga,2,2.0,2.0
 Stuttgart,away,all,Bundesliga,14,1.1428571428571428,2.2142857142857144
-Stuttgart,home,0,Bundesliga,5,0.6,1.6
+Stuttgart,home,0,Bundesliga,6,1.0,1.8333333333333333
 Stuttgart,home,1,Bundesliga,5,1.2,1.0
 Stuttgart,home,2,Bundesliga,3,2.3333333333333335,1.0
-Stuttgart,home,all,Bundesliga,13,1.2307692307692308,1.2307692307692308
+Stuttgart,home,all,Bundesliga,14,1.3571428571428572,1.3571428571428572
 Torino,away,0,Serie A,6,0.8333333333333334,2.1666666666666665
 Torino,away,1,Serie A,6,1.5,1.1666666666666667
 Torino,away,2,Serie A,3,1.6666666666666667,0.6666666666666666
 Torino,away,all,Serie A,15,1.2666666666666666,1.4666666666666666
 Torino,home,0,Serie A,5,0.4,1.4
 Torino,home,1,Serie A,4,0.75,0.5
-Torino,home,2,Serie A,5,1.2,0.8
-Torino,home,all,Serie A,14,0.7857142857142857,0.9285714285714286
+Torino,home,2,Serie A,6,1.1666666666666667,0.8333333333333334
+Torino,home,all,Serie A,15,0.8,0.9333333333333333
 Tottenham,away,0,Premier League,4,1.0,2.25
 Tottenham,away,1,Premier League,6,2.0,1.1666666666666667
 Tottenham,away,2,Premier League,5,1.6,1.8
 Tottenham,away,all,Premier League,15,1.6,1.6666666666666667
 Tottenham,home,0,Premier League,5,0.8,1.4
-Tottenham,home,1,Premier League,4,1.5,0.75
+Tottenham,home,1,Premier League,5,1.6,1.2
 Tottenham,home,2,Premier League,6,3.5,1.1666666666666667
-Tottenham,home,all,Premier League,15,2.066666666666667,1.1333333333333333
-Udinese,away,0,Serie A,6,0.8333333333333334,1.8333333333333333
+Tottenham,home,all,Premier League,16,2.0625,1.25
+Udinese,away,0,Serie A,7,0.7142857142857143,2.0
 Udinese,away,1,Serie A,5,1.2,1.2
 Udinese,away,2,Serie A,4,1.0,0.5
-Udinese,away,all,Serie A,15,1.0,1.2666666666666666
+Udinese,away,all,Serie A,16,0.9375,1.375
 Udinese,home,0,Serie A,4,3.0,1.0
 Udinese,home,1,Serie A,6,1.3333333333333333,1.5
 Udinese,home,2,Serie A,4,1.0,1.0
@@ -549,20 +549,20 @@ Union Berlin,away,2,Bundesliga,4,2.5,0.75
 Union Berlin,away,all,Bundesliga,14,1.2857142857142858,1.5714285714285714
 Union Berlin,home,0,Bundesliga,4,1.75,0.5
 Union Berlin,home,1,Bundesliga,6,1.8333333333333333,0.8333333333333334
-Union Berlin,home,2,Bundesliga,3,2.0,0.3333333333333333
-Union Berlin,home,all,Bundesliga,13,1.8461538461538463,0.6153846153846154
+Union Berlin,home,2,Bundesliga,4,1.75,0.5
+Union Berlin,home,all,Bundesliga,14,1.7857142857142858,0.6428571428571429
 Valencia,away,0,La Liga,6,0.3333333333333333,1.6666666666666667
 Valencia,away,1,La Liga,5,0.8,1.2
 Valencia,away,2,La Liga,3,1.0,1.6666666666666667
 Valencia,away,all,La Liga,14,0.6428571428571429,1.5
 Valencia,home,0,La Liga,5,1.0,0.8
-Valencia,home,1,La Liga,5,1.4,0.6
+Valencia,home,1,La Liga,6,1.1666666666666667,0.8333333333333334
 Valencia,home,2,La Liga,4,2.25,1.5
-Valencia,home,all,La Liga,14,1.5,0.9285714285714286
-Valladolid,away,0,La Liga,6,0.3333333333333333,3.0
+Valencia,home,all,La Liga,15,1.4,1.0
+Valladolid,away,0,La Liga,7,0.5714285714285714,2.7142857142857144
 Valladolid,away,1,La Liga,5,0.4,1.8
 Valladolid,away,2,La Liga,3,1.3333333333333333,1.3333333333333333
-Valladolid,away,all,La Liga,14,0.5714285714285714,2.2142857142857144
+Valladolid,away,all,La Liga,15,0.6666666666666666,2.1333333333333333
 Valladolid,home,0,La Liga,5,0.4,1.6
 Valladolid,home,1,La Liga,4,1.75,1.25
 Valladolid,home,2,La Liga,5,1.2,0.6
@@ -572,13 +572,13 @@ Vallecano,away,1,La Liga,5,1.0,1.4
 Vallecano,away,2,La Liga,5,1.0,1.2
 Vallecano,away,all,La Liga,14,1.0,1.2142857142857142
 Vallecano,home,0,La Liga,5,1.0,1.6
-Vallecano,home,1,La Liga,4,0.75,1.25
+Vallecano,home,1,La Liga,5,1.0,1.2
 Vallecano,home,2,La Liga,5,2.2,0.6
-Vallecano,home,all,La Liga,14,1.3571428571428572,1.1428571428571428
-Verona,away,0,Serie A,4,0.0,1.25
+Vallecano,home,all,La Liga,15,1.4,1.1333333333333333
+Verona,away,0,Serie A,5,0.0,1.0
 Verona,away,1,Serie A,7,0.7142857142857143,1.4285714285714286
 Verona,away,2,Serie A,3,0.6666666666666666,1.6666666666666667
-Verona,away,all,Serie A,14,0.5,1.4285714285714286
+Verona,away,all,Serie A,15,0.4666666666666667,1.3333333333333333
 Verona,home,0,Serie A,6,0.8333333333333334,2.1666666666666665
 Verona,home,1,Serie A,4,1.0,1.75
 Verona,home,2,Serie A,5,1.6,0.6
@@ -588,38 +588,38 @@ Villarreal,away,1,La Liga,4,2.25,1.25
 Villarreal,away,2,La Liga,5,0.8,0.6
 Villarreal,away,all,La Liga,15,1.2,1.0666666666666667
 Villarreal,home,0,La Liga,4,1.25,0.75
-Villarreal,home,1,La Liga,5,0.8,0.8
+Villarreal,home,1,La Liga,6,0.8333333333333334,1.0
 Villarreal,home,2,La Liga,4,2.5,0.75
-Villarreal,home,all,La Liga,13,1.4615384615384615,0.7692307692307693
+Villarreal,home,all,La Liga,14,1.4285714285714286,0.8571428571428571
 Werder Bremen,away,0,Bundesliga,5,1.0,2.6
 Werder Bremen,away,1,Bundesliga,6,1.6666666666666667,2.6666666666666665
 Werder Bremen,away,2,Bundesliga,2,2.0,0.0
 Werder Bremen,away,all,Bundesliga,13,1.4615384615384615,2.230769230769231
-Werder Bremen,home,0,Bundesliga,5,1.4,2.6
+Werder Bremen,home,0,Bundesliga,6,1.3333333333333333,2.5
 Werder Bremen,home,1,Bundesliga,5,1.6,1.4
 Werder Bremen,home,2,Bundesliga,4,2.0,0.75
-Werder Bremen,home,all,Bundesliga,14,1.6428571428571428,1.6428571428571428
+Werder Bremen,home,all,Bundesliga,15,1.6,1.6666666666666667
 West Ham,away,0,Premier League,6,0.5,1.8333333333333333
 West Ham,away,1,Premier League,4,0.5,1.0
 West Ham,away,2,Premier League,4,0.75,1.25
 West Ham,away,all,Premier League,14,0.5714285714285714,1.4285714285714286
-West Ham,home,0,Premier League,5,0.6,2.2
+West Ham,home,0,Premier League,6,0.8333333333333334,2.1666666666666665
 West Ham,home,1,Premier League,6,1.5,1.0
 West Ham,home,2,Premier League,4,1.75,0.5
-West Ham,home,all,Premier League,15,1.2666666666666666,1.2666666666666666
+West Ham,home,all,Premier League,16,1.3125,1.3125
 Wolfsburg,away,0,Bundesliga,5,0.6,1.6
 Wolfsburg,away,1,Bundesliga,6,1.5,1.0
 Wolfsburg,away,2,Bundesliga,3,2.0,0.0
 Wolfsburg,away,all,Bundesliga,14,1.2857142857142858,1.0
-Wolfsburg,home,0,Bundesliga,6,2.1666666666666665,1.6666666666666667
+Wolfsburg,home,0,Bundesliga,7,1.8571428571428572,1.4285714285714286
 Wolfsburg,home,1,Bundesliga,4,2.0,2.5
 Wolfsburg,home,2,Bundesliga,3,2.3333333333333335,0.6666666666666666
-Wolfsburg,home,all,Bundesliga,13,2.1538461538461537,1.6923076923076923
+Wolfsburg,home,all,Bundesliga,14,2.0,1.5714285714285714
 Wolves,away,0,Premier League,4,0.5,1.75
 Wolves,away,1,Premier League,6,0.5,1.5
 Wolves,away,2,Premier League,5,1.2,1.4
 Wolves,away,all,Premier League,15,0.7333333333333333,1.5333333333333334
 Wolves,home,0,Premier League,6,0.6666666666666666,1.6666666666666667
-Wolves,home,1,Premier League,4,1.0,0.25
+Wolves,home,1,Premier League,5,1.2,0.2
 Wolves,home,2,Premier League,5,1.0,1.6
-Wolves,home,all,Premier League,15,0.8666666666666667,1.2666666666666666
+Wolves,home,all,Premier League,16,0.9375,1.1875

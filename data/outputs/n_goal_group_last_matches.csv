@@ -1,312 +1,313 @@
 main_team,team_group,competition,n_matches,avg_goal_fatti,avg_goal_subiti,n_last_matches
-Almeria,0,La Liga,3,1.0,1.6666666666666667,10
+Almeria,0,La Liga,4,1.0,1.75,10
 Almeria,1,La Liga,4,1.25,3.0,10
 Almeria,2,La Liga,2,1.5,1.0,10
-Almeria,all,La Liga,9,1.2222222222222223,2.111111111111111,10
+Almeria,all,La Liga,10,1.2,2.1,10
 Arsenal,0,Premier League,1,4.0,2.0,10
-Arsenal,1,Premier League,5,2.6,1.2,10
-Arsenal,2,Premier League,2,2.5,0.5,10
-Arsenal,all,Premier League,8,2.75,1.125,10
-Aston Villa,0,Premier League,2,1.5,3.5,10
+Arsenal,1,Premier League,4,3.0,1.25,10
+Arsenal,2,Premier League,3,2.3333333333333335,1.0,10
+Arsenal,all,Premier League,8,2.875,1.25,10
+Aston Villa,0,Premier League,2,2.5,2.0,10
 Aston Villa,1,Premier League,3,2.0,0.0,10
 Aston Villa,2,Premier League,3,1.6666666666666667,0.3333333333333333,10
-Aston Villa,all,Premier League,8,1.75,1.0,10
+Aston Villa,all,Premier League,8,2.0,0.625,10
 Atalanta,0,Serie A,3,0.6666666666666666,1.3333333333333333,10
-Atalanta,1,Serie A,4,0.5,1.0,10
-Atalanta,2,Serie A,3,2.0,1.0,10
-Atalanta,all,Serie A,10,1.0,1.1,10
-Ath Bilbao,0,La Liga,2,0.0,1.0,10
+Atalanta,1,Serie A,5,0.6,1.0,10
+Atalanta,2,Serie A,2,2.0,1.5,10
+Atalanta,all,Serie A,10,0.9,1.2,10
+Ath Bilbao,0,La Liga,3,0.6666666666666666,0.6666666666666666,10
 Ath Bilbao,1,La Liga,3,1.6666666666666667,1.3333333333333333,10
 Ath Bilbao,2,La Liga,4,2.0,0.75,10
-Ath Bilbao,all,La Liga,9,1.4444444444444444,1.0,10
+Ath Bilbao,all,La Liga,10,1.5,0.9,10
 Ath Madrid,0,La Liga,3,1.0,0.3333333333333333,10
 Ath Madrid,1,La Liga,4,2.5,0.5,10
-Ath Madrid,2,La Liga,2,2.0,0.5,10
-Ath Madrid,all,La Liga,9,1.8888888888888888,0.4444444444444444,10
-Augsburg,0,Bundesliga,3,1.6666666666666667,2.6666666666666665,10
+Ath Madrid,2,La Liga,3,2.0,0.6666666666666666,10
+Ath Madrid,all,La Liga,10,1.9,0.5,10
+Augsburg,0,Bundesliga,3,2.0,2.6666666666666665,10
 Augsburg,1,Bundesliga,5,1.4,1.8,10
 Augsburg,2,Bundesliga,2,0.5,1.5,10
-Augsburg,all,Bundesliga,10,1.3,2.0,10
-Barcelona,0,La Liga,4,1.5,0.5,10
+Augsburg,all,Bundesliga,10,1.4,2.0,10
+Barcelona,0,La Liga,3,1.3333333333333333,0.3333333333333333,10
 Barcelona,1,La Liga,2,1.5,0.0,10
-Barcelona,2,La Liga,4,1.75,0.25,10
-Barcelona,all,La Liga,10,1.6,0.3,10
-Bayern Munich,0,Bundesliga,5,2.0,1.0,10
-Bayern Munich,1,Bundesliga,3,3.6666666666666665,2.6666666666666665,10
+Barcelona,2,La Liga,5,1.4,0.2,10
+Barcelona,all,La Liga,10,1.4,0.2,10
+Bayern Munich,0,Bundesliga,4,2.25,1.0,10
+Bayern Munich,1,Bundesliga,4,3.0,2.25,10
 Bayern Munich,2,Bundesliga,2,2.5,0.5,10
 Bayern Munich,all,Bundesliga,10,2.6,1.4,10
-Betis,0,La Liga,4,0.5,1.0,10
+Betis,0,La Liga,3,0.3333333333333333,0.6666666666666666,10
 Betis,1,La Liga,3,2.0,1.6666666666666667,10
-Betis,2,La Liga,3,2.0,2.0,10
-Betis,all,La Liga,10,1.4,1.5,10
-Bochum,0,Bundesliga,4,0.5,1.5,10
-Bochum,1,Bundesliga,4,2.25,2.5,10
+Betis,2,La Liga,4,2.25,1.75,10
+Betis,all,La Liga,10,1.6,1.4,10
+Bochum,0,Bundesliga,5,0.6,1.4,10
+Bochum,1,Bundesliga,3,2.3333333333333335,1.6666666666666667,10
 Bochum,2,Bundesliga,2,1.0,2.5,10
-Bochum,all,Bundesliga,10,1.3,2.1,10
-Bologna,0,Serie A,3,1.0,0.0,10
+Bochum,all,Bundesliga,10,1.2,1.7,10
+Bologna,0,Serie A,4,1.0,0.25,10
 Bologna,1,Serie A,4,1.25,0.75,10
-Bologna,2,Serie A,3,2.0,1.0,10
-Bologna,all,Serie A,10,1.4,0.6,10
-Bournemouth,0,Premier League,4,1.0,2.75,10
+Bologna,2,Serie A,2,2.0,1.5,10
+Bologna,all,Serie A,10,1.3,0.7,10
+Bournemouth,0,Premier League,4,1.5,3.0,10
 Bournemouth,1,Premier League,3,1.3333333333333333,0.3333333333333333,10
 Bournemouth,2,Premier League,1,1.0,0.0,10
-Bournemouth,all,Premier League,8,1.125,1.5,10
-Brentford,0,Premier League,4,1.25,1.75,10
-Brentford,1,Premier League,2,2.0,1.5,10
+Bournemouth,all,Premier League,8,1.375,1.625,10
+Brentford,0,Premier League,3,1.3333333333333333,2.0,10
+Brentford,1,Premier League,3,1.3333333333333333,1.6666666666666667,10
 Brentford,2,Premier League,2,0.5,1.0,10
-Brentford,all,Premier League,8,1.25,1.5,10
+Brentford,all,Premier League,8,1.125,1.625,10
 Brighton,0,Premier League,1,1.0,2.0,10
-Brighton,1,Premier League,3,1.3333333333333333,1.6666666666666667,10
+Brighton,1,Premier League,3,1.6666666666666667,1.6666666666666667,10
 Brighton,2,Premier League,2,3.0,1.0,10
-Brighton,all,Premier League,6,1.8333333333333333,1.5,10
-Cadiz,0,La Liga,4,0.75,1.5,10
+Brighton,all,Premier League,6,2.0,1.5,10
+Cadiz,0,La Liga,5,0.6,1.6,10
 Cadiz,1,La Liga,3,1.0,0.6666666666666666,10
 Cadiz,2,La Liga,2,1.5,1.5,10
-Cadiz,all,La Liga,9,1.0,1.2222222222222223,10
+Cadiz,all,La Liga,10,0.9,1.3,10
 Celta,0,La Liga,3,1.6666666666666667,1.6666666666666667,10
-Celta,1,La Liga,4,2.0,0.5,10
+Celta,1,La Liga,5,1.6,0.6,10
 Celta,2,La Liga,2,2.5,1.5,10
-Celta,all,La Liga,9,2.0,1.1111111111111112,10
-Chelsea,0,Premier League,2,0.0,2.0,10
+Celta,all,La Liga,10,1.8,1.1,10
+Chelsea,0,Premier League,3,0.3333333333333333,2.0,10
 Chelsea,1,Premier League,2,0.0,0.5,10
-Chelsea,2,Premier League,5,1.4,1.0,10
-Chelsea,all,Premier League,9,0.7777777777777778,1.1111111111111112,10
-Cremonese,0,Serie A,4,1.0,2.25,10
-Cremonese,1,Serie A,4,1.25,2.0,10
+Chelsea,2,Premier League,4,1.5,1.0,10
+Chelsea,all,Premier League,9,0.7777777777777778,1.2222222222222223,10
+Cremonese,0,Serie A,3,1.0,2.3333333333333335,10
+Cremonese,1,Serie A,5,1.2,1.6,10
 Cremonese,2,Serie A,2,1.5,2.0,10
-Cremonese,all,Serie A,10,1.2,2.1,10
-Crystal Palace,0,Premier League,4,0.5,1.75,10
+Cremonese,all,Serie A,10,1.2,1.9,10
+Crystal Palace,0,Premier League,3,0.3333333333333333,2.0,10
 Crystal Palace,1,Premier League,2,0.5,0.5,10
-Crystal Palace,2,Premier League,2,3.5,1.0,10
-Crystal Palace,all,Premier League,8,1.25,1.25,10
-Dortmund,0,Bundesliga,5,2.6,1.4,10
+Crystal Palace,2,Premier League,3,3.0,0.6666666666666666,10
+Crystal Palace,all,Premier League,8,1.375,1.125,10
+Dortmund,0,Bundesliga,4,2.75,1.75,10
 Dortmund,1,Bundesliga,3,3.0,0.3333333333333333,10
-Dortmund,2,Bundesliga,2,3.0,1.5,10
-Dortmund,all,Bundesliga,10,2.8,1.1,10
-Ein Frankfurt,0,Bundesliga,4,0.75,2.0,10
-Ein Frankfurt,1,Bundesliga,3,1.3333333333333333,1.6666666666666667,10
+Dortmund,2,Bundesliga,3,3.0,2.0,10
+Dortmund,all,Bundesliga,10,2.9,1.4,10
+Ein Frankfurt,0,Bundesliga,3,0.6666666666666666,2.3333333333333335,10
+Ein Frankfurt,1,Bundesliga,4,1.25,1.5,10
 Ein Frankfurt,2,Bundesliga,3,1.6666666666666667,0.6666666666666666,10
 Ein Frankfurt,all,Bundesliga,10,1.2,1.5,10
 Elche,0,La Liga,5,1.0,2.8,10
-Elche,1,La Liga,3,1.0,1.0,10
+Elche,1,La Liga,4,0.75,1.25,10
 Elche,2,La Liga,1,0.0,1.0,10
-Elche,all,La Liga,9,0.8888888888888888,2.0,10
+Elche,all,La Liga,10,0.8,2.0,10
 Empoli,0,Serie A,4,0.25,1.5,10
-Empoli,1,Serie A,4,1.0,1.5,10
-Empoli,2,Serie A,2,1.5,1.0,10
-Empoli,all,Serie A,10,0.8,1.4,10
-Espanol,0,La Liga,3,1.3333333333333333,2.6666666666666665,10
+Empoli,1,Serie A,3,0.6666666666666666,1.3333333333333333,10
+Empoli,2,Serie A,3,1.0,1.0,10
+Empoli,all,Serie A,10,0.6,1.3,10
+Espanol,0,La Liga,4,1.25,2.75,10
 Espanol,1,La Liga,5,1.2,1.8,10
 Espanol,2,La Liga,1,1.0,0.0,10
-Espanol,all,La Liga,9,1.2222222222222223,1.8888888888888888,10
+Espanol,all,La Liga,10,1.2,2.0,10
 Everton,0,Premier League,3,0.3333333333333333,1.6666666666666667,10
-Everton,1,Premier League,3,1.0,1.3333333333333333,10
+Everton,1,Premier League,3,1.3333333333333333,1.6666666666666667,10
 Everton,2,Premier League,2,1.5,1.0,10
-Everton,all,Premier League,8,0.875,1.375,10
+Everton,all,Premier League,8,1.0,1.5,10
 FC Koln,0,Bundesliga,4,1.0,1.5,10
-FC Koln,1,Bundesliga,3,1.0,1.0,10
-FC Koln,2,Bundesliga,3,0.0,1.6666666666666667,10
-FC Koln,all,Bundesliga,10,0.7,1.4,10
+FC Koln,1,Bundesliga,4,1.0,1.0,10
+FC Koln,2,Bundesliga,2,0.0,2.5,10
+FC Koln,all,Bundesliga,10,0.8,1.5,10
 Fiorentina,0,Serie A,4,1.0,0.75,10
 Fiorentina,1,Serie A,2,1.0,1.5,10
 Fiorentina,2,Serie A,4,1.75,0.25,10
 Fiorentina,all,Serie A,10,1.3,0.7,10
 Freiburg,0,Bundesliga,3,0.6666666666666666,2.3333333333333335,10
-Freiburg,1,Bundesliga,4,1.5,0.75,10
+Freiburg,1,Bundesliga,4,1.25,0.75,10
 Freiburg,2,Bundesliga,3,1.6666666666666667,0.6666666666666666,10
-Freiburg,all,Bundesliga,10,1.3,1.2,10
+Freiburg,all,Bundesliga,10,1.2,1.2,10
 Fulham,0,Premier League,2,0.5,1.5,10
 Fulham,1,Premier League,3,1.3333333333333333,2.0,10
-Fulham,2,Premier League,2,1.0,0.5,10
-Fulham,all,Premier League,7,1.0,1.4285714285714286,10
-Getafe,0,La Liga,4,0.5,1.25,10
+Fulham,2,Premier League,2,1.5,1.0,10
+Fulham,all,Premier League,7,1.1428571428571428,1.5714285714285714,10
+Getafe,0,La Liga,5,0.4,1.0,10
 Getafe,1,La Liga,3,2.0,1.0,10
 Getafe,2,La Liga,2,1.5,1.0,10
-Getafe,all,La Liga,9,1.2222222222222223,1.1111111111111112,10
+Getafe,all,La Liga,10,1.1,1.0,10
 Girona,0,La Liga,3,1.0,1.0,10
 Girona,1,La Liga,1,2.0,2.0,10
-Girona,2,La Liga,5,2.2,1.6,10
-Girona,all,La Liga,9,1.7777777777777777,1.4444444444444444,10
-Hertha,0,Bundesliga,6,0.5,2.5,10
+Girona,2,La Liga,6,2.1666666666666665,1.3333333333333333,10
+Girona,all,La Liga,10,1.8,1.3,10
+Hertha,0,Bundesliga,5,0.6,2.6,10
 Hertha,1,Bundesliga,4,2.0,1.25,10
-Hertha,all,Bundesliga,10,1.1,2.0,10
-Hoffenheim,0,Bundesliga,3,0.6666666666666666,2.0,10
-Hoffenheim,1,Bundesliga,4,0.75,1.75,10
+Hertha,2,Bundesliga,1,2.0,5.0,10
+Hertha,all,Bundesliga,10,1.3,2.3,10
+Hoffenheim,0,Bundesliga,4,0.75,1.75,10
+Hoffenheim,1,Bundesliga,3,0.6666666666666666,1.0,10
 Hoffenheim,2,Bundesliga,3,2.3333333333333335,2.0,10
-Hoffenheim,all,Bundesliga,10,1.2,1.9,10
+Hoffenheim,all,Bundesliga,10,1.2,1.6,10
 Inter,0,Serie A,2,0.5,0.5,10
-Inter,1,Serie A,3,1.0,1.0,10
-Inter,2,Serie A,5,1.2,0.8,10
-Inter,all,Serie A,10,1.0,0.8,10
+Inter,1,Serie A,4,0.75,1.0,10
+Inter,2,Serie A,4,1.0,0.75,10
+Inter,all,Serie A,10,0.8,0.8,10
 Juventus,0,Serie A,3,0.6666666666666666,1.0,10
-Juventus,1,Serie A,3,1.6666666666666667,1.3333333333333333,10
+Juventus,1,Serie A,3,1.6666666666666667,1.0,10
 Juventus,2,Serie A,4,2.5,0.5,10
-Juventus,all,Serie A,10,1.7,0.9,10
+Juventus,all,Serie A,10,1.7,0.8,10
 Lazio,0,Serie A,4,1.0,0.75,10
-Lazio,1,Serie A,3,1.0,0.3333333333333333,10
-Lazio,2,Serie A,3,1.3333333333333333,0.3333333333333333,10
-Lazio,all,Serie A,10,1.1,0.5,10
+Lazio,1,Serie A,2,1.0,0.0,10
+Lazio,2,Serie A,4,1.75,0.25,10
+Lazio,all,Serie A,10,1.3,0.4,10
 Lecce,0,Serie A,4,1.0,1.5,10
 Lecce,1,Serie A,4,0.0,1.25,10
-Lecce,2,Serie A,2,1.5,1.0,10
-Lecce,all,Serie A,10,0.7,1.3,10
-Leeds,0,Premier League,3,1.0,2.6666666666666665,10
-Leeds,1,Premier League,3,1.6666666666666667,2.6666666666666665,10
+Lecce,2,Serie A,2,1.5,0.5,10
+Lecce,all,Serie A,10,0.7,1.2,10
+Leeds,0,Premier League,2,1.5,3.0,10
+Leeds,1,Premier League,4,1.5,3.5,10
 Leeds,2,Premier League,2,0.5,0.5,10
-Leeds,all,Premier League,8,1.125,2.125,10
-Leicester,0,Premier League,3,1.3333333333333333,1.6666666666666667,10
+Leeds,all,Premier League,8,1.25,2.625,10
+Leicester,0,Premier League,3,0.3333333333333333,2.3333333333333335,10
 Leicester,1,Premier League,4,0.75,1.75,10
 Leicester,2,Premier League,1,0.0,1.0,10
-Leicester,all,Premier League,8,0.875,1.625,10
-Leverkusen,0,Bundesliga,4,1.5,1.25,10
-Leverkusen,1,Bundesliga,4,2.0,1.75,10
+Leicester,all,Premier League,8,0.5,1.875,10
+Leverkusen,0,Bundesliga,3,2.0,1.0,10
+Leverkusen,1,Bundesliga,5,1.6,1.4,10
 Leverkusen,2,Bundesliga,2,3.5,0.5,10
-Leverkusen,all,Bundesliga,10,2.1,1.3,10
+Leverkusen,all,Bundesliga,10,2.1,1.1,10
 Liverpool,0,Premier League,4,3.0,1.5,10
 Liverpool,1,Premier League,3,0.0,0.3333333333333333,10
-Liverpool,2,Premier League,1,2.0,0.0,10
-Liverpool,all,Premier League,8,1.75,0.875,10
-M'gladbach,0,Bundesliga,3,1.0,1.6666666666666667,10
-M'gladbach,1,Bundesliga,5,1.6,1.4,10
+Liverpool,2,Premier League,1,6.0,1.0,10
+Liverpool,all,Premier League,8,2.25,1.0,10
+M'gladbach,0,Bundesliga,4,1.0,1.5,10
+M'gladbach,1,Bundesliga,4,1.0,1.5,10
 M'gladbach,2,Bundesliga,2,0.5,2.0,10
-M'gladbach,all,Bundesliga,10,1.2,1.6,10
+M'gladbach,all,Bundesliga,10,0.9,1.6,10
 Mainz,0,Bundesliga,4,2.0,1.25,10
-Mainz,1,Bundesliga,4,2.5,0.75,10
-Mainz,2,Bundesliga,2,3.0,1.5,10
-Mainz,all,Bundesliga,10,2.4,1.1,10
+Mainz,1,Bundesliga,5,2.2,0.8,10
+Mainz,2,Bundesliga,1,1.0,1.0,10
+Mainz,all,Bundesliga,10,2.0,1.0,10
 Mallorca,0,La Liga,4,1.5,1.0,10
-Mallorca,1,La Liga,3,1.0,1.6666666666666667,10
+Mallorca,1,La Liga,4,1.0,1.25,10
 Mallorca,2,La Liga,2,0.5,1.5,10
-Mallorca,all,La Liga,9,1.1111111111111112,1.3333333333333333,10
-Man City,0,Premier League,2,2.5,0.5,10
+Mallorca,all,La Liga,10,1.1,1.2,10
+Man City,0,Premier League,1,2.0,0.0,10
 Man City,1,Premier League,3,3.0,0.6666666666666666,10
-Man City,2,Premier League,2,2.5,1.0,10
+Man City,2,Premier League,3,2.6666666666666665,1.0,10
 Man City,all,Premier League,7,2.7142857142857144,0.7142857142857143,10
 Man United,0,Premier League,1,0.0,2.0,10
 Man United,1,Premier League,2,0.5,3.5,10
 Man United,2,Premier League,4,1.75,0.0,10
 Man United,all,Premier League,7,1.1428571428571428,1.2857142857142858,10
 Milan,0,Serie A,3,2.0,0.3333333333333333,10
-Milan,1,Serie A,6,1.0,1.6666666666666667,10
+Milan,1,Serie A,6,0.8333333333333334,1.0,10
 Milan,2,Serie A,1,1.0,1.0,10
-Milan,all,Serie A,10,1.3,1.2,10
-Monza,0,Serie A,3,0.6666666666666666,1.0,10
+Milan,all,Serie A,10,1.2,0.8,10
+Monza,0,Serie A,3,0.3333333333333333,1.0,10
 Monza,1,Serie A,3,1.6666666666666667,1.0,10
 Monza,2,Serie A,4,1.0,1.75,10
-Monza,all,Serie A,10,1.1,1.3,10
-Napoli,0,Serie A,4,1.0,1.5,10
+Monza,all,Serie A,10,1.0,1.3,10
+Napoli,0,Serie A,3,0.6666666666666666,1.6666666666666667,10
 Napoli,1,Serie A,3,2.6666666666666665,0.0,10
-Napoli,2,Serie A,3,2.6666666666666665,0.3333333333333333,10
-Napoli,all,Serie A,10,2.0,0.7,10
-Newcastle,0,Premier League,2,1.0,1.0,10
-Newcastle,1,Premier League,4,1.25,1.25,10
+Napoli,2,Serie A,4,2.0,0.25,10
+Napoli,all,Serie A,10,1.8,0.6,10
+Newcastle,0,Premier League,3,0.6666666666666666,1.6666666666666667,10
+Newcastle,1,Premier League,3,1.3333333333333333,1.3333333333333333,10
 Newcastle,2,Premier League,2,3.5,1.0,10
-Newcastle,all,Premier League,8,1.75,1.125,10
-Nott'm Forest,0,Premier League,4,0.75,2.0,10
-Nott'm Forest,1,Premier League,2,0.5,1.5,10
+Newcastle,all,Premier League,8,1.625,1.375,10
+Nott'm Forest,0,Premier League,5,0.6,2.0,10
+Nott'm Forest,1,Premier League,1,1.0,1.0,10
 Nott'm Forest,2,Premier League,2,1.0,3.0,10
 Nott'm Forest,all,Premier League,8,0.75,2.125,10
 Osasuna,0,La Liga,2,0.0,2.5,10
-Osasuna,1,La Liga,4,0.75,0.5,10
+Osasuna,1,La Liga,5,0.8,0.8,10
 Osasuna,2,La Liga,3,1.0,1.0,10
-Osasuna,all,La Liga,9,0.6666666666666666,1.1111111111111112,10
+Osasuna,all,La Liga,10,0.7,1.2,10
 RB Leipzig,0,Bundesliga,3,1.3333333333333333,1.6666666666666667,10
-RB Leipzig,1,Bundesliga,4,1.5,0.75,10
-RB Leipzig,2,Bundesliga,3,1.0,0.6666666666666666,10
-RB Leipzig,all,Bundesliga,10,1.3,1.0,10
+RB Leipzig,1,Bundesliga,5,1.8,1.0,10
+RB Leipzig,2,Bundesliga,2,0.5,0.5,10
+RB Leipzig,all,Bundesliga,10,1.4,1.1,10
 Real Madrid,0,La Liga,4,1.0,1.5,10
 Real Madrid,1,La Liga,3,2.6666666666666665,0.3333333333333333,10
-Real Madrid,2,La Liga,2,3.5,0.5,10
-Real Madrid,all,La Liga,9,2.111111111111111,0.8888888888888888,10
-Roma,0,Serie A,3,0.6666666666666666,1.0,10
-Roma,1,Serie A,3,2.0,1.3333333333333333,10
+Real Madrid,2,La Liga,3,3.0,0.3333333333333333,10
+Real Madrid,all,La Liga,10,2.1,0.8,10
+Roma,0,Serie A,2,0.5,0.5,10
+Roma,1,Serie A,4,2.25,1.0,10
 Roma,2,Serie A,4,1.5,0.75,10
-Roma,all,Serie A,10,1.4,1.0,10
+Roma,all,Serie A,10,1.6,0.8,10
 Salernitana,0,Serie A,4,0.5,1.75,10
-Salernitana,1,Serie A,2,2.5,1.0,10
-Salernitana,2,Serie A,4,0.75,0.75,10
-Salernitana,all,Serie A,10,1.0,1.2,10
-Sampdoria,0,Serie A,5,0.4,2.0,10
+Salernitana,1,Serie A,3,2.0,1.0,10
+Salernitana,2,Serie A,3,0.3333333333333333,0.6666666666666666,10
+Salernitana,all,Serie A,10,0.9,1.2,10
+Sampdoria,0,Serie A,4,0.5,2.0,10
 Sampdoria,1,Serie A,2,1.5,2.0,10
-Sampdoria,2,Serie A,3,1.6666666666666667,1.3333333333333333,10
-Sampdoria,all,Serie A,10,1.0,1.8,10
-Sassuolo,0,Serie A,4,2.5,1.75,10
+Sampdoria,2,Serie A,4,1.5,1.25,10
+Sampdoria,all,Serie A,10,1.1,1.7,10
+Sassuolo,0,Serie A,4,1.5,1.25,10
 Sassuolo,1,Serie A,2,1.5,1.5,10
 Sassuolo,2,Serie A,4,1.5,1.0,10
-Sassuolo,all,Serie A,10,1.9,1.4,10
+Sassuolo,all,Serie A,10,1.5,1.2,10
 Schalke 04,0,Bundesliga,3,0.6666666666666666,1.6666666666666667,10
-Schalke 04,1,Bundesliga,5,0.2,0.6,10
-Schalke 04,2,Bundesliga,2,2.0,0.5,10
-Schalke 04,all,Bundesliga,10,0.7,0.9,10
+Schalke 04,1,Bundesliga,4,0.25,0.75,10
+Schalke 04,2,Bundesliga,3,3.0,1.0,10
+Schalke 04,all,Bundesliga,10,1.2,1.1,10
 Sevilla,0,La Liga,2,0.5,4.5,10
 Sevilla,1,La Liga,4,1.75,1.5,10
-Sevilla,2,La Liga,3,1.3333333333333333,1.0,10
-Sevilla,all,La Liga,9,1.3333333333333333,2.0,10
-Sociedad,0,La Liga,1,0.0,2.0,10
+Sevilla,2,La Liga,4,1.5,0.75,10
+Sevilla,all,La Liga,10,1.4,1.8,10
+Sociedad,0,La Liga,2,0.0,2.0,10
 Sociedad,1,La Liga,3,0.6666666666666666,1.0,10
 Sociedad,2,La Liga,5,1.4,0.6,10
-Sociedad,all,La Liga,9,1.0,0.8888888888888888,10
+Sociedad,all,La Liga,10,0.9,1.0,10
 Southampton,0,Premier League,3,1.3333333333333333,2.3333333333333335,10
-Southampton,1,Premier League,2,1.0,1.0,10
+Southampton,1,Premier League,2,0.5,1.0,10
 Southampton,2,Premier League,3,0.3333333333333333,0.6666666666666666,10
-Southampton,all,Premier League,8,0.875,1.375,10
-Spezia,0,Serie A,3,0.6666666666666666,2.0,10
-Spezia,1,Serie A,5,1.0,1.6,10
+Southampton,all,Premier League,8,0.75,1.375,10
+Spezia,0,Serie A,4,0.5,2.25,10
+Spezia,1,Serie A,4,1.25,1.5,10
 Spezia,2,Serie A,2,0.5,0.5,10
-Spezia,all,Serie A,10,0.8,1.5,10
-Stuttgart,0,Bundesliga,5,0.8,2.0,10
+Spezia,all,Serie A,10,0.8,1.6,10
+Stuttgart,0,Bundesliga,5,1.2,2.2,10
 Stuttgart,1,Bundesliga,3,1.0,1.0,10
 Stuttgart,2,Bundesliga,2,2.0,2.0,10
-Stuttgart,all,Bundesliga,10,1.1,1.7,10
+Stuttgart,all,Bundesliga,10,1.3,1.8,10
 Torino,0,Serie A,4,0.5,2.5,10
-Torino,1,Serie A,4,1.25,0.75,10
-Torino,2,Serie A,2,2.0,1.0,10
-Torino,all,Serie A,10,1.1,1.5,10
+Torino,1,Serie A,3,1.0,0.3333333333333333,10
+Torino,2,Serie A,3,1.6666666666666667,1.0,10
+Torino,all,Serie A,10,1.0,1.4,10
 Tottenham,0,Premier League,1,2.0,1.0,10
-Tottenham,1,Premier League,2,1.0,0.5,10
-Tottenham,2,Premier League,5,2.0,1.8,10
-Tottenham,all,Premier League,8,1.75,1.375,10
-Udinese,0,Serie A,3,1.3333333333333333,1.3333333333333333,10
+Tottenham,1,Premier League,3,1.3333333333333333,1.3333333333333333,10
+Tottenham,2,Premier League,4,2.25,1.25,10
+Tottenham,all,Premier League,8,1.875,1.25,10
+Udinese,0,Serie A,4,1.0,1.75,10
 Udinese,1,Serie A,5,1.0,1.6,10
-Udinese,2,Serie A,2,1.5,1.5,10
-Udinese,all,Serie A,10,1.2,1.5,10
+Udinese,2,Serie A,1,2.0,2.0,10
+Udinese,all,Serie A,10,1.1,1.7,10
 Union Berlin,0,Bundesliga,4,1.25,1.5,10
 Union Berlin,1,Bundesliga,3,1.0,0.6666666666666666,10
-Union Berlin,2,Bundesliga,3,1.6666666666666667,0.0,10
-Union Berlin,all,Bundesliga,10,1.3,0.8,10
+Union Berlin,2,Bundesliga,3,1.3333333333333333,0.3333333333333333,10
+Union Berlin,all,Bundesliga,10,1.2,0.9,10
 Valencia,0,La Liga,4,0.5,1.5,10
-Valencia,1,La Liga,3,0.6666666666666666,0.6666666666666666,10
+Valencia,1,La Liga,4,0.5,1.0,10
 Valencia,2,La Liga,2,0.5,1.5,10
-Valencia,all,La Liga,9,0.5555555555555556,1.2222222222222223,10
-Valladolid,0,La Liga,4,0.75,2.75,10
+Valencia,all,La Liga,10,0.5,1.3,10
+Valladolid,0,La Liga,5,1.0,2.4,10
 Valladolid,1,La Liga,3,1.0,2.0,10
 Valladolid,2,La Liga,2,1.5,1.0,10
-Valladolid,all,La Liga,9,1.0,2.111111111111111,10
+Valladolid,all,La Liga,10,1.1,2.0,10
 Vallecano,0,La Liga,2,0.5,1.0,10
-Vallecano,1,La Liga,3,1.0,2.0,10
+Vallecano,1,La Liga,4,1.25,1.75,10
 Vallecano,2,La Liga,4,1.0,0.75,10
-Vallecano,all,La Liga,9,0.8888888888888888,1.2222222222222223,10
-Verona,0,Serie A,3,0.3333333333333333,1.0,10
-Verona,1,Serie A,4,1.0,1.5,10
+Vallecano,all,La Liga,10,1.0,1.2,10
+Verona,0,Serie A,4,0.25,0.75,10
+Verona,1,Serie A,3,1.0,1.6666666666666667,10
 Verona,2,Serie A,3,0.6666666666666666,1.0,10
-Verona,all,Serie A,10,0.7,1.2,10
+Verona,all,Serie A,10,0.6,1.1,10
 Villarreal,0,La Liga,4,1.5,1.0,10
-Villarreal,1,La Liga,2,2.5,2.0,10
+Villarreal,1,La Liga,3,2.0,2.0,10
 Villarreal,2,La Liga,3,1.6666666666666667,1.3333333333333333,10
-Villarreal,all,La Liga,9,1.7777777777777777,1.3333333333333333,10
-Werder Bremen,0,Bundesliga,3,0.6666666666666666,2.3333333333333335,10
-Werder Bremen,1,Bundesliga,5,1.6,1.8,10
+Villarreal,all,La Liga,10,1.7,1.4,10
+Werder Bremen,0,Bundesliga,4,0.75,2.25,10
+Werder Bremen,1,Bundesliga,4,1.5,2.0,10
 Werder Bremen,2,Bundesliga,2,2.5,0.0,10
-Werder Bremen,all,Bundesliga,10,1.5,1.6,10
-West Ham,0,Premier League,4,0.5,3.0,10
-West Ham,1,Premier League,2,1.0,0.5,10
+Werder Bremen,all,Bundesliga,10,1.4,1.7,10
+West Ham,0,Premier League,5,0.8,2.8,10
+West Ham,1,Premier League,1,1.0,0.0,10
 West Ham,2,Premier League,2,2.5,0.0,10
-West Ham,all,Premier League,8,1.125,1.625,10
-Wolfsburg,0,Bundesliga,4,1.25,2.5,10
-Wolfsburg,1,Bundesliga,4,1.25,1.5,10
+West Ham,all,Premier League,8,1.25,1.75,10
+Wolfsburg,0,Bundesliga,5,1.0,2.0,10
+Wolfsburg,1,Bundesliga,3,1.3333333333333333,1.3333333333333333,10
 Wolfsburg,2,Bundesliga,2,0.5,0.0,10
-Wolfsburg,all,Bundesliga,10,1.1,1.6,10
+Wolfsburg,all,Bundesliga,10,1.0,1.4,10
 Wolves,0,Premier League,2,1.0,1.0,10
-Wolves,1,Premier League,3,0.6666666666666666,0.6666666666666666,10
-Wolves,2,Premier League,3,1.6666666666666667,2.0,10
-Wolves,all,Premier League,8,1.125,1.25,10
+Wolves,1,Premier League,4,1.0,0.5,10
+Wolves,2,Premier League,2,1.5,2.5,10
+Wolves,all,Premier League,8,1.125,1.125,10
